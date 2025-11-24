@@ -1,0 +1,507 @@
+/* konténer beállítása */
+.items-container {
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+  gap: 20px;
+  box-sizing: border-box;
+  justify-content: center;
+  justify-items: center;
+}
+
+/* kártyák dizájnja */
+.item-card {
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  padding: 16px;
+  box-sizing: border-box;
+  transition: transform 0.2s ease-in-out;
+  
+}
+
+/* hover effekt */
+.item-card:hover {
+  transform: scale(1.03);
+}
+
+/* kép középre igazítása */
+.item-card img {
+  display: block;
+  width: 290px;
+  height: 194px;
+  margin: 0 auto 12px auto;
+  border-radius: 8px;
+}
+
+/* cím */
+.item-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  text-align: center;
+  margin: 8px 0;
+  color: #333;
+}
+
+/* szöveg */
+.item-text {
+  flex-grow: 1;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #555;
+  text-align: justify;
+}
+.item-text:empty {
+  display: none;
+}
+
+/* Szűrő */
+.filter-container {
+  max-width: 1500px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+  gap: 20px;
+  box-sizing: border-box;
+  justify-content: center;
+  justify-items: center;
+}
+.form-group {
+  width: 300px;
+  margin-bottom: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  padding-top: 0px;
+  box-sizing: border-box;
+}
+.form-group label {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #333;
+}
+.form-group select {
+  padding: 10px 12px;
+  font-size: 0.95rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: rgba(100, 100, 111, 0.1) 0px 2px 6px 0px;
+  cursor: pointer;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.form-group select:hover,
+.form-group select:focus {
+  border-color: #999;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 4px 8px 0px;
+  outline: none;
+}
+
+/* kategóriák előtagjai */
+
+.description::before {
+  content: "Rövid leírás: ";
+}
+.categoriesquality::before {
+  content: "Minőség: ";
+}
+.categorieslevel::before {
+  content: "Levél: ";
+}
+.categoriesnoves::before {
+  content: "Növés sebessége: ";
+}
+.categoriesmeret::before {
+  content: "Méret: ";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Modal */
+#item-modal {
+  display: flex;
+  opacity: 0;
+  position: fixed;
+  flex-direction: row;
+  flex-wrap: wrap;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%) scale(0.1);
+  width: 90%;
+  max-width: 1200px;
+  max-height: 80vh;
+  background: transparent; /* fontos: ne sötétítsen */
+  
+  z-index: 9998;
+  overflow-y: auto;
+  justify-content: center;
+  align-items: center;
+  /*padding: 20px;            ez kulazza el a sarkokat*/
+  pointer-events: none;
+  transition: opacity 0.3s ease, transform 0.5s ease;
+  border-radius: 10px;
+}
+#item-modal.active {
+  opacity: 1;
+  transform: translate(-50%, -50%) scale(1);
+  pointer-events: all;
+  overflow: hidden;
+}
+
+/* Modal tartalom */
+#item-modal .modal-content {
+  background-color: #fff;
+  border-radius: 8px;
+  max-height: 80vh;
+  overflow-y: auto;
+  /*overflow: hidden;*/
+  position: relative;
+  width: 90%;
+  max-width: 1200px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+
+}
+
+.modal img {
+  width: 60vw;
+  max-width: 600px;
+  max-height: 80vh;
+  height: auto;
+  border-radius: 8px;  
+  width: 100%;
+  height: auto;
+  border-radius: inherit;
+  z-index: 9998;
+}
+
+/* Bezáró X */
+#modal-close {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 32px;
+  cursor: pointer;
+  z-index: 10000;
+}
+
+.main-content {
+  background-color: #fff;
+  flex: 1;
+  /*margin-top: 10px;*/
+  z-index: 9999;
+  margin-left: -7px;
+  padding: 15px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  font-size: 1.95rem;
+  line-height: 1.5;
+}
+.header-content {
+  display: grid;
+  grid-template-columns: 600px 1fr;
+  grid-template-rows: auto;
+  overflow-y: auto;
+  
+  /*
+  display: flex;
+  align-content: space-between;
+  flex: 1;
+  /*margin-left: 20px;*/
+}
+.main-content p {
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+/* Overlay */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0);
+  opacity: 0;
+  pointer-events: none;
+  z-index: 9997;
+  transition: opacity 0.3s ease, backdrop-filter 0.3s ease;
+}
+.overlay.active {
+  opacity: 0.75; /* erősebb sötétítés */
+  background: rgba(0, 0, 0, 0.75);
+  backdrop-filter: blur(2px); /* háttér homály */
+  pointer-events: all;
+}
+
+/* Scroll stabilizálás */
+body {
+  scrollbar-gutter: stable both-edges; /* fenntartja a helyet a scrollbar-nak */
+}
+body.no-scroll {
+  overflow: hidden;
+  padding-right:16px;
+  /*padding-right: var(--scrollbar-width, 17px); /* átlagos scrollbar ~17px */
+}
+
+
+.maps-container {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+}
+.iframe {
+  width: 50vw; 
+  height: 35vw;
+  border: 0;
+}
+
+
+@media (max-width: 1250px) {
+  .img-container {
+    margin: 0px;
+    padding: 0px;
+    border-radius: 0px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 0px;
+  }
+  .header-content {
+    /*padding: 15px; */
+    display: grid;
+    grid-template-columns: 60% auto;
+    grid-template-rows: 1fr;
+  }
+  .main-content p {
+    font-size: 1.4vw;
+    line-height: 1.7vw;
+  }
+} 
+
+@media (max-width: 991px) {
+  #item-modal .modal-content {
+    margin-left: 12px;
+    background-color: #fff;
+    padding: 0px;
+    border-radius: 8px;
+    max-height: auto;
+    position: relative;
+    width: 90%;
+    max-width: 1200px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    border: 0px;
+  }
+  .main-content p {
+    font-size: 0.98rem;
+    line-height: 1.5;
+  }
+  .header-content {
+    /*padding: 15px; */
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto auto;
+  }
+  .img-container {
+    width: 100%;
+    max-width: 100%;
+    text-align: center;
+    /*padding-top: 10px;*/
+    /*padding-left: 12px;*/
+    /*margin-bottom: 15px;*/
+    border-radius: 0px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 0px;
+  }
+  .modal img {
+    width:100%;
+    max-width: 100%;
+    height: auto;
+    border-top-right-radius: 0px;
+    aspect-ratio: 16/9;/*16/9*/
+  }
+  .header-content > :nth-child(-n+1) {
+    justify-self: center; /* vízszintesen középre */
+  }
+  #modal-close {
+    top: 10px;
+    right: 10px;
+    font-size: 40px;
+    color: #f0f0f0;
+  }
+  .main-content {
+    background-color: #fff;
+    margin: 0px;
+    margin-top: -7px;
+    padding: 20px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 0px;
+    /*border-top: 2px solid #888;*/
+  }
+}
+
+@media (max-width: 479px) {
+  .iframe {
+    max-width: 300px;
+    width: auto; 
+    height: auto;
+    max-height: 210px;
+  }
+  .modal img {
+    width:100%;
+    max-width: 100%;
+    height: auto;
+    border-top-right-radius: 0px;
+    aspect-ratio: 5/4;/*3/4 4/3 16/9*/
+  }
+}
+
+/* Teljes scrollbar */
+.modal-content::-webkit-scrollbar {
+  width: 12px;       /* scrollbar szélessége */
+}
+
+/* Track (a scrollbar háttere) */
+.modal-content::-webkit-scrollbar-track {
+  background: #f0f0f0;
+  border-radius: 10px;
+}
+
+/* Thumb (a mozgatósáv) */
+.modal-content::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 10px;   /* lekerekítés */
+  border: 3px solid #f0f0f0; /* körbe egy kis szín a trackből */
+}
+
+/* Hover effekt a thumb-ra */
+.modal-content::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+/* === ÚJ: 991px és fölött a scrollbar KIZÁRÓLAG a .main-content-en jelenjen meg (ha kell) === */
+@media (min-width: 991px) {
+  /* a .main-content-en engedélyezzük a belső görgetést és korlátozzuk a magasságot */
+  .main-content {
+    max-height: 80vh;
+    overflow-y: auto;
+  }
+
+  /* a modal-content görgetését letiltjuk (így a scrollbar csak a main-contenten jelenik meg) */
+  #item-modal .modal-content {
+    overflow-y: visible;
+  }
+
+  /* scrollbar stílusok a .main-content-re */
+  .main-content::-webkit-scrollbar {
+    width: 12px;
+  }
+  .main-content::-webkit-scrollbar-track {
+    background: #f0f0f0;
+    border-radius: 10px;
+  }
+  .main-content::-webkit-scrollbar-thumb {
+    background-color: #888;
+    border-radius: 10px;
+    border: 3px solid #f0f0f0;
+  }
+  .main-content::-webkit-scrollbar-thumb:hover {
+    background-color: #555;
+  }
+}
+
+.all-filters-container{
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+.all-filters-button{
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: 8px;
+  margin-top: 1.25rem;
+  min-height: 44px;
+  height: 100%;
+}
+
+.displayhidden{
+  display: none;
+}
+.search-button-container{
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  max-width: 1280px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+.search-button-content{
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  
+  display: flex;
+  justify-content: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 16px;
+  margin-bottom: 16px;
+  
+}
+.search-button-field {
+  padding: 1px 15px;
+  margin-top: 25px;
+  margin-left: 0;
+  margin-right: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  border: 0px;
+  min-height: 44px;
+}
+.search-button{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 1rem;
+  min-width: 40px;
+  margin-top: 25px;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  min-height: 44px;
+  height: 44px;
+}
+.search-button-field:focus  {
+  outline: none;
+}
+
+/* media kell 620 alatt a kevesebb tobb filter gombra */
+@media (max-width: 620px) {
+  .all-filters-button{
+    font-size: 0.9rem;
+    padding: 8px 10px;
+  }
+}
