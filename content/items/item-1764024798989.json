@@ -1,0 +1,32 @@
+{
+  "ID": "midqthhg14q4",
+  "title": "Tömött pfitzer boróka",
+  "latin": "Juniperus media ’Pfitzeriana Compacta’",
+  "description": "Juniperus media ’Pfitzeriana Compacta’: Sűrű ágrendszerű, kompakt növekedésű elterülő boróka, amely kiváló talajtakaró kisebb kertekben is.",
+  "descriptionall": "A 'Pfitzeriana Compacta' az alapfaj kisebb termetű, sűrűbb ágrendszerű változata. Szürkészöld lombozata és lapos, elterülő növekedése megmaradt, de helyigénye kisebb, így házikertekbe is könnyebben beilleszthető. Sűrűsége miatt jobban takarja a talajt.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Talajtakarók",
+  "itemprices": [
+    "2400",
+    "3300",
+    "3600",
+    "4200"
+  ],
+  "itemsizes": [
+    "40-60",
+    "60-80",
+    "80-100",
+    "100-125"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos fekvést kedvel.",
+  "itemground": "Igénytelen, átlagos kerti talaj megfelelő számára.",
+  "itemusage": "Talajtakarónak, rézsűre, alacsonyabb térhatárolónak.",
+  "itemlabels": "Juniperus media, Compacta, tömött boróka, talajtakaró, szürkészöld, örökzöld, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024798157-almafa.jpg"
+}
