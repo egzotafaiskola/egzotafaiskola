@@ -1,0 +1,36 @@
+{
+  "ID": "midnetkamyqz",
+  "title": "Leylandi ciprus",
+  "latin": "Cupressocyparis x leylandii",
+  "description": "Cupressocyparis x leylandii: Rendkívül gyors növekedésű, ellenálló örökzöld, amely ideális magas, zárt sövények kialakítására.",
+  "descriptionall": "A Leylandi ciprus az egyik leggyorsabban növő örökzöld fajta, amely kiválóan alkalmas magas, zárt sövények kialakítására. Lombozata élénkzöld, hajtásai sűrűn állnak. Rendkívüli növekedési erélye miatt rövid idő alatt biztosít belátásgátlást. Évente akár 80–100 cm-t is nőhet. Metszés nélkül 15-20 méteres fává fejlődik. Jól tűri a metszést és a mostohább városi körülményeket is.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "3200",
+    "3500",
+    "4100",
+    "4900",
+    "6000",
+    "7000"
+  ],
+  "itemsizes": [
+    "100-125",
+    "125-150",
+    "150-175",
+    "175-200",
+    "200-225",
+    "225-250"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos és félárnyékos helyen is jól érzi magát.",
+  "itemground": "Talajban nem válogatós, a szélsőséges talajviszonyokat is jól tolerálja, de a pangó vizet nem szereti.",
+  "itemusage": "Elsősorban nyírott sövénynek ültetik telekhatárolásra, szélfogónak és takarásra.",
+  "itemlabels": "Cupressocyparis x leylandii, Leylandi ciprus, gyors növekedés, sövénynövény, örökzöld, belátásgátló, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764019075124-almafa.jpg"
+}
