@@ -1,6 +1,6 @@
 {
-  "ID": "midk1a90tr3x",
-  "title": "Törzses oregoni hamisciprus",
+  "ID": "midk20v2ukp0",
+  "title": "Törzses oregoni hamisciprus 'Stardust'",
   "latin": "Chamaecyparis lawsoniana 'Stardust' (Törzses fa)",
   "description": "Chamaecyparis lawsoniana 'Stardust' törzses fa: Elegáns, törzsre nevelt sárga lombú örökzöld, amely exkluzív dísze lehet kerteknek és teraszoknak.",
   "descriptionall": ": A 'Stardust' hamisciprus törzses változata egy elegáns, kis fává nevelt örökzöld különlegesség. A növényt egyenes törzsre oltották vagy metszették, így a jellegzetes kén-sárga, legyezőszerű lombozat egy gömb vagy kúp alakú koronát alkot a törzs tetején. Exkluzív megjelenésű növény, amely kiemelt helyet érdemel a kertben. A törzs magassága nem változik, csak vastagszik, a korona mérete pedig metszéssel szabályozható.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "Szoliterek",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "6400"
   ],
@@ -22,5 +22,5 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő, enyhén savanyú talajt igényel.",
   "itemusage": "Kiemelt szoliterként előkertekbe, bejáratok mellé, vagy dézsás növényként teraszokra. Modern és formális kertekbe is kiváló.",
   "itemlabels": "Chamaecyparis lawsoniana, Stardust, törzses fenyő, sárga lombozat, szoliter, különlegesség, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764013404717-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764013439200-edited-1764013429773.png"
 }
