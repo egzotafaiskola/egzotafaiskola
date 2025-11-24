@@ -1,0 +1,30 @@
+{
+  "ID": "midp45awr25k",
+  "title": "Oszlopos európai ciprus",
+  "latin": "Cupressus sempervirens 'Pyramidalis'",
+  "description": "Cupressus sempervirens 'Pyramidalis': Karcsú, sötétzöld oszlopos ciprus, amely mediterrán hangulatot és eleganciát varázsol a kertbe.",
+  "descriptionall": "Az oszlopos európai ciprus, vagy más néven toszkán ciprus, a mediterrán tájak jellegzetes növénye. Koronája nagyon karcsú, tűszerűen felfelé törő, oszlopos. Lombozata sötétzöld, pikkelylevelei sűrűn borítják a hajtásokat. Közepes vagy gyors növekedésű, idővel 10-15 méter magasra is megnőhet, miközben szélessége alig változik. Különleges, építészeti hatású növény, amely eleganciát és déli hangulatot kölcsönöz a kertnek.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Szoliterek",
+  "itemprices": [
+    "6000",
+    "6600",
+    "7500"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Kifejezetten napos, meleg helyet igényel.",
+  "itemground": "Jó vízáteresztő, szárazabb, meszes talajokon is jól érzi magát. A pangó vizet nem tűri.",
+  "itemusage": "Kiemelt szoliterként, utak mellé sorfának, vagy mediterrán hangulatú kertek hangsúlyos elemeként.",
+  "itemlabels": ": Cupressus sempervirens, Pyramidalis, európai ciprus, toszkán ciprus, oszlopos örökzöld, mediterrán növény, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764021936366-almafa.jpg"
+}
