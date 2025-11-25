@@ -219,8 +219,8 @@
             <h3 class="item-title">${itemData.title || "Névtelen elem"}</h3>
             <p class="item-latin">${itemData.latin || ""}</p>
             <p class="item-text description">${itemData.description || ""}</p>
-            <p><strong>Kategória:</strong> ${itemData.category || ""}</p>
-            <p class="item-text rendes-kategoriak"><strong>Kategória(rendes):</strong> ${itemData.selectedCategoryFromDropdown || ""}</p>
+            
+            <p class="item-text rendes-kategoriak"><strong>Kategória:</strong> ${itemData.selectedCategoryFromDropdown || ""}</p>
             <p class="item-text categoriesquality">${itemData.categoriesquality || ""}</p>
             <p class="item-text categorieslevel">${itemData.categorieslevel || ""}</p>
             <p class="item-text categoriesnoves">${itemData.categoriesnoves || ""}</p>
@@ -242,7 +242,7 @@
       console.error("Hiba:", err);
     }
   }
-
+//<p><strong>Kategória:</strong> ${itemData.category || ""}</p>
   // Betöltéskor lefut
   loadItems();
 </script>
