@@ -108,10 +108,11 @@
 }
 
 /* kategóriák előtagjai */
-
+/*
 .description::before {
   content: "Rövid leírás: ";
 }
+*/
 .categoriesquality::before {
   content: "Minőség: ";
 }
@@ -504,4 +505,5 @@ body.no-scroll {
     font-size: 0.9rem;
     padding: 8px 10px;
   }
+
 }
