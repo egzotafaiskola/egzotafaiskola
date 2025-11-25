@@ -1,5 +1,5 @@
 {
-  "ID": "midoua94teku",
+  "ID": "mieukqohap6v",
   "title": "Leylandi ciprus 'Oger' (Nyírt)",
   "latin": "Cupressocyparis leylandii 'Oger' (Nyírt)",
   "description": "Cupressocyparis leylandii 'Oger' nyírt: Sűrű, mélyzöld lombozatú, előnevelt és nyírt örökzöld, amely azonnali megoldást kínál sövénytelepítéshez.",
@@ -8,14 +8,15 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Sövénynövények",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "3100",
     "3500",
     "3800",
     "4400",
     "5200",
-    "6000"
+    "6000",
+    "7800"
   ],
   "itemsizes": [
     "80-100",
@@ -23,7 +24,8 @@
     "125-150",
     "150-175",
     "175-200",
-    "200-225"
+    "200-225",
+    "225+"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
@@ -32,5 +34,5 @@
   "itemground": "Nem válogatós, bírja a szárazabb időszakokat is begyökeresedés után.",
   "itemusage": "Klasszikus nyírott sövénynek, térhatárolónak, szélfogónak. A nyírt kivitel megkönnyíti a kezdeti formázást.",
   "itemlabels": "Cupressocyparis leylandii, Oger, nyírt leylandi, kész sövény, örökzöld, gyors növekedés, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764021476219-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764091574809-edited-1764091548069.png"
 }
