@@ -1,0 +1,28 @@
+{
+  "ID": "miev70u1f128",
+  "title": "Havasi törpefenyő",
+  "latin": "Pinus uncinata",
+  "description": "Pinus uncinata – Havasi törpefenyő: sűrű, kompakt növekedésű és ellenálló örökzöld, amely sziklakertekben és kisebb terekben is jól mutat.",
+  "descriptionall": "A havasi törpefenyő (Pinus uncinata) a magashegységek lakója, amely a kertekben egy kompakt, sűrű ágrendszerű, sötétzöld tűlevelű örökzöldként jelenik meg. Habitusa változó, lehet bokros vagy alacsony fává növő, de mindenképpen lassabb növekedésű és kisebb termetű a nagy fenyőknél. Rendkívül ellenálló a hideggel és a széllel szemben. Tűlevelei merevek, sűrűn borítják az ágakat, így télen is telt látványt nyújt.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Lassú",
+  "selectedCategoryFromDropdown": "Szoliterek",
+  "itemprices": [
+    "4800",
+    "6000"
+  ],
+  "itemsizes": [
+    "40-60",
+    "60-80"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos fekvést kedvel.",
+  "itemground": "Igénytelen, köves és sziklás talajon is megél.",
+  "itemusage": "Sziklakertek, rézsűk beültetésére, örökzöld csoportokba.",
+  "itemlabels": "Pinus uncinata, havasi törpefenyő, sziklakerti fenyő, ellenálló, örökzöld, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764092614406-almafa.jpg"
+}
