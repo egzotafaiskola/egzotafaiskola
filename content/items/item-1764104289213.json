@@ -1,5 +1,5 @@
 {
-  "ID": "mif2583ax6ra",
+  "ID": "mif27z3opy1a",
   "title": "Sárga terülő tiszafa (Gömbre nyírt)",
   "latin": "Taxus baccata ’Repandens Aurea’ (Gömbre nyírt)",
   "description": "Taxus baccata ’Repandens Aurea’ – Sárga terülő tiszafa (Gömbre nyírt): aranysárga hajtásvégű, szabályos gömb alakúra nevelt dísznövény, amely elegáns dísze a kertnek.",
@@ -8,9 +8,9 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "Szoliterek",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
-    "64000"
+    "6400"
   ],
   "itemsizes": [
     "30-50"
@@ -22,5 +22,5 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talajban szépen fejlődik.",
   "itemusage": "Kiemelt helyre, előkertekbe, sziklakertbe, edénybe ültetve szoliterként ajánlott.",
   "itemlabels": "Taxus baccata Repandens Aurea, formára nyírt, gömb tuja, sárga örökzöld, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104287822-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104416123-edited-1764104409679.png"
 }
