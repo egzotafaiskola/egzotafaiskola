@@ -1,5 +1,5 @@
 {
-  "ID": "midomtu7z8q3",
+  "ID": "mieuj9nf534t",
   "title": "Oszlopos leylandi ciprus",
   "latin": "Cupressocyparis leylandii 'Green Rocket' (Nyírt)",
   "description": "Cupressocyparis leylandii 'Green Rocket' nyírt: Karcsú, oszlopos növekedésű, formára nyírt örökzöld, amely ideális helytakarékos, magas sövényekhez.",
@@ -8,16 +8,18 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Sövénynövények",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "5500",
     "6200",
-    "7000"
+    "7000",
+    "7800"
   ],
   "itemsizes": [
     "150-175",
     "175-200",
-    "200-225"
+    "200-225",
+    "225+"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
@@ -26,5 +28,5 @@
   "itemground": "Széles talajtűrésű, a városi klímát is jól viseli.",
   "itemusage": ": Keskeny sövények kialakítására, vagy szűk helyekre, ahol fontos a magasság, de kevés a szélesség.",
   "itemlabels": "Cupressocyparis leylandii, Green Rocket, oszlopos leylandi, nyírt fenyő, keskeny sövény, gyors növekedés, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764021128345-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764091506084-edited-1764091481938.png"
 }
