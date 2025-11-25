@@ -1,0 +1,28 @@
+{
+  "ID": "mieqhldr44f9",
+  "title": "Szerb luc",
+  "latin": "Picea omorika",
+  "description": "Picea omorika – Szerb luc: karcsú, helytakarékos örökzöld, ezüstös csillogású levelekkel, amely kiválóan tűri a városi környezetet.",
+  "descriptionall": "A szerb luc (Picea omorika) egy különlegesen karcsú, elegáns megjelenésű fenyőféle. Ágrendszere sűrű, ívesen lehajló, a végek felfelé állnak. Tűlevelei a fonáki részen ezüstös csíkozásúak, ami távolról kékes-ezüstös fényt kölcsönöz a növénynek. Az egyik legtűrőképesebb lucfenyő, amely jól viseli a városi klímát és a szennyezettebb levegőt is. Közepes növekedésű, végleges magassága 15–20 méter, de szélessége csupán 3–4 méter marad. Keskeny habitusa miatt kisebb kertekbe is remek választás, mivel nem foglal nagy helyet széltében.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "4500",
+    "5200"
+  ],
+  "itemsizes": [
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos fekvést kedvel.",
+  "itemground": "Talajban nem válogat, a meszes talajt is viszonylag jól tűri.",
+  "itemusage": "Szoliterként, csoportosan ültetve, vagy magas sövénynek is kiváló.",
+  "itemlabels": "Picea omorika, szerb luc, karcsú fenyő, várostűrő, örökzöld, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084709512-almafa.jpg"
+}
