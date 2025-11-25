@@ -1,14 +1,14 @@
 {
-  "ID": "miefrwe8rnu0",
+  "ID": "miet2ibot5n1",
   "title": "teszt",
   "latin": "teszt",
   "description": "teszt",
   "descriptionall": "teszt",
   "category": "",
-  "categoriesquality": "mindketto",
+  "categoriesquality": "Szabadföldi és Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "Cserjék",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "3000"
   ],
@@ -22,5 +22,5 @@
   "itemground": "Szinte minden kerti talajban jól fejlődik, ha a víz nem pang a gyökereinél",
   "itemusage": "Ideális örökzöld sövény kialakítására, telekhatárok, utak vagy kertek takarására. Gyors növekedésével rövid idő alatt biztosítja a belátás elleni védelmet. Szélfogónak is alkalmas, de akár szoliterként is nevelhető.",
   "itemlabels": "Leylandi ciprus, Cupressocyparis × leylandii, örökzöld sövény, gyorsan növő ciprus, belátás elleni védelem, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764066714583-zolnai_logo.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764089044588-edited-1764089030091.png"
 }
