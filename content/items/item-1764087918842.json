@@ -1,0 +1,26 @@
+{
+  "ID": "miesecsnruft",
+  "title": "Ezüstfenyő ’Koster’",
+  "latin": "Picea pungens ’Koster’",
+  "description": "Picea pungens ’Koster’ – Ezüstfenyő: feltűnő, világos ezüstkék színű klasszikus fajta, amely idősebb korára elegáns kúp formát ölt.",
+  "descriptionall": "A ’Koster’ az egyik legrégebbi és legismertebb ezüstfenyő fajta. Híres rendkívül intenzív, világos ezüstös-kék lombszínéről. Fiatal korában ágrendszere kissé szabálytalan lehet, de idővel szép, karcsú kúp formát nevel. Közepesen gyors növekedésű, 10–15 méter magasra nőhet. Tűlevelei hosszúak és szúrósak. Kifejezetten feltűnő növény, amely a kertben azonnal magára vonzza a tekintetet. Jól tolerálja a városi környezetet és a szárazabb időszakokat is.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "6000"
+  ],
+  "itemsizes": [
+    "80-100"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos helyet kedvel.",
+  "itemground": "Átlagos kerti talaj megfelelő számára, a pangó vizet kerülni kell.",
+  "itemusage": "Szoliterként érvényesül leginkább a kert hangsúlyos pontjain.",
+  "itemlabels": "Picea pungens Koster, ezüstfenyő, világoskék lomb, klasszikus fajta, örökzöld, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764087917648-almafa.jpg"
+}
