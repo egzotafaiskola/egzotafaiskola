@@ -229,10 +229,9 @@
               Konténer méret: ${itemData.categorieshakonteneres}
              </p>` 
              : ""}
-            <p class="inline">Típus: 
-            <span class="item-text categorieshakonteneres2">${itemData.categorieshakonteneres2 || ""}</span>
-            <span class="item-text categorieshanemkonteneres">${itemData.categorieshanemkonteneres || ""}</span>
-            </p>
+
+
+            
             <button class="details-btn" data-id="${itemData.ID}">Részletek</button>
           `;
           container.appendChild(div);
@@ -243,6 +242,11 @@
     }
   }
 //<p><strong>Kategória:</strong> ${itemData.category || ""}</p>
+
+    //<p class="inline">Típus: 
+   //         <span class="item-text categorieshakonteneres2">${itemData.categorieshakonteneres2 || ""}</span>
+ //           <span class="item-text categorieshanemkonteneres">${itemData.categorieshanemkonteneres || ""}</span>
+   //         </p>
   // Betöltéskor lefut
   loadItems();
 </script>
