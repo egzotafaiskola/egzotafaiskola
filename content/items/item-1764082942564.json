@@ -1,0 +1,32 @@
+{
+  "ID": "miepfp3wt8d7",
+  "title": "Közönséges lucfenyő",
+  "latin": "Picea abies",
+  "description": "Picea abies – Közönséges lucfenyő: Klasszikus megjelenésű, gyorsan növő, nagy termetű örökzöld, amely tágas terek ideális dísze.",
+  "descriptionall": "A közönséges lucfenyő (Picea abies) Európa legismertebb és legelterjedtebb fenyőféléje, melyet klasszikus karácsonyfaként is jól ismerünk. Koronája szabályos kúp alakú, ágrendszere örvös állású. Tűlevelei fénylő sötétzöldek, aprók és szúrósak. Növekedése gyorsnak mondható, évente akár 40–50 cm-t is nőhet, végleges magassága pedig idős korára elérheti a 30–40 métert is. Impozáns mérete miatt elsősorban tágas kertekbe, parkokba való, ahol szoliterként érvényesülhet.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "4500",
+    "5200",
+    "6500",
+    "8000"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos helyet kedvel.",
+  "itemground": "Mélyrétegű, üde, savanyú vagy semleges talajt igényel, a szárazságot rosszul tűri.",
+  "itemusage": "Szoliternek nagy kertekbe, parkokba, vagy karácsonyfának nevelve.",
+  "itemlabels": "Picea abies, lucfenyő, karácsonyfa, gyors növekedés, tűlevelű, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764082941414-almafa.jpg"
+}
