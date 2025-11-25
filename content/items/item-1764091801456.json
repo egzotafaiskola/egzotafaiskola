@@ -1,0 +1,28 @@
+{
+  "ID": "mieupkrhrfba",
+  "title": "Feketefenyő",
+  "latin": "Pinus nigra",
+  "description": "Pinus nigra – Feketefenyő: rendkívül strapabíró, hosszú tűlevelű örökzöld, amely mostoha körülmények között is megállja a helyét.",
+  "descriptionall": "A feketefenyő (Pinus nigra) egy robusztus, széles koronájú fenyőféle, amely sötétzöld, hosszú, kettesével álló tűleveleiről ismerhető fel. Kérge idősebb korában sötétszürke, mélyen barázdált. Rendkívül tűrőképes faj: jól viseli a szárazságot, a szennyezett városi levegőt és a szegényesebb talajokat is. Fiatalon kúp alakú, később ernyőszerűen kiszélesedik, mediterrán hangulatot árasztva. Gyors növekedésű, végleges magassága 20–30 méter.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "2900",
+    "3700"
+  ],
+  "itemsizes": [
+    "60-80",
+    "80-100"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Fényigényes, napos helyre ültessük.",
+  "itemground": "Igénytelen, meszes és köves talajokon is megél.",
+  "itemusage": "Parkfának, szélfogónak, vagy nagyobb kertekbe szoliternek, ipari területek fásítására.",
+  "itemlabels": "Pinus nigra, feketefenyő, szárazságtűrő fenyő, hosszú tűlevél, várostűrő, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764091800423-almafa.jpg"
+}
