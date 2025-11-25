@@ -1,0 +1,36 @@
+{
+  "ID": "mif0y8xl0lsc",
+  "title": "Sövénytiszafa",
+  "latin": "Taxus baccata ’Sövény’",
+  "description": "Taxus baccata ’Sövény’ – Sövénytiszafa: a legtartósabb és legelegánsabb sövénynövény, amelyből sűrű, sötétzöld, formázható élőfal nevelhető.",
+  "descriptionall": "Ez a növénykategória kifejezetten sövénytelepítésre szelektált vagy nevelt közönséges tiszafa állományt takar. A tiszafa a létező legnemesebb sövénynövény: tökéletesen záródó, sötétzöld falat képez, amely bármilyen formára nyírható és évszázadokig él. Kiválóan regenerálódik még az erős visszametszésből is. Árnyéktűrő képessége páratlan, így fák alá vagy épületek árnyékos oldalára is ültethető. Évi 20–30 cm növekedésre képes, a kívánt magasságig (akár 3–4 méterig) nevelhető.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "2800",
+    "3400",
+    "4200",
+    "5500",
+    "6900",
+    "8000"
+  ],
+  "itemsizes": [
+    "40-60",
+    "60-80",
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Bármilyen fényviszonyok között megél, a tűző naptól a mélyárnyékig.",
+  "itemground": "Jó vízáteresztő, tápanyagdús talajt hálál meg a legszebb növekedéssel.",
+  "itemusage": "Elsősorban nyírott, örökzöld sövény kialakítására, belátásgátlásra.",
+  "itemlabels": "Taxus baccata, sövénytiszafa, örökzöld sövény, árnyéktűrő sövény, hosszú életű, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764102282698-almafa.jpg"
+}
