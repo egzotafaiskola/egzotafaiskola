@@ -1,5 +1,5 @@
 {
-  "ID": "midq86r2uvsp",
+  "ID": "mier3b842fj6",
   "title": "Gömbre nyírt boróka",
   "latin": "Juniperus media 'Mint Julep' (Gömbre nyírva)",
   "description": "Juniperus media 'Mint Julep' gömbre nyírva: Szabályos gömb alakúra nevelt, élénkzöld boróka, amely elegáns dísze lehet a kertnek vagy a terasznak.",
@@ -8,12 +8,13 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Szoliterek",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "3800"
   ],
   "itemsizes": [
-    "30-50"
+    "30-50",
+    "50+"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
@@ -22,5 +23,5 @@
   "itemground": "Átlagos kerti talajban is szépen díszít.",
   "itemusage": "Szoliterként kaspóba, sziklakertbe vagy ágyásszegélynek.",
   "itemlabels": "Juniperus media, Mint Julep, gömb boróka, formára nyírt, topiary, díszboróka, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764023804471-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764085722779-edited-1764085711891.png"
 }
