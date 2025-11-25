@@ -1,0 +1,36 @@
+{
+  "ID": "mieq8cgjedmb",
+  "title": "Közönséges lucfenyő",
+  "latin": "Picea abies",
+  "description": "Picea abies – Közönséges lucfenyő: a klasszikus, illatos fenyő, amely gyorsan nő és impozáns, szabályos kúp alakú koronát fejleszt.",
+  "descriptionall": "A közönséges lucfenyő (Picea abies) a klasszikus, mindenki által ismert fenyőfajta, amely karácsonyfaként is igen népszerű. Gyors növekedésű, széles kúp alakú koronát nevelő örökzöld, amely idős korára tekintélyes méretű fává fejlődik. Ágai örvökben állnak, tűlevelei sötétzöldek és fényesek. Kiválóan alkalmazható nagyobb kertekben szoliterként vagy csoportosan ültetve, de nyírott sövénynek is nevelhető. Hűvösebb, párásabb klímán érzi magát a legjobban, meghálálja a rendszeres öntözést.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "2800",
+    "3300",
+    "4100",
+    "4800",
+    "5300",
+    "5800"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175",
+    "175-200",
+    "200-225"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos fekvést kedvel.",
+  "itemground": "Tápanyagban gazdag, üde, savanyú vagy semleges talajban fejlődik legszebben.",
+  "itemusage": "Nagyobb kertekbe, parkokba szoliternek, szélfogó sávok kialakítására, illetve karácsonyfának.",
+  "itemlabels": "Picea abies, közönséges lucfenyő, karácsonyfa, gyorsan növő fenyő, örökzöld, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084278045-almafa.jpg"
+}
