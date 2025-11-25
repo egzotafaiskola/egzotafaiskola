@@ -1,0 +1,32 @@
+{
+  "ID": "mieqm2wq4ob8",
+  "title": "Ezüstfenyő",
+  "latin": "Picea pungens",
+  "description": "Picea pungens – Ezüstfenyő: ellenálló, merev ágrendszerű fenyő, amely változatos színárnyalataival és szívósságával díszít.",
+  "descriptionall": "A Picea pungens (ezüstfenyő) alapfaja egy robusztus, szabályos kúp alakú örökzöld, amely merev ágrendszeréről és szúrós tűleveleiről ismert. Színe változatos lehet a zöldes-kéktől az ezüstös árnyalatokig (magonc eredetű, így az árnyalat egyedenként változhat). Közepes növekedési erélyű, végleges magassága 15–20 méter lehet. Rendkívül ellenálló növény, jól bírja a szárazságot és a szennyezett levegőt. Erős gyökérzete miatt stabilan áll a szelesebb helyeken is.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "3500",
+    "4100",
+    "4900",
+    "6000"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Fényigényes, teljes napfényben fejlődik a legszebben.",
+  "itemground": "Jó vízáteresztő, átlagos kerti talajt igényel, jól tűri a szárazságot.",
+  "itemusage": "Szoliternek, parkfának, nagyobb kertekbe térhatárolónak.",
+  "itemlabels": "Picea pungens, ezüstfenyő, szúrós luc, szárazságtűrő fenyő, örökzöld, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084918851-almafa.jpg"
+}
