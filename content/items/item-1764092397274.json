@@ -1,0 +1,30 @@
+{
+  "ID": "miev2cj6gukz",
+  "title": "Erdei fenyő",
+  "latin": "Pinus sylvestris",
+  "description": "Pinus sylvestris – Erdei fenyő: festői megjelenésű, vöröses kérgű fa, amely természetes szépséget visz a nagyobb kertekbe.",
+  "descriptionall": "Az erdei fenyő (Pinus sylvestris) a hazai tájak egyik legszebb őshonos jellegű fenyője. Jellegzetessége a fiatalon is, de főleg idős korban látható rókavörös színű, pikkelyesen leváló kéreg a törzs felső részén. Tűlevelei csavartak, szürkészöldek vagy kékeszöldek. Koronája fiatalon kúpos, idővel lazábbá, festőien ernyőssé válik. Gyors növekedésű, 20–30 méteres fává fejlődik.Természetes hatású kertek elengedhetetlen növénye.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Tűlevél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "4300",
+    "4900",
+    "6000"
+  ],
+  "itemsizes": [
+    "100-125",
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Nagy fényigényű, csak napos helyen fejlődik szépen.",
+  "itemground": "Széles talajtűrésű, a homokos talajokat is jól viseli.",
+  "itemusage": "Tájkertekbe, nagy terekre szoliternek vagy csoportosan ültetve.",
+  "itemlabels": "Pinus sylvestris, erdei fenyő, vörös törzs, őshonos flóra, örökzöld, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764092396284-almafa.jpg"
+}
