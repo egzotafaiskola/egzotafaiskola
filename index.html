@@ -89,6 +89,7 @@
           <option value="">-- Összes kategória --</option>
           <option value="Szabadföldi"> Szabadföldi </option>
           <option value="Konténeres"> Konténeres </option>
+          <option value="mindketto"> Szabadföldi és Konténeres </option>
         </select>
     </div>
     <div class="form-group displayhidden">
@@ -328,7 +329,7 @@
       if (
         (!searchinput || searchcategoryname.includes(searchinput))&& //masolt
         (!mainfiltervalue || rendeskategoriak.includes(mainfiltervalue)) &&
-        (!filterValuequality || categoryquality === filterValuequality)&&
+        (!filterValuequality || categoryquality === filterValuequality || categoryquality === "mindketto" )&&
         (!filterValuelevel || categorylevel === filterValuelevel) &&
         (!filterValuenoves || categorynoves === filterValuenoves) &&
        // (!filterValuecategories || categories === filterValuecategories) &&
