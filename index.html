@@ -257,6 +257,7 @@
     const mainfiltervalue = document.getElementById("item-filter-Categories").value;
     //console.log("Fő szűrő érték:consolelogvege!", mainfiltervalue);
     const filterValuequality = document.getElementById("item-filter-Category-quality").value;
+    console.log("filtervalue: ", filterValuequality);
     const filterValuelevel = document.getElementById("item-filter-Category-level").value;
     const filterValuenoves = document.getElementById("item-filter-Category-noves").value;
     //const filterValuecategories = document.getElementById("item-filter-Categories").value;
@@ -284,7 +285,7 @@
 
       const categoryqual = card.querySelector(".categoriesquality");
       const categoryquality = categoryqual ? categoryqual.textContent.trim() : "";
-
+      Console.log("Kartya kategoria: ", categoryquality);
       const categorylev = card.querySelector(".categorieslevel");
       const categorylevel = categorylev ? categorylev.textContent.trim() : "";
 
@@ -324,11 +325,11 @@
     const searchcategoryname = searchcategory.toLowerCase();
 
     const searchcategorynamlat = card.querySelector(".item-latin");
-    console.log("Kartya latin kezdo: ", searchcategorynamlat)
+    //console.log("Kartya latin kezdo: ", searchcategorynamlat)
     const searchcategorylat = searchcategorynamlat ? searchcategorynamlat.textContent.trim() : "";
     const searchcategorynamelat = searchcategorylat.toLowerCase();
 
-    console.log("Kártya latin nev:", searchcategorynamelat, "| Keresési érték:", searchinput);
+ //   console.log("Kártya latin nev:", searchcategorynamelat, "| Keresési érték:", searchinput);
      
 
 //masolt idaig
