@@ -1,6 +1,6 @@
 {
-  "ID": "mif7f9ck73iw",
-  "title": "Oszlopos tiszafa",
+  "ID": "mifv6n13ry1b",
+  "title": "Oszlopos tiszafa ’Hicksii’",
   "latin": "Taxus media ’Hicksii’",
   "description": "Taxus media ’Hicksii’ – Oszlopos tiszafa: felfelé törő, piros termésével díszítő örökzöld, amely a legkedveltebb választás keskeny és magas sövényekhez.",
   "descriptionall": "A Taxus media ’Hicksii’ az egyik legnépszerűbb sövénynek való tiszafa fajta. Oszlopos növekedésű, ágai meredeken felfelé törnek. Lombozata sötétzöld, fényes tűlevelekből áll. Nőivarú fajta, így ősszel bőségesen hozza díszes, piros bogyóit, amelyek szépen kontrasztolnak a zöld levelekkel. Évi 20–30 cm-t nő. Végleges magassága 3–5 méter lehet. Kiválóan bírja a nyírást, így keskeny, szabályos sövényfal alakítható ki belőle. Fagytűrő képessége kiváló.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Sövénynövények",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "4000",
     "4500",
@@ -30,5 +30,5 @@
   "itemground": "Tápdús, jó vízáteresztő talajt hálál meg a legszebb növekedéssel.",
   "itemusage": "Elsősorban vágott sövénynek ajánlott, de szoliterként is mutatós függőleges hangsúly.",
   "itemlabels": "Taxus media Hicksii, oszlopos tiszafa, piros bogyós, sövénynövény, örökzöld fal, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764113154092-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153062688-edited-1764153055863.png"
 }
