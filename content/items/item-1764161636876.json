@@ -1,0 +1,32 @@
+{
+  "ID": "mig0adso7anx",
+  "title": "Brabant tuja",
+  "latin": "Thuja occidentalis ’Brabant’",
+  "description": "Thuja occidentalis ’Brabant’ – Brabant tuja: robusztus, nagyon gyors növekedésű fajta, amelyből rövid idő alatt magas, zárt sövény nevelhető.",
+  "descriptionall": "A Thuja occidentalis ’Brabant’ a leggyorsabban növő és legellenállóbb nyugati tuja fajta. Lombja világoszöld, télen enyhén barnás árnyalatot vehet fel, de tavasszal visszazöldül. Mivel gyorsan nő és szélesedik, rövid idő alatt zárt falat képez, így ez a legköltséghatékonyabb megoldás magas sövény kialakítására, végleges magassága nyírás nélkül 10–15 méter. Rendszeres nyírást igényel, hogy sűrű maradjon. Igénytelen, jól bírja a városi körülményeket is.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "2800",
+    "3800",
+    "4200",
+    "4600"
+  ],
+  "itemsizes": [
+    "125-150",
+    "150-175",
+    "175-200",
+    "200+"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos hely.",
+  "itemground": "Nem válogatós, de a nedves, tápdús talajt meghálálja.",
+  "itemusage": "Kifejezetten nyírott sövénynek ajánlott, gyors takarásra.",
+  "itemlabels": "Thuja occidentalis Brabant, gyorsan növő tuja, sövény tuja, olcsó sövény, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161635426-almafa.jpg"
+}
