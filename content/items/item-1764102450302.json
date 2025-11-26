@@ -1,6 +1,6 @@
 {
-  "ID": "mif11ti8vmlz",
-  "title": "Tiszafa",
+  "ID": "mifv88wx4q6n",
+  "title": "Tiszafa ’Overeynderii’",
   "latin": "Taxus baccata ’Overeynderii’",
   "description": "Taxus baccata ’Overeynderii’ – Tiszafa: szabályos növekedésű, felfelé törő ágrendszerű fajta, amely ideális választás gondozásmentesebb sövényekhez vagy szoliternek.",
   "descriptionall": "Az ’Overeynderii’ egy szabályos, széles kúp vagy tojásdad alakú tiszafa fajta. Ágai mereven felfelé állnak, levelei aprók és sötétzöldek. Különlegessége, hogy magától is viszonylag szabályos formát tart, így kevesebb nyírást igényel, mint az alapfaj. Kiválóan alkalmas alacsonyabb vagy közepes magasságú, szélesebb sövények kialakítására, de szoliterként is megállja a helyét. Hímivarú fajta, tehát nem hoz bogyókat. Közepes növekedésű, végleges magassága 3–4 méter lehet.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Sövénynövények",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "5500",
     "6900"
@@ -24,5 +24,5 @@
   "itemground": "A pangó vizet nem szereti, egyébként talajban nem válogat.",
   "itemusage": "Szoliternek, csoportos ültetésre parkokba, vagy szélesebb sövénynek.",
   "itemlabels": "Taxus baccata Overeynderii, kúp alakú tiszafa, hímivarú, termés nélküli, sövénynek való, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764102449333-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153137704-edited-1764153124509.png"
 }
