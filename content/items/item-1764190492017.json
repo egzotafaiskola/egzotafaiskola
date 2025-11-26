@@ -1,0 +1,30 @@
+{
+  "ID": "mighgt0oh9o6",
+  "title": "Babérmeggy 'Fontanette'",
+  "latin": "Prunus laurocerasus 'Fontanette'",
+  "description": "Prunus laurocerasus 'Fontanette': Nagy, fényes levelekkel rendelkező, gyorsan növő babérmeggy fajta. Ideális gyors takarást adó, magas sövénynek.",
+  "descriptionall": "A 'Fontanette' egy robusztus, széles levelekkel rendelkező babérmeggy fajta. Megjelenésében hasonlít a 'Novita' fajtára, de levelei gyakran még nagyobbak, fényes világoszöldek. Gyors növekedésű, terebélyes bokrot nevel, amely kiválóan alkalmas nagyobb kertekbe, ahol gyors takarásra van szükség. Télállósága jó, és a lisztharmattal szemben is ellenálló. Nagy zöld tömegével megnyugtató hátteret ad a színes virágoknak.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "4400",
+    "5000",
+    "5500"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos, félárnyékos fekvést kedvel.",
+  "itemground": "Tápanyagban gazdag, laza talajt hálál meg.",
+  "itemusage": "Magas, széles sövénynek vagy szoliter bokornak.",
+  "itemlabels": "Prunus Fontanette, nagylevelű babérmeggy, gyors sövény, robusztus örökzöld, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764190488571-almafa.jpg"
+}
