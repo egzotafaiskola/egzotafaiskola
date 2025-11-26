@@ -1,6 +1,6 @@
 {
-  "ID": "mif0u9573rwy",
-  "title": "Tiszafa",
+  "ID": "mifv7bo9ay8m",
+  "title": "Tiszafa ’Lakatos’",
   "latin": "Taxus baccata ’Lakatos’",
   "description": "Taxus baccata ’Lakatos’ – Tiszafa: magyar nemesítésű, ellenálló, termést nem hozó tiszafa, amely kiválóan alkalmas sövény telepítésére.",
   "descriptionall": "A ’Lakatos’ egy magyar nemesítésű, hímivarú tiszafa fajta. Ágrendszere sűrű, felfelé törő, de habitusa szélesebb, váza alakú vagy kerekded. Levelei üde zöldek. Mivel hímivarú klón, nem hozza a piros, húsos magköpenyeket, így kisgyermekes kertekbe, óvodákba biztonságosabb választás lehet. Közepes növekedési erélyű, 3–4 méter magasra nőhet. Kiválóan tűri a metszést és a magyarországi klímát (szárazabb levegő, telek) remekül bírja.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Sövénynövények",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "4300",
     "5100"
@@ -24,5 +24,5 @@
   "itemground": "Talajban nem válogatós, a meszes talajokat is kedveli.",
   "itemusage": "Nyírott vagy nyíratlan sövénynek, térhatárolónak, parkokba.",
   "itemlabels": "Taxus baccata Lakatos, magyar tiszafa, hímivarú tiszafa, termés nélküli, sövénynek való, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764102096353-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153094638-edited-1764153083364.png"
 }
