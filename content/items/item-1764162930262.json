@@ -1,0 +1,28 @@
+{
+  "ID": "mig1243jstkb",
+  "title": "Japán juhar",
+  "latin": "Acer palmatum",
+  "description": "Acer palmatum – Japán juhar: festői szépségű, ősszel lángoló színekbe öltöző kis termetű fa, amely a kert legdíszesebb pontja lehet.",
+  "descriptionall": "Az Acer palmatum (Japán juhar) a kertek igazi arisztokratája. Ez a lombhullató cserje vagy kis fa különleges, tenyeresen összetett leveleivel és festői ágrendszerével hódít. Levelei tavasszal és nyáron üde zöldek (alapfaj esetén), ősszel pedig lángoló vörösre, narancsra és sárgára színeződnek, lenyűgöző látványt nyújtva. Lassú növekedésű, kompakt növény, amely a párás, félárnyékos környezetet kedveli. Végleges magassága 2–4 méter.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Lassú",
+  "selectedCategoryFromDropdown": "Szoliterek",
+  "itemprices": [
+    "3900",
+    "4600"
+  ],
+  "itemsizes": [
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Félárnyékos, védett helyet igényel, a tűző nap megégetheti a leveleit.",
+  "itemground": "Enyhén savanyú, jó vízáteresztő, humuszos talajt kedvel.",
+  "itemusage": "Kiemelt szoliterként japánkertekbe, tavak partjára, előkertbe.",
+  "itemlabels": "Acer palmatum, japán juhar, díszfa, őszi lombszín, árnyéktűrő, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764162929237-almafa.jpg"
+}
