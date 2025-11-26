@@ -1,0 +1,36 @@
+{
+  "ID": "migiskwld0hy",
+  "title": "Babérmeggy 'Novita'",
+  "latin": "Prunus laurocerasus 'Novita'",
+  "description": "Prunus laurocerasus 'Novita': A legellenállóbb és leggyorsabban növő nagylevelű babérmeggy. Kiváló választás magas, sűrű sövények gyors kialakítására.",
+  "descriptionall": "A 'Novita' jelenleg az egyik legkeresettebb és legellenállóbb babérmeggy fajta. Levelei nagyok, vastagok, fényes bőrszerűek és középzöldek. Rendkívül gyors növekedésű, robusztus bokrot nevel, amely rövid idő alatt képes magas, teljesen zárt falat képezni. Jól tűri a városi klímát, a szárazságot és a gombás betegségekkel (pl. lisztharmat) szemben is nagyon ellenálló. Ha gyorsan szeretne látványos eredményt és biztos takarást, a 'Novita' a legjobb választás.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "3800",
+    "4800",
+    "5400",
+    "7000",
+    "7500",
+    "8500"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175",
+    "175-200",
+    "200+"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos, félárnyékos és árnyékos helyen is megél (árnyékban lazább lehet a szerkezete).",
+  "itemground": "Szinte bármilyen kerti talajban szépen fejlődik, tápanyagigényes.",
+  "itemusage": "Magas, gyorsan növő sövénynek, szélfogónak, vagy nagy szoliter bokornak.",
+  "itemlabels": "Prunus Novita, óriás babérmeggy, gyors sövény, ellenálló, nagylevelű, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764192717540-almafa.jpg"
+}
