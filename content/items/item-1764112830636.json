@@ -1,6 +1,6 @@
 {
-  "ID": "mif78b11iqto",
-  "title": "Oszlopos tiszafa",
+  "ID": "mifv468ly1fs",
+  "title": "Oszlopos tiszafa ’Brownii’",
   "latin": "Taxus media ’Brownii’",
   "description": "Taxus media ’Brownii’ – Oszlopos tiszafa: sűrű, széles oszlopos növekedésű, termést nem hozó örökzöld, amelyből kompakt, alacsony gondozásigényű sövény nevelhető.",
   "descriptionall": "A Taxus media ’Brownii’ egy hímivarú (termést nem hozó), sűrű ágrendszerű, széles oszlopos vagy gömbölyded formájú tiszafa hibrid. Levelei fényesek, sötétzöldek. Mivel nem hoz piros bogyókat, kisgyermekes családok kertjébe is gyakran választják. Növekedése lassabb, mint a Hicksii fajtáé, de nagyon kompakt, zárt felületet ad. Végleges magassága 2–3 méter, szélessége 1,5–2 méter lehet. Kiválóan tűri a metszést, és téltűrő képessége is kiemelkedő.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Sövénynövények",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "3800",
     "5000",
@@ -26,5 +26,5 @@
   "itemground": "Tápdús, jó szerkezetű talajt kedvel.",
   "itemusage": "Alacsonyabb vagy közepes magasságú sövénynek, de szoliterként is megállja a helyét.",
   "itemlabels": "Taxus media Brownii, termés nélküli tiszafa, sűrű sövény, oszlopos örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764112829675-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764152947625-edited-1764152935909.png"
 }
