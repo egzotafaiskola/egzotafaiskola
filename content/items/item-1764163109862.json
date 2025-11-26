@@ -1,0 +1,30 @@
+{
+  "ID": "mig15yh1tdlb",
+  "title": "Közönséges puszpáng",
+  "latin": "Buxus sempervirens",
+  "description": "Buxus sempervirens – Közönséges puszpáng: apró levelű, sűrű ágrendszerű örökzöld, a legjobb választás formázott sövények és alakzatok kialakítására.",
+  "descriptionall": "A Buxus sempervirens (Közönséges puszpáng) a történelmi és modern kertek legklasszikusabb örökzöldje. Apró, bőrszerű, fénylő levelei sűrűn borítják az ágakat. Kiválóan metszhető, bármilyen forma kialakítható belőle, és a radikális visszavágást is jól tűri. Lassan nő, de nagyon hosszú életű. Ideális alacsony jelzősövényekhez vagy magasabb térhatárolókhoz egyaránt. Végleges magassága 3–5 méter (nyírás nélkül). Árnyéktűrő képessége kiváló.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Lassú",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "2800",
+    "3800",
+    "5500"
+  ],
+  "itemsizes": [
+    "60-80",
+    "80-100",
+    "100-125"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos, félárnyékos és mélyárnyékos helyen is megél.",
+  "itemground": "Laza, meszes, tápdús talajokat kedvel.",
+  "itemusage": "Formasövénynek, térhatárolónak, vagy formára nyírt alakzatnak.",
+  "itemlabels": "Címkék: Buxus sempervirens, puszpáng, bukszus, örökzöld sövény, formálható növény, földlabdás növény",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764163108567-almafa.jpg"
+}
