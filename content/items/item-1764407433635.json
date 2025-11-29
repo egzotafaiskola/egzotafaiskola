@@ -1,5 +1,5 @@
 {
-  "ID": "mik2mm1hnjjs",
+  "ID": "mik4na9d7o3f",
   "title": "Mezei juhar",
   "latin": "Acer campestre",
   "description": "Acer campestre – Mezei juhar: Strapabíró, őshonos fa, amely sárga őszi lombjával és parás ágaival díszít, kiválóan tűri a városi körülményeket.",
@@ -8,19 +8,22 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Fák",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "3000"
   ],
   "itemsizes": [
     "150-200"
   ],
-  "categorieshakonteneres": "5L",
+  "categorieshakonteneres": "5,",
+  "itemkontenerek": [
+    "5"
+  ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
   "itemlight": "Napos vagy félárnyékos helyet kedvel.",
   "itemground": "Talajban nem válogatós, jól tűri a meszes és szárazabb talajokat is.",
   "itemusage": "Utcai sorfának, parkfának, de nyírott, lombhullató sövénynek is kiválóan alkalmas.",
   "itemlabels": "Acer campestre, mezei juhar, őshonos fa, sárga őszi lomb, várostűrő, konténeres fa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764407429919-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764410820536-edited-1764410814018.png"
 }
