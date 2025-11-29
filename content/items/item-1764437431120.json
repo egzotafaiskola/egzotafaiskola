@@ -1,0 +1,29 @@
+{
+  "ID": "mikkhkb9hoa6",
+  "title": "Páfrányfenyő",
+  "latin": "Ginkgo biloba",
+  "description": "Ginkgo biloba – Páfrányfenyő: különleges levelű, ősszel aranysárgára színeződő, hosszú életű és strapabíró díszfa.",
+  "descriptionall": "A Páfrányfenyő (Ginkgo biloba) egy különleges, ősi növényfaj, amelyet \"élő kövületként\" is emlegetnek. Bár rendszertanilag a nyitvatermők közé tartozik, legyező alakú levelei a lombhullató fákéra emlékeztetnek. Ősszel a lombozata csodálatos aranysárga színbe borul, mielőtt lehullana. Kezdetben lassú, később közepes növekedési ütemű fa, amely hosszú életű, végleges magassága elérheti a 20–30 métert. Koronája fiatalon karcsú, idősebb korában terebélyesedik. Kiváló várostűrő képességgel rendelkezik, ellenáll a szennyezett levegőnek.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Fák",
+  "itemprices": [
+    "2100"
+  ],
+  "itemsizes": [
+    "15-20"
+  ],
+  "categorieshakonteneres": "2 L,",
+  "itemkontenerek": [
+    "2 L"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos helyet igényel, árnyékban lassabban fejlődik.",
+  "itemground": "Mélyrétegű, jó vízáteresztő képességű talajt kedvel, de jól alkalmazkodik.",
+  "itemusage": "Különleges szoliter fa parkokba, nagyobb kertekbe, vagy utcasorfának.",
+  "itemlabels": "Ginkgo biloba, páfrányfenyő, élő kövület, őszi lombszín, várostűrő fa",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437427487-almafa.jpg"
+}
