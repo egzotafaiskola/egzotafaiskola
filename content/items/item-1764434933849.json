@@ -1,0 +1,44 @@
+{
+  "ID": "mikj01e08snj",
+  "title": "Leylandi ciprus",
+  "latin": "Cupressocyparis x leylandii",
+  "description": "Cupressocyparis x leylandii – Leylandi ciprus: a leggyorsabban növő örökzöld sövény, amely rövid idő alatt biztosít teljes takarást a kertben.",
+  "descriptionall": "A Leylandi ciprus (Cupressocyparis x leylandii) a legnépszerűbb sövénynövény, köszönhetően rendkívül gyors növekedésének és sűrű, örökzöld lombozatának. Pikkelylevelei üde zöldek, ágrendszere felálló, oszlopos. Évente akár 60–100 cm-t is nőhet, így nagyon hamar zárt, belátást gátló falat képez. Rendszeres nyírást igényel a szép, tömör forma megtartásához. Végleges magassága nyíratlanul 15–20 méter is lehet, de sövényként tetszőleges magasságban tartható.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "1500",
+    "1800",
+    "1900",
+    "2300",
+    "2500",
+    "3500"
+  ],
+  "itemsizes": [
+    "60-80",
+    "80-100",
+    "80-100",
+    "100-125",
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "3 L,3 L, 4 L,3 L,5 L,5 L,",
+  "itemkontenerek": [
+    "3 L",
+    "3 L",
+    "4 L",
+    "3 L",
+    "5 L",
+    "5 L"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos helyen fejlődik a leggyorsabban.",
+  "itemground": "Nem válogatós, de a tápdús talajt meghálálja.",
+  "itemusage": "Magas sövény, szélfogó, gyors takarás.",
+  "itemlabels": "Cupressocyparis leylandii, leylandi ciprus, gyorsan növő sövény, örökzöld, belátásgátló",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764434930194-almafa.jpg"
+}
