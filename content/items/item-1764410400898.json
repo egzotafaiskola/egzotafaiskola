@@ -1,5 +1,5 @@
 {
-  "ID": "mik4e7ox20fn",
+  "ID": "mik51u4nkmc6",
   "title": "Japán juhar",
   "latin": "Acer palmatum",
   "description": "Acer palmatum – Japán juhar: A kertek ékköve, amely kecses formájával és lenyűgöző őszi színkavalkádjával varázsolja el a szemlélőt.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Szoliterek",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "2500",
     "5000",
@@ -21,12 +21,12 @@
     "100-125",
     "125-150"
   ],
-  "categorieshakonteneres": "2,9.5,5,5,",
+  "categorieshakonteneres": "2 L,9.5 L,5 L,5 L,",
   "itemkontenerek": [
-    "2",
-    "9.5",
-    "5",
-    "5"
+    "2 L",
+    "9.5 L",
+    "5 L",
+    "5 L"
   ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
@@ -34,5 +34,5 @@
   "itemground": "Enyhén savanyú, jó vízáteresztő, humuszos talajt igényel.",
   "itemusage": "Szoliterként japánkertekbe, előkertekbe, tavak partjára vagy dézsába ültetve érvényesül leginkább.",
   "itemlabels": "Acer palmatum, japán juhar, őszi lombszín, szoliter cserje, árnyéktűrő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764410397320-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411499469-edited-1764411471374.png"
 }
