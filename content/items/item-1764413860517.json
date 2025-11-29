@@ -1,0 +1,32 @@
+{
+  "ID": "mik6gd3ysg1c",
+  "title": "Közönséges nyír",
+  "latin": "Betula pendula",
+  "description": "Betula pendula – Közönséges nyír: Ikonikus fehér törzsű fa, amely gyors növekedésével és lenge lombozatával természetes szépséget visz a környezetbe.",
+  "descriptionall": "A Közönséges nyír (Betula pendula) a tájképi kertek klasszikus fája, amely jellegzetes fehér törzsével és lecsüngő ágvégeivel különleges hangulatot áraszt. Levelei rombusz alakúak, élénkzöldek, ősszel aranysárgára színeződnek. Kérge fiatalon barna, később válik hófehérré és papírszerűen hámlóvá. Gyors növekedésű fa, végleges magassága elérheti a 15–20 métert. Fényigényes, pionír növény.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Fák",
+  "itemprices": [
+    "4000",
+    "5000"
+  ],
+  "itemsizes": [
+    "150+",
+    "250+"
+  ],
+  "categorieshakonteneres": "4 L,9.5 L,",
+  "itemkontenerek": [
+    "4 L",
+    "9.5 L"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Nagy fényigényű, napos helyet kíván.",
+  "itemground": "Igénytelen, a homokos, szegényebb talajokon is megél, de a pangó vizet nem szereti.",
+  "itemusage": "Facsoportokba, parkfának, vagy nagyobb kertek szoliter növényének.",
+  "itemlabels": "Betula pendula, közönséges nyír, fehér törzs, gyorsan növő fa, őszi sárga lomb",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413856872-almafa.jpg"
+}
