@@ -1,5 +1,5 @@
 {
-  "ID": "mikjoodzo8le",
+  "ID": "mikka1bkaxjm",
   "title": "Keskenylevelű ezüstfa",
   "latin": "Elaeagnus angustifolia",
   "description": "Elaeagnus angustifolia – Keskenylevelű ezüstfa: rendkívül szívós, ezüstös lombozatú és illatos virágú fa, amely a legmostohább körülmények között is megél.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Fák",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "1800"
   ],
@@ -25,5 +25,5 @@
   "itemground": "Minden talajon megél, még a szikes, homokos talajokon is.",
   "itemusage": "Szoliter, szélfogó sávok, rossz minőségű területek fásítása, méhlegelő.",
   "itemlabels": "Elaeagnus angustifolia, ezüstfa, illatos virág, szárazságtűrő, ezüstös lomb",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764436079744-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437076281-almafa.jpg"
 }
