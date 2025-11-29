@@ -1,5 +1,5 @@
 {
-  "ID": "mik4ia5dr4c4",
+  "ID": "mik52bk5lg2v",
   "title": "Vörös levelű japán juhar",
   "latin": "Acer palmatum ’Atropurpureum’",
   "description": "Acer palmatum ’Atropurpureum’ – Vörös levelű japán juhar: Egész évben díszítő, bíborvörös lombozatú cserje, amely elegáns kontrasztot ad a kert zöldjében.",
@@ -8,16 +8,16 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "Szoliterek",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "4000"
   ],
   "itemsizes": [
     "30-50"
   ],
-  "categorieshakonteneres": "2,",
+  "categorieshakonteneres": "2 L,",
   "itemkontenerek": [
-    "2"
+    "2 L"
   ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
@@ -25,5 +25,5 @@
   "itemground": "Tápanyagdús, mészmentes, savanyú talajban fejlődik szépen.",
   "itemusage": "Kiemelt helyre ültetve szoliterként, sziklakertbe vagy edényes növényként teraszon.",
   "itemlabels": "Acer palmatum Atropurpureum, vörös japán juhar, színes lomb, lassú növekedés, szoliter",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764410587127-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411522059-edited-1764411516000.png"
 }
