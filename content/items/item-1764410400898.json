@@ -1,0 +1,38 @@
+{
+  "ID": "mik4e7ox20fn",
+  "title": "Japán juhar",
+  "latin": "Acer palmatum",
+  "description": "Acer palmatum – Japán juhar: A kertek ékköve, amely kecses formájával és lenyűgöző őszi színkavalkádjával varázsolja el a szemlélőt.",
+  "descriptionall": "A Japán juhar (Acer palmatum) a távol-keleti kertek elengedhetetlen növénye. Ez a lombhullató cserje vagy kis fa kecses ágrendszerével és finom metszésű leveleivel díszít. A levelek tavasszal és nyáron üde zöldek, ősszel pedig a sárga, narancs és vörös legkülönbözőbb árnyalataiban pompáznak. Növekedése lassú vagy közepes, végleges magassága általában 3–5 méter. Védett fekvést igényel, a tűző napot és a szelet kevésbé kedveli.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Szoliterek",
+  "itemprices": [
+    "2500",
+    "5000",
+    "3000",
+    "3500"
+  ],
+  "itemsizes": [
+    "80-100",
+    "80-100",
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "2,9.5,5,5,",
+  "itemkontenerek": [
+    "2",
+    "9.5",
+    "5",
+    "5"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Félárnyékos helyen érzi magát a legjobban, a közvetlen déli naptól óvni kell.",
+  "itemground": "Enyhén savanyú, jó vízáteresztő, humuszos talajt igényel.",
+  "itemusage": "Szoliterként japánkertekbe, előkertekbe, tavak partjára vagy dézsába ültetve érvényesül leginkább.",
+  "itemlabels": "Acer palmatum, japán juhar, őszi lombszín, szoliter cserje, árnyéktűrő",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764410397320-almafa.jpg"
+}
