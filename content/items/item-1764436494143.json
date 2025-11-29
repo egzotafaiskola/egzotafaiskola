@@ -1,0 +1,29 @@
+{
+  "ID": "mikjxjjfhgbb",
+  "title": "Közönséges bükk",
+  "latin": "Fagus sylvatica",
+  "description": "Fagus sylvatica – Közönséges bükk: nagy termetű, tekintélyes díszfa, amelyből megfelelő metszéssel gyönyörű, télen is takaró sövény alakítható ki.",
+  "descriptionall": "A Közönséges bükk (Fagus sylvatica) erdeink egyik legimpozánsabb fafaja, amely kertekben is méltóságteljes látványt nyújt. Törzse sima, szürke, koronája hatalmas és boltozatos. Levelei tojásdadok, fényes zöldek, ősszel bronzos-sárgára színeződnek. Bár lombhullató, az elszáradt levelek gyakran tavaszig a fán maradnak (különösen fiatal korban vagy sövényként nevelve), így télen is takarást biztosítanak. Végleges magassága faként 20–30 méter, de rendszeres nyírással kiváló sövény nevelhető belőle.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Fák",
+  "itemprices": [
+    "3500"
+  ],
+  "itemsizes": [
+    "80-100"
+  ],
+  "categorieshakonteneres": "5 L,",
+  "itemkontenerek": [
+    "5 L"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos vagy félárnyékos helyet, párásabb klímát kedvel.",
+  "itemground": "Tápdús, jó vízellátottságú, mészben gazdag talajt igényel.",
+  "itemusage": "Szoliter parkfa, magas nyírott sövény, fasor.",
+  "itemlabels": "Fagus sylvatica, bükkfa, közönséges bükk, sövénynövény, parkfa",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764436493360-almafa.jpg"
+}
