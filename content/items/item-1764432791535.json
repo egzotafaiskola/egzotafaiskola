@@ -1,0 +1,35 @@
+{
+  "ID": "mikhq2jdqs7h",
+  "title": "Szelídgesztenye",
+  "latin": "Castanea sativa",
+  "description": "Castanea sativa – Szelídgesztenye: hatalmasra növő, méltóságteljes fa, amely értékes és finom gesztenyetermést biztosít az őszi hónapokban.",
+  "descriptionall": "A Szelídgesztenye (Castanea sativa) egy impozáns méretű, hosszú életű lombhullató fa, amely nemcsak árnyékot ad, hanem ízletes termésével is megörvendezteti tulajdonosát. Levelei nagyok, fogazott szélűek, fényes zöldek. Júniusban hozza barkavirágzatát, tüskés kupacsban fejlődő termése pedig ősszel érik. Hatalmas, terebélyes koronát nevel, végleges magassága elérheti a 20–30 métert is. Hosszú távú befektetés a kertbe, hiszen évszázadokig élhet, és évről évre bőséges termést hozhat megfelelő körülmények között.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Talajtakarók",
+  "itemprices": [
+    "2400",
+    "3500",
+    "4000",
+    "5500"
+  ],
+  "itemsizes": [
+    "100-125",
+    "125-150",
+    "150-175",
+    "175-200"
+  ],
+  "categorieshakonteneres": "5 L,",
+  "itemkontenerek": [
+    "5 L"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Fényigényes, napos fekvést kíván.",
+  "itemground": "Mészkerülő, savanyú kémhatású, mély rétegű talajt igényel.",
+  "itemusage": "Parkfa, haszonnövény, nagyméretű kertek szoliter fája.",
+  "itemlabels": "Castanea sativa, szelídgesztenye, ehető termés, nagy fa, parkfa",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764432785507-almafa.jpg"
+}
