@@ -1,5 +1,5 @@
 {
-  "ID": "midiw1jxcjs8",
+  "ID": "miney9t9rhej",
   "title": "Kaukázusi jegenyefenyő",
   "latin": "Abies nordmanniana",
   "description": "Kaukázusi jegenyefenyő: Impozáns, szabályos kúp alakú örökzöld, puha, sötétzöld tűlevelekkel, amely szoliterként a kert dísze lehet.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "5400",
     "5700",
@@ -25,12 +25,15 @@
     "175-200",
     "200-225"
   ],
-  "categorieshakonteneres": "",
+  "categorieshakonteneres": ",",
+  "itemkontenerek": [
+    ""
+  ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
   "itemlight": "Napos vagy félárnyékos helyet kedvel, de a fiatal példányok jobban viselik a párásabb, védettebb környezetet.",
   "itemground": "Mélyrétegű, tápanyagban gazdag, jó vízáteresztő képességű, enyhén savanyú talajon fejlődik a legszebben.",
   "itemusage": "Elsősorban szoliterként érvényesül nagy kertekben és parkokban, de csoportosan ültetve is dekoratív. Szabályos növekedése miatt a kertek vezérnövénye lehet.",
   "itemlabels": "Abies nordmanniana, Kaukázusi jegenyefenyő, tűlevelű, karácsonyfa, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764011480552-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764609527862-edited-1764609498995.png"
 }
