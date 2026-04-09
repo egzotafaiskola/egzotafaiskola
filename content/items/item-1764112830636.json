@@ -1,0 +1,30 @@
+{
+  "ID": "mifv468ly1fs",
+  "title": "Oszlopos tiszafa âBrowniiâ",
+  "latin": "Taxus media âBrowniiâ",
+  "description": "Taxus media âBrowniiâ â Oszlopos tiszafa: sÅ±rÅ±, szÃ©les oszlopos nÃ¶vekedÃ©sÅ±, termÃ©st nem hozÃ³ Ã¶rÃ¶kzÃ¶ld, amelybÅl kompakt, alacsony gondozÃ¡sigÃ©nyÅ± sÃ¶vÃ©ny nevelhetÅ.",
+  "descriptionall": "A Taxus media âBrowniiâ egy hÃ­mivarÃº (termÃ©st nem hozÃ³), sÅ±rÅ± Ã¡grendszerÅ±, szÃ©les oszlopos vagy gÃ¶mbÃ¶lyded formÃ¡jÃº tiszafa hibrid. Levelei fÃ©nyesek, sÃ¶tÃ©tzÃ¶ldek. Mivel nem hoz piros bogyÃ³kat, kisgyermekes csalÃ¡dok kertjÃ©be is gyakran vÃ¡lasztjÃ¡k. NÃ¶vekedÃ©se lassabb, mint a Hicksii fajtÃ¡Ã©, de nagyon kompakt, zÃ¡rt felÃ¼letet ad. VÃ©gleges magassÃ¡ga 2â3 mÃ©ter, szÃ©lessÃ©ge 1,5â2 mÃ©ter lehet. KivÃ¡lÃ³an tÅ±ri a metszÃ©st, Ã©s tÃ©ltÅ±rÅ kÃ©pessÃ©ge is kiemelkedÅ.",
+  "category": "",
+  "categoriesquality": "SzabadfÃ¶ldi",
+  "categorieslevel": "TÅ±levÃ©l",
+  "categoriesnoves": "KÃ¶zepes",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "itemprices": [
+    "3800",
+    "5000",
+    "6000"
+  ],
+  "itemsizes": [
+    "60-80",
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "Fenyő",
+  "itemlight": "Napos Ã©s fÃ©lÃ¡rnyÃ©kos helyen is szÃ©pen fejlÅdik.",
+  "itemground": "TÃ¡pdÃºs, jÃ³ szerkezetÅ± talajt kedvel.",
+  "itemusage": "Alacsonyabb vagy kÃ¶zepes magassÃ¡gÃº sÃ¶vÃ©nynek, de szoliterkÃ©nt is megÃ¡llja a helyÃ©t.",
+  "itemlabels": "Taxus media Brownii, termÃ©s nÃ©lkÃ¼li tiszafa, sÅ±rÅ± sÃ¶vÃ©ny, oszlopos Ã¶rÃ¶kzÃ¶ld, fÃ¶ldlabdÃ¡s nÃ¶vÃ©ny",
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766755691474-DSC08972.webp"
+}

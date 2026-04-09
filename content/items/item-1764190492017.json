@@ -1,0 +1,30 @@
+{
+  "ID": "mighgt0oh9o6",
+  "title": "BabÃ©rmeggy 'Fontanette'",
+  "latin": "Prunus laurocerasus 'Fontanette'",
+  "description": "Prunus laurocerasus 'Fontanette': Nagy, fÃ©nyes levelekkel rendelkezÅ, gyorsan nÃ¶vÅ babÃ©rmeggy fajta. IdeÃ¡lis gyors takarÃ¡st adÃ³, magas sÃ¶vÃ©nynek.",
+  "descriptionall": "A 'Fontanette' egy robusztus, szÃ©les levelekkel rendelkezÅ babÃ©rmeggy fajta. MegjelenÃ©sÃ©ben hasonlÃ­t a 'Novita' fajtÃ¡ra, de levelei gyakran mÃ©g nagyobbak, fÃ©nyes vilÃ¡goszÃ¶ldek. Gyors nÃ¶vekedÃ©sÅ±, terebÃ©lyes bokrot nevel, amely kivÃ¡lÃ³an alkalmas nagyobb kertekbe, ahol gyors takarÃ¡sra van szÃ¼ksÃ©g. TÃ©lÃ¡llÃ³sÃ¡ga jÃ³, Ã©s a lisztharmattal szemben is ellenÃ¡llÃ³. Nagy zÃ¶ld tÃ¶megÃ©vel megnyugtatÃ³ hÃ¡tteret ad a szÃ­nes virÃ¡goknak.",
+  "category": "",
+  "categoriesquality": "SzabadfÃ¶ldi",
+  "categorieslevel": "LevÃ©l",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "SÃ¶vÃ©nynÃ¶vÃ©nyek",
+  "itemprices": [
+    "4400",
+    "5000",
+    "5500"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos, fÃ©lÃ¡rnyÃ©kos fekvÃ©st kedvel.",
+  "itemground": "TÃ¡panyagban gazdag, laza talajt hÃ¡lÃ¡l meg.",
+  "itemusage": "Magas, szÃ©les sÃ¶vÃ©nynek vagy szoliter bokornak.",
+  "itemlabels": "Prunus Fontanette, nagylevelÅ± babÃ©rmeggy, gyors sÃ¶vÃ©ny, robusztus Ã¶rÃ¶kzÃ¶ld, fÃ¶ldlabdÃ¡s",
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765888534815-DSC09284_(2).webp"
+}

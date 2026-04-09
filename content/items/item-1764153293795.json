@@ -1,0 +1,30 @@
+{
+  "ID": "mifvbkfwf3hw",
+  "title": "Oszlopos tiszafa âHilliiâ",
+  "latin": "Taxus media âHilliiâ",
+  "description": "Taxus media âHilliiâ â Oszlopos tiszafa: tÃ¶mÃ¶tt, piramis alakÃº, termÃ©s nÃ©lkÃ¼li fajta, amely biztonsÃ¡gos Ã©s elegÃ¡ns vÃ¡lasztÃ¡s sÃ¶vÃ©nynek.",
+  "descriptionall": "A Taxus media âHilliiâ a âHicksiiâ fajtÃ¡hoz nagyon hasonlÃ³, de annÃ¡l valamivel tÃ¶mÃ¶ttebb, bokrosabb nÃ¶vekedÃ©sÅ± Ã©s ami fontos kÃ¼lÃ¶nbsÃ©g: hÃ­mivarÃº, tehÃ¡t nem hoz piros termÃ©st (bogyÃ³t). Levelei sÃ¶tÃ©tzÃ¶ldek, sÅ±rÅ±n Ã¡llnak. IdeÃ¡lis vÃ¡lasztÃ¡s olyan kertekbe, ahol a mÃ©rgezÅ magkÃ¶penyek kerÃ¼lÃ©se szempont (pl. jÃ¡tszÃ³terek kÃ¶zelÃ©ben). KÃ¶zepes nÃ¶vekedÃ©sÅ±. VÃ©gleges magassÃ¡ga 3â4 mÃ©ter. Nagyon elegÃ¡ns, szabÃ¡lyos formÃ¡jÃº nÃ¶vÃ©ny.",
+  "category": "",
+  "categoriesquality": "SzabadfÃ¶ldi",
+  "categorieslevel": "TÅ±levÃ©l",
+  "categoriesnoves": "KÃ¶zepes",
+  "selectedCategoryFromDropdown": "SÃ¶vÃ©nynÃ¶vÃ©nyek",
+  "itemprices": [
+    "3500",
+    "4500",
+    "5500"
+  ],
+  "itemsizes": [
+    "60-80",
+    "80-100",
+    "100-125"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "Fenyő",
+  "itemlight": "Napos Ã©s fÃ©lÃ¡rnyÃ©kos helyen is szÃ©pen dÃ­szÃ­t.",
+  "itemground": "Ãtlagos kerti talaj megfelelÅ, a szÃ©lsÅsÃ©geket (pangÃ³ vÃ­z) kerÃ¼lni kell.",
+  "itemusage": "KivÃ¡lÃ³ sÃ¶vÃ©nynÃ¶vÃ©ny, de szoliterkÃ©nt is Ã¼ltethetÅ.",
+  "itemlabels": "Taxus media Hillii, bogyÃ³ nÃ©lkÃ¼li tiszafa, sÅ±rÅ± sÃ¶vÃ©ny, oszlopos Ã¶rÃ¶kzÃ¶ld, fÃ¶ldlabdÃ¡s nÃ¶vÃ©ny",
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766755691474-DSC08972.webp"
+}

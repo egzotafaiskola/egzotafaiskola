@@ -1,0 +1,36 @@
+{
+  "ID": "migiskwld0hy",
+  "title": "BabÃ©rmeggy 'Novita'",
+  "latin": "Prunus laurocerasus 'Novita'",
+  "description": "Prunus laurocerasus 'Novita': A legellenÃ¡llÃ³bb Ã©s leggyorsabban nÃ¶vÅ nagylevelÅ± babÃ©rmeggy. KivÃ¡lÃ³ vÃ¡lasztÃ¡s magas, sÅ±rÅ± sÃ¶vÃ©nyek gyors kialakÃ­tÃ¡sÃ¡ra.",
+  "descriptionall": "A 'Novita' jelenleg az egyik legkeresettebb Ã©s legellenÃ¡llÃ³bb babÃ©rmeggy fajta. Levelei nagyok, vastagok, fÃ©nyes bÅrszerÅ±ek Ã©s kÃ¶zÃ©pzÃ¶ldek. RendkÃ­vÃ¼l gyors nÃ¶vekedÃ©sÅ±, robusztus bokrot nevel, amely rÃ¶vid idÅ alatt kÃ©pes magas, teljesen zÃ¡rt falat kÃ©pezni. JÃ³l tÅ±ri a vÃ¡rosi klÃ­mÃ¡t, a szÃ¡razsÃ¡got Ã©s a gombÃ¡s betegsÃ©gekkel (pl. lisztharmat) szemben is nagyon ellenÃ¡llÃ³. Ha gyorsan szeretne lÃ¡tvÃ¡nyos eredmÃ©nyt Ã©s biztos takarÃ¡st, a 'Novita' a legjobb vÃ¡lasztÃ¡s.",
+  "category": "",
+  "categoriesquality": "SzabadfÃ¶ldi",
+  "categorieslevel": "LevÃ©l",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "SÃ¶vÃ©nynÃ¶vÃ©nyek",
+  "itemprices": [
+    "3800",
+    "4800",
+    "5400",
+    "7000",
+    "7500",
+    "8500"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175",
+    "175-200",
+    "200+"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos, fÃ©lÃ¡rnyÃ©kos Ã©s Ã¡rnyÃ©kos helyen is megÃ©l (Ã¡rnyÃ©kban lazÃ¡bb lehet a szerkezete).",
+  "itemground": "Szinte bÃ¡rmilyen kerti talajban szÃ©pen fejlÅdik, tÃ¡panyagigÃ©nyes.",
+  "itemusage": "Magas, gyorsan nÃ¶vÅ sÃ¶vÃ©nynek, szÃ©lfogÃ³nak, vagy nagy szoliter bokornak.",
+  "itemlabels": "Prunus Novita, Ã³riÃ¡s babÃ©rmeggy, gyors sÃ¶vÃ©ny, ellenÃ¡llÃ³, nagylevelÅ±, fÃ¶ldlabdÃ¡s",
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766926739927-DSC09272_(2).webp"
+}

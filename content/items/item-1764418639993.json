@@ -1,0 +1,35 @@
+{
+  "ID": "mjpr5ktk7zt2",
+  "title": "Vörös tölgy",
+  "latin": "Quercus rubra",
+  "description": "Quercus rubra – Vörös tölgy: impozáns méretű, gyorsan növő fa, amely ősszel pazar vörös lombszíneződésével díszít.",
+  "descriptionall": "A vörös tölgy egy Észak-Amerikából származó, gyors növekedésű, nagy termetű lombhullató fa. Koronája széles, gömbölyded. Levelei nagyok, karéjosak, mélyzöldek, ősszel pedig gyönyörű skarlátvörösre vagy barnásvörösre színeződnek, ami a fa fő díszítőértékét adja. Kérge sima, szürke, idősebb korban repedezett. Tűrőképes fafajta, jól viseli a városi körülményeket is.",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Fák",
+  "itemprices": [
+    "4000",
+    "4500",
+    "5500"
+  ],
+  "itemsizes": [
+    "150-175",
+    "175-200",
+    "200+"
+  ],
+  "categorieshakonteneres": "9.5,9.5,9.5,",
+  "itemkontenerek": [
+    "9.5",
+    "9.5",
+    "9.5"
+  ],
+  "categorieshakonteneres2": "Díszfák",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos helyet kedvel.",
+  "itemground": "Mélyrétegű, savanyú vagy semleges talajt igényel, a meszes talajon levelei sárgulhatnak.",
+  "itemusage": "Nagyobb kertekbe, parkokba szoliterként, sorfának vagy árnyékot adó fának.",
+  "itemlabels": "Quercus rubra, vörös tölgy, díszfa, őszi lombszín, gyorsan növő fa, parkfa",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927738827-DSC09949_(3).webp"
+}

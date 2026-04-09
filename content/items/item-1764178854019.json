@@ -1,0 +1,32 @@
+{
+  "ID": "migajez0krgp",
+  "title": "Széleslevelű fagyal",
+  "latin": "Ligustrum ovalifolium",
+  "description": "Ligustrum ovalifolium – Széleslevelű fagyal: Gyorsan növő, félörökzöld cserje, amelyből sűrű, nyírott sövény nevelhető rövid idő alatt.",
+  "descriptionall": "A Széleslevelű fagyal (Ligustrum ovalifolium) az egyik legnépszerűbb sövénynövény, köszönhetően gyors növekedésének és igénytelenségének. Félörökzöld cserje, ami azt jelenti, hogy enyhébb teleken megtartja fényes, zöld leveleit, és csak kemény fagyok esetén hullajtja el azokat. Június-júliusban illatos, fehér bugavirágzatot hoz, melyeket fekete bogyók követnek. Rendkívül jól tűri a metszést, bármilyen formára alakítható. Sűrű ágrendszerével gyorsan képez áthatolhatatlan falat, így ideális telekhatárolónak. Gyors növekedésű, évente 40–60 cm-t is nőhet. Végleges magassága nyírás nélkül 3–4 méter.",
+  "category": "",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
+  "itemprices": [
+    "2900",
+    "3300",
+    "3600",
+    "4200"
+  ],
+  "itemsizes": [
+    "80-100",
+    "100-125",
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "Napos és félárnyékos helyet kedvel, de árnyékban is megél (bár ott ritkásabb lehet).",
+  "itemground": "Talajban nem válogatós, a városi szennyezett levegőt és a szegényebb talajokat is jól tűri.",
+  "itemusage": "Nyírott vagy nyíratlan sövénynek, térhatárolónak.",
+  "itemlabels": "Ligustrum ovalifolium, széleslevelű fagyal, gyors sövény, félörökzöld, igénytelen növény, földlabdás",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764178853024-almafa.jpg"
+}
