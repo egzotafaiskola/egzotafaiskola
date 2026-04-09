@@ -1,0 +1,230 @@
+/* ============================================================
+   Egzóta Díszfaiskola – Responsive overrides
+   Breakpoints: 991px (tablet), 767px (mobile-l), 479px (mobile-p)
+   ============================================================ */
+
+/* ── Footer grid ─────────────────────────────────────────── */
+.footer-inner-grid {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr 1.2fr;
+  gap: 3rem 2rem;
+  padding-bottom: 2.5rem;
+  align-items: start;
+}
+
+@media screen and (max-width: 991px) {
+  .footer-inner-grid {
+    grid-template-columns: 1.2fr 1fr;
+    gap: 2rem 1.5rem;
+  }
+  /* Tagline column spans both cols on tablet */
+  .footer-inner-grid > div:first-child {
+    grid-column: 1 / -1;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .footer-inner-grid {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+}
+
+/* ── Footer bottom bar ───────────────────────────────────── */
+.div-block {
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+@media screen and (max-width: 767px) {
+  .div-block {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+}
+
+/* ── Google Maps wrapper ─────────────────────────────────── */
+.maps-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 20px 48px 20px;
+}
+
+.maps-iframe {
+  width: 70vw;
+  max-width: 900px;
+  height: 45vw;
+  max-height: 500px;
+  min-height: 260px;
+  border: 0;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.13);
+}
+
+@media screen and (max-width: 991px) {
+  .maps-iframe {
+    width: 88vw;
+    height: 50vw;
+    min-height: 240px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .maps-wrap {
+    padding: 8px 12px 32px 12px;
+  }
+  .maps-iframe {
+    width: 96vw;
+    height: 60vw;
+    min-height: 220px;
+    border-radius: 8px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .maps-iframe {
+    width: 100%;
+    height: 56vw;
+    min-height: 200px;
+    border-radius: 6px;
+  }
+}
+
+/* ── Hero sections ───────────────────────────────────────── */
+@media screen and (max-width: 767px) {
+  /* termsofservice hero */
+  header.section .container {
+    padding: 3rem 1rem !important;
+  }
+  .heading_h1 {
+    font-size: clamp(1.6rem, 5vw, 2.5rem);
+  }
+}
+
+/* ── Products filter panel ───────────────────────────────── */
+@media screen and (max-width: 767px) {
+  .filter-panel {
+    padding: 14px 14px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  .filter-primary-row,
+  .filter-extra-row {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  .filter-field {
+    min-width: 0;
+    flex: unset;
+    width: 100%;
+  }
+  .filter-search-btn {
+    padding: 10px 16px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .filter-panel {
+    padding: 12px;
+  }
+}
+
+/* ── Product cards grid ──────────────────────────────────── */
+@media screen and (max-width: 479px) {
+  .grid_3-col {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ── Image hover – disable on touch devices ──────────────── */
+@media (hover: none) {
+  img:hover {
+    transform: none;
+  }
+  .w-button:hover {
+    transform: none;
+    box-shadow: none;
+  }
+  .tipp-card:hover {
+    transform: none;
+    box-shadow: 0 2px 12px rgba(0,0,0,.08);
+  }
+}
+
+/* ── Section padding on mobile ───────────────────────────── */
+@media screen and (max-width: 767px) {
+  .section {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+/* ── Milestone timeline ──────────────────────────────────── */
+@media screen and (max-width: 479px) {
+  .timeline {
+    padding-left: 1.2rem;
+  }
+  .timeline-item::before {
+    left: -1.6rem;
+  }
+}
+
+/* ── Stats grid ──────────────────────────────────────────── */
+@media screen and (max-width: 479px) {
+  .stat-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+  .stat-number {
+    font-size: 2rem;
+  }
+}
+
+/* ── Kertészeti tipp cards ───────────────────────────────── */
+@media screen and (max-width: 479px) {
+  .tipp-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── Rólunk / kapcsolat contact grid (termsofservice JS) ─── */
+@media screen and (max-width: 767px) {
+  /* termsofservice inline contact grid */
+  [style*="grid-template-columns:1fr 1fr"] {
+    grid-template-columns: 1fr !important;
+  }
+}
+
+/* ── nav mobile improvements ─────────────────────────────── */
+@media screen and (max-width: 479px) {
+  .nav_logo .image-2 {
+    max-height: 36px;
+  }
+}
+
+/* ── Termsofservice operator info block ──────────────────── */
+@media screen and (max-width: 767px) {
+  .w-layout-blockcontainer.w-container {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
+/* ── Subtitle paragraphs under product page headings ─────── */
+@media screen and (max-width: 767px) {
+  .products-subtitle {
+    font-size: 1rem;
+    padding: 0 1rem;
+  }
+}
+
+/* ── General container safety ────────────────────────────── */
+* {
+  box-sizing: border-box;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
