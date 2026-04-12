@@ -1,5 +1,5 @@
 {
-  "ID": "mik9gy6f7cxm",
+  "ID": "mnw7el6as36f",
   "title": "Vérribiszke 'King Edward VII'",
   "latin": "Ribes sanguineum 'King Edward VII'",
   "description": "Ribes sanguineum 'King Edward VII' – Vérribiszke: kora tavasszal nyíló, illatos, mélyvörös virágfürtökkel díszítő cserje.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Cserjék",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "1800"
   ],
@@ -25,5 +25,5 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő talajt igényel.",
   "itemusage": "Díszcserjeként szoliternek, vagy virágzó sövénynek csoportosan ültetve.",
   "itemlabels": "Ribes sanguineum, vérribiszke, piros virágú cserje, tavaszi virágzás, illatos növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764418923025-Gemini_Generated_Image_jlxnztjlxnztjlxn-removebg-preview.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024959426-almafa_lowres.jpg"
 }
