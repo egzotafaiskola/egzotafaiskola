@@ -1,12 +1,12 @@
 {
   "ID": "migi6yq7m668",
-  "title": "Oszlopos babÃ©rmeggy 'Genolia'",
+  "title": "Oszlopos babérmeggy 'Genolia'",
   "latin": "Prunus laurocerasus 'Genolia'",
-  "description": "Prunus laurocerasus 'Genolia': SzigorÃºan oszlopos nÃ¶vekedÃ©sÅ± babÃ©rmeggy, amely nem szÃ©lesedik ki. A legjobb vÃ¡lasztÃ¡s keskeny sÃ¶vÃ©nynek Ã©s kis kertekbe.",
-  "descriptionall": "A 'Genolia' az egyik legkivÃ¡lÃ³bb oszlopos nÃ¶vekedÃ©sÅ± babÃ©rmeggy a piacon. Ãgai szigorÃºan felfelÃ© tÃ¶rnek, a nÃ¶vÃ©ny szÃ©lessÃ©ge kifejlett korÃ¡ban sem haladja meg a 80-100 cm-t, mikÃ¶zben magassÃ¡ga elÃ©ri a 3-4 mÃ©tert. Emiatt tÃ¶kÃ©letes vÃ¡lasztÃ¡s keskeny sÃ¡vokba, ahol nincs hely szÃ©les sÃ¶vÃ©nynek. Levelei sÃ¶tÃ©tzÃ¶ldek, bÅrszerÅ±ek, keskenyebbek. RendkÃ­vÃ¼l sÅ±rÅ±, Ã­gy tÃ¶kÃ©letes belÃ¡tÃ¡sgÃ¡tlÃ³. TÃ©lÃ¡llÃ³sÃ¡ga kivÃ¡lÃ³, SvÃ¡jcban nemesÃ­tettÃ©k a hideg tÅ±rÃ©sÃ©re.",
+  "description": "Prunus laurocerasus 'Genolia': Szigorúan oszlopos növekedésű babérmeggy, amely nem szélesedik ki. A legjobb választás keskeny sövénynek és kis kertekbe.",
+  "descriptionall": "A 'Genolia' az egyik legkiválóbb oszlopos növekedésű babérmeggy a piacon. Ágai szigorúan felfelé törnek, a növény szélessége kifejlett korában sem haladja meg a 80-100 cm-t, miközben magassága eléri a 3-4 métert. Emiatt tökéletes választás keskeny sávokba, ahol nincs hely széles sövénynek. Levelei sötétzöldek, bőrszerűek, keskenyebbek. Rendkívül sűrű, így tökéletes belátásgátló. Télállósága kiváló, Svájcban nemesítették a hideg tűrésére.",
   "category": "",
-  "categoriesquality": "SzabadfÃ¶ldi",
-  "categorieslevel": "LevÃ©l",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
   "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
@@ -24,9 +24,9 @@
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
-  "itemlight": "Napos Ã©s fÃ©lÃ¡rnyÃ©kos helyen is jÃ³l fejlÅdik.",
-  "itemground": "Ãtlagos kerti talajban is szÃ©pen dÃ­szÃ­t, a pangÃ³ vizet kerÃ¼ljÃ¼k.",
-  "itemusage": "HelytakarÃ©kos sÃ¶vÃ©nynek, keskeny tÃ©relvÃ¡lasztÃ³nak.",
-  "itemlabels": "Prunus Genolia, oszlopos babÃ©rmeggy, keskeny sÃ¶vÃ©ny, helytakarÃ©kos, tÃ©lÃ¡llÃ³, fÃ¶ldlabdÃ¡s",
+  "itemlight": "Napos és félárnyékos helyen is jól fejlődik.",
+  "itemground": "Átlagos kerti talajban is szépen díszít, a pangó vizet kerüljük.",
+  "itemusage": "Helytakarékos sövénynek, keskeny térelválasztónak.",
+  "itemlabels": "Prunus Genolia, oszlopos babérmeggy, keskeny sövény, helytakarékos, télálló, földlabdás",
   "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765888059993-DSC09288_(1).webp"
 }
