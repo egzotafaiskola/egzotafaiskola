@@ -1,14 +1,14 @@
 {
   "ID": "mig0dgzj0re1",
   "title": "Oszlopos tuja",
-  "latin": "Thuja occidentalis âColumnaâ",
-  "description": "Thuja occidentalis âColumnaâ â Oszlopos tuja: szabÃ¡lyos henger alakÃº, sÃ¶tÃ©tzÃ¶ld lombozatÃº fajta, amely ideÃ¡lis helytakarÃ©kos, keskeny sÃ¶vÃ©nynek.",
-  "descriptionall": "A âColumnaâ egy karcsÃº, henger alakÃº, oszlopos nÃ¶vekedÃ©sÅ± tuja. Ãgai vÃ­zszintesen Ã¡llnak, de rÃ¶videk, Ã­gy a nÃ¶vÃ©ny szÃ©lessÃ©ge korlÃ¡tozott marad. Levelei sÃ¶tÃ©tzÃ¶ldek, fÃ©nyesek. KivÃ¡lÃ³ vÃ¡lasztÃ¡s keskenyebb sÃ¶vÃ©nyekhez, mivel oldalirÃ¡nyban nem terjeszkedik agresszÃ­ven, Ã­gy kevesebb nyÃ­rÃ¡st igÃ©nyel, mint a Brabant. VÃ©gleges magassÃ¡ga 5â8 mÃ©ter. TÃ©len is szÃ©pen megtartja zÃ¶ld szÃ­nÃ©t.",
+  "latin": "Thuja occidentalis 'Columna'",
+  "description": "Thuja occidentalis 'Columna' – Oszlopos tuja: szabályos henger alakú, sötétzöld lombozatú fajta, amely ideális helytakarékos, keskeny sövénynek.",
+  "descriptionall": "A 'Columna' egy karcsú, henger alakú, oszlopos növekedésű tuja. Ágai vízszintesen állnak, de rövidek, így a növény szélessége korlátozott marad. Levelei sötétzöldek, fényesek. Kiváló választás keskenyebb sövényekhez, mivel oldalirányban nem terjeszkedik agresszíven, így kevesebb nyírást igényel, mint a Brabant. Végleges magassága 5–8 méter. Télen is szépen megtartja zöld színét.",
   "category": "",
-  "categoriesquality": "SzabadfÃ¶ldi",
+  "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
-  "categoriesnoves": "KÃ¶zepes",
-  "selectedCategoryFromDropdown": "SÃ¶vÃ©nynÃ¶vÃ©nyek",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "2800",
     "3000"
@@ -20,9 +20,9 @@
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Fenyő",
-  "itemlight": "Napos, fÃ©lÃ¡rnyÃ©kos.",
-  "itemground": "Ãtlagos, jÃ³ vÃ­zÃ¡teresztÅ talaj.",
-  "itemusage": "Keskeny sÃ¶vÃ©nyek, tÃ©rhatÃ¡rolÃ³k, szÃ©lfogÃ³k kialakÃ­tÃ¡sÃ¡ra.",
-  "itemlabels": "Thuja occidentalis Columna, oszlopos tuja, keskeny sÃ¶vÃ©ny, sÃ¶tÃ©tzÃ¶ld tuja, fÃ¶ldlabdÃ¡s nÃ¶vÃ©ny",
+  "itemlight": "Napos, félárnyékos.",
+  "itemground": "Átlagos, jó vízáteresztő talaj.",
+  "itemusage": "Keskeny sövények, térhatárolók, szélfogók kialakítására.",
+  "itemlabels": "Thuja occidentalis Columna, oszlopos tuja, keskeny sövény, sötétzöld tuja, földlabdás növény",
   "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766756318391-DSC00187.webp"
 }
