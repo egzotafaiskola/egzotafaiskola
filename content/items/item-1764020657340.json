@@ -2,13 +2,13 @@
   "ID": "midocpkvd308",
   "title": "Leylandi ciprus 'Blue Jeans'",
   "latin": "Cupressocyparis x leylandii 'Blue Jeans'",
-  "description": "Cupressocyparis x leylandii 'Blue Jeans': KÃ©kes-zÃ¶ld lombozatÃº, gyors nÃ¶vekedÃ©sÅ± leylandi ciprus, amely elegÃ¡ns sÃ¶vÃ©nykÃ©nt funkcionÃ¡l.",
-  "descriptionall": "A 'Blue Jeans' egy kÃ¼lÃ¶nleges, kÃ©kes-zÃ¶ld Ã¡rnyalatÃº leylandi ciprus fajta. HajtÃ¡sai sÅ±rÅ±k, lombozata valamivel finomabb szerkezetÅ±, mint az alapfajÃ©. Ez a vÃ¡ltozat is gyorsan nÅ Ã©s kivÃ¡lÃ³an alkalmas sÃ¶vÃ©nynek, de kÃ¼lÃ¶nleges szÃ­ne miatt dÃ­szÃ­tÅÃ©rtÃ©ke magasabb.",
+  "description": "Cupressocyparis x leylandii 'Blue Jeans': Kékes-zöld lombozatú, gyors növekedésű leylandi ciprus, amely elegáns sövényként funkcionál.",
+  "descriptionall": "A 'Blue Jeans' egy különleges, kékes-zöld árnyalatú leylandi ciprus fajta. Hajtásai sűrűk, lombozata valamivel finomabb szerkezetű, mint az alapfajé. Ez a változat is gyorsan nő és kiválóan alkalmas sövénynek, de különleges színe miatt díszítőértéke magasabb.",
   "category": "",
-  "categoriesquality": "SzabadfÃ¶ldi",
+  "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "SÃ¶vÃ©nynÃ¶vÃ©nyek",
+  "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "3600",
     "4000"
@@ -20,9 +20,9 @@
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Leilandi",
-  "itemlight": "Napos vagy fÃ©lÃ¡rnyÃ©kos helyen Ã©rzi jÃ³l magÃ¡t.",
-  "itemground": "IgÃ©nytelen, a legtÃ¶bb kerti talajban jÃ³l fejlÅdik.",
-  "itemusage": "SÃ¶vÃ©nynek, tÃ©rhatÃ¡rolÃ³nak kivÃ¡lÃ³, de szoliterkÃ©nt is megÃ¡llja a helyÃ©t kÃ©kes Ã¡rnyalata miatt.",
-  "itemlabels": "Cupressocyparis leylandii, Blue Jeans, kÃ©kes leylandi, sÃ¶vÃ©nynÃ¶vÃ©ny, Ã¶rÃ¶kzÃ¶ld, gyors nÃ¶vekedÃ©s, fÃ¶ldlabdÃ¡s",
+  "itemlight": "Napos vagy félárnyékos helyen érzi jól magát.",
+  "itemground": "Igénytelen, a legtöbb kerti talajban jól fejlődik.",
+  "itemusage": "Sövénynek, térhatárolónak kiváló, de szoliterként is megállja a helyét kékes árnyalata miatt.",
+  "itemlabels": "Cupressocyparis leylandii, Blue Jeans, kékes leylandi, sövénynövény, örökzöld, gyors növekedés, földlabdás",
   "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp"
 }
