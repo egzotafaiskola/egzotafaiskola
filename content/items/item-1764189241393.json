@@ -2,13 +2,13 @@
   "ID": "miggq1xiz4eq",
   "title": "Korallberkenye 'Red Select'",
   "latin": "Photinia fraseri 'Red Select'",
-  "description": "Photinia fraseri 'Red Select': Nagyobb levelÅ±, mÃ©lyvÃ¶rÃ¶s hajtÃ¡sokat hozÃ³ korallberkenye vÃ¡ltozat. Robusztus Ã©s elegÃ¡ns Ã¶rÃ¶kzÃ¶ld.",
-  "descriptionall": "A 'Red Select' a korallberkenye egy vÃ¡logatott, intenzÃ­vebb szÃ­nvilÃ¡gÃº fajtÃ¡ja. Levelei valamivel nagyobbak Ã©s szÃ©lesebbek, mint a 'Red Robin'-Ã©, a friss hajtÃ¡sok pedig mÃ©lyebb, drÃ¡maibb vÃ¶rÃ¶s, szinte lilÃ¡svÃ¶rÃ¶s Ã¡rnyalatban pompÃ¡znak. NÃ¶vekedÃ©se robusztus, bokra sÅ±rÅ± Ã©s tÃ¶mÃ¶tt. ElegÃ¡ns megjelenÃ©se miatt gyakran Ã¼ltetik szoliternek, de sÃ¶vÃ©nykÃ©nt is exkluzÃ­v hatÃ¡st kelt. ÃrÃ¶kzÃ¶ld lombozata tÃ©len is Ã©lettel tÃ¶lti meg a kertet.",
+  "description": "Photinia fraseri 'Red Select': Nagyobb levelű, mélyvörös hajtásokat hozó korallberkenye változat. Robusztus és elegáns örökzöld.",
+  "descriptionall": "A 'Red Select' a korallberkenye egy válogatott, intenzívebb színvilágú fajtája. Levelei valamivel nagyobbak és szélesebbek, mint a 'Red Robin'-é, a friss hajtások pedig mélyebb, drámiabb vörös, szinte lilásvörös árnyalatban pompáznak. Növekedése robusztus, bokra sűrű és tömött. Elegáns megjelenése miatt gyakran ültetik szoliternek, de sövényként is exkluzív hatást kelt. Örökzöld lombozata télen is élettel tölti meg a kertet.",
   "category": "",
-  "categoriesquality": "SzabadfÃ¶ldi",
-  "categorieslevel": "LevÃ©l",
+  "categoriesquality": "Szabadföldi",
+  "categorieslevel": "Levél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "LomblevelÅ± Ã¶rÃ¶kzÃ¶ldek",
+  "selectedCategoryFromDropdown": "Lomblevelű örökzöldek",
   "itemprices": [
     "4500"
   ],
@@ -18,9 +18,9 @@
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
-  "itemlight": "Napos, vilÃ¡gos helyet igÃ©nyel a szÃ©p lombszÃ­nhez.",
-  "itemground": "EnyhÃ©n savanyÃº vagy semleges, tÃ¡pdÃºs talajt kedvel.",
-  "itemusage": "DÃ­szes sÃ¶vÃ©nynek vagy hangsÃºlyos szoliter nÃ¶vÃ©nynek.",
-  "itemlabels": "Photinia Red Select, nagy levelÅ± korallberkenye, mÃ©lyvÃ¶rÃ¶s hajtÃ¡s, Ã¶rÃ¶kzÃ¶ld, fÃ¶ldlabdÃ¡s",
+  "itemlight": "Napos, világos helyet igényel a szép lombszínhez.",
+  "itemground": "Enyhén savanyú vagy semleges, tápdús talajt kedvel.",
+  "itemusage": "Díszes sövénynek vagy hangsúlyos szoliter növénynek.",
+  "itemlabels": "Photinia Red Select, nagy levelű korallberkenye, mélyvörös hajtás, örökzöld, földlabdás",
   "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765909659341-DSC09292.webp"
 }
