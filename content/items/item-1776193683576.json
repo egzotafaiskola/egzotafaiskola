@@ -1,5 +1,5 @@
 {
-  "ID": "mnyzuwlkrvvt",
+  "ID": "mnyzwt955g3a",
   "title": "Teszt növény",
   "latin": "Növényikusz tesztusz",
   "description": "Zöld biszi baszi",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Fák",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "5000",
     "6000"
@@ -26,5 +26,5 @@
   "itemground": "van neki",
   "itemusage": "zöldítés",
   "itemlabels": "fikumsz mikumsz",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776193682319-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776193771297-almafa_lowres.jpg"
 }
