@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talaj megfelelő számára, jó szárazságtűrő, ha már begyökeresedett.",
   "itemusage": "Alacsony sövénynek, talajtakarónak, rézsűk beültetésére vagy sziklakertbe.",
   "itemlabels": "Hypericum 'Hidcote', orbáncfű, sárga virágú cserje, talajtakaró cserje, hosszan virágzó",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828874056-DSC09521_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828874056-DSC09521_(1).webp",
+  "showonweb": true
 }

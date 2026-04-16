@@ -25,5 +25,6 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talajban jól fejlődik.",
   "itemusage": "Színfoltként cserjecsoportokba, szoliternek vagy nyíratlan virágos sövénynek.",
   "itemlabels": "Weigela florida 'Alexandra', rózsalonc, vörös levelű cserje, rózsaszín virág, kontrasztos növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766164174324-DSC09894.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766164174324-DSC09894.webp",
+  "showonweb": true
 }

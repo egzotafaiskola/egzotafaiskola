@@ -25,5 +25,6 @@
   "itemground": "Igénytelen, szinte bármilyen talajban fejlődik.",
   "itemusage": "Sövénynek, cserjecsoportokba, rézsűkre, vagy árnyékos kertrészek díszítésére.",
   "itemlabels": "Symphoricarpos, hóbogyó, lila bogyó, őszi dísz, igénytelen cserje, árnyéktűrő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766583573771-DSC09875_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766583573771-DSC09875_(1).webp",
+  "showonweb": true
 }

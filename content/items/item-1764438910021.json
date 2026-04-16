@@ -29,5 +29,6 @@
   "itemground": "Savanyú vagy semleges, mészmentes, nedves talajt kedvel. Meszes talajon levelei sárgulhatnak.",
   "itemusage": "Szoliternek, utcasorfának vagy parkokba, ahol érvényesülhet őszi színeződése.",
   "itemlabels": "Liquidambar styraciflua, ámbrafa, őszi lombszín, parás kéreg, díszfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828448915-DSC09944_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828448915-DSC09944_(2).webp",
+  "showonweb": true
 }

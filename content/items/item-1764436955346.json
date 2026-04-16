@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő talajt kedvel.",
   "itemusage": "Keskenyebb, nyírott vagy nyíratlan sövénynek, szoliternek.",
   "itemlabels": "Prunus laurocerasus 'Antonius', babérmeggy, télálló, oszlopos sövény, bronzos hajtás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024819642-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024819642-almafa_lowres.jpg",
+  "showonweb": false
 }

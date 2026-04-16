@@ -28,5 +28,6 @@
   "itemground": "Átlagos, jó vízáteresztő talajt kedvel, tápanyagigénye közepes.",
   "itemusage": "Elsősorban nyírott vagy nyíratlan sövénynek, de cserjecsoportokba is ültethető.",
   "itemlabels": "Ligustrum ovalifolium, fagyal, sövénynövény, télizöld cserje, Green Diamond",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765826897031-DSC09378_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765826897031-DSC09378_(1).webp",
+  "showonweb": true
 }

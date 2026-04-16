@@ -25,5 +25,6 @@
   "itemground": "Mindenfajta talajon megél, a szárazságot és a meszes talajt is jól bírja.",
   "itemusage": "Védősövény, madárbarát kert, szoliter fa, tájképi kertek.",
   "itemlabels": "Crataegus monogyna, galagonya, gyógynövény, tövises sövény, őshonos",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764434666612-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764434666612-almafa.jpg",
+  "showonweb": false
 }

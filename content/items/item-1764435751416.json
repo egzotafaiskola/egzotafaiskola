@@ -25,5 +25,6 @@
   "itemground": "Enyhén savanyú, tápanyagdús talajt igényel.",
   "itemusage": "Szoliterként, dézsás növényként teraszra, vagy alacsony jelzősövénynek.",
   "itemlabels": "Osmanthus heterophyllus 'Variegatus', tarka levelű illatcserje, fehér szegély, örökzöld, díszcserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765909986532-DSC09965.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765909986532-DSC09965.webp",
+  "showonweb": true
 }

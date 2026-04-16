@@ -28,5 +28,6 @@
   "itemground": "Mélyrétegű, jó vízellátottságú talajt igényel, de jól tűri a városi körülményeket.",
   "itemusage": "Nagyobb kertekbe, parkokba szoliterként vagy sorfának, kiváló árnyékadó.",
   "itemlabels": "Platanus hispanica, platánfa, juharlevelű platán, parkfa, kéregdísz, nagytermetű fa.",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024849092-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024849092-almafa_lowres.jpg",
+  "showonweb": false
 }

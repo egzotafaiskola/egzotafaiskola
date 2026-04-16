@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban szépen fejlődik, jó szárazságtűrő.",
   "itemusage": "Szoliterként sziklakertbe, örökzöld csoportokba színesítő elemnek, vagy alacsony takarónak.",
   "itemlabels": "Juniperus media, arany boróka, sárga lombú örökzöld, pfitzer boróka, alacsony cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828102872-DSC09454_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828102872-DSC09454_(1).webp",
+  "showonweb": true
 }

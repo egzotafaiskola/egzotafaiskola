@@ -25,5 +25,6 @@
   "itemground": "Minden talajon megél, még a szikes, homokos talajokon is.",
   "itemusage": "Szoliter, szélfogó sávok, rossz minőségű területek fásítása, méhlegelő.",
   "itemlabels": "Elaeagnus angustifolia, ezüstfa, illatos virág, szárazságtűrő, ezüstös lomb",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437076281-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437076281-almafa.jpg",
+  "showonweb": false
 }

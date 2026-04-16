@@ -25,5 +25,6 @@
   "itemground": "Mélyrétegű, jó vízáteresztő képességű talajt kedvel, de jól alkalmazkodik.",
   "itemusage": "Különleges szoliter fa parkokba, nagyobb kertekbe, vagy utcasorfának.",
   "itemlabels": "Ginkgo biloba, páfrányfenyő, élő kövület, őszi lombszín, várostűrő fa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437427487-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437427487-almafa.jpg",
+  "showonweb": false
 }

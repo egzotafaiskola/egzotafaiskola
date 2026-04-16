@@ -25,5 +25,6 @@
   "itemground": "Jól tűri a homokos, szegényebb talajokat is, de a nedvességet meghálálja.",
   "itemusage": "Sziklakertekbe, rézsűkre, talajtakarónak, vízpartok mellé.",
   "itemlabels": "Salix repens 'Nitida', kúszó fűz, ezüstös lomb, talajtakaró cserje, rézsűmegkötés",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928719017-DSC09568.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928719017-DSC09568.webp",
+  "showonweb": true
 }

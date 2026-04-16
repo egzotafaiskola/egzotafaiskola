@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús talajban fejlődik a legjobban.",
   "itemusage": "Talajtakarónak, ágyásszegélynek, sziklakertbe vagy balkonládába.",
   "itemlabels": "Rosa 'Red Fairy', piros talajtakaró rózsa, hosszan virágzó, terülő rózsa, ágyásrózsa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928127493-DSC09405_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928127493-DSC09405_(2).webp",
+  "showonweb": true
 }

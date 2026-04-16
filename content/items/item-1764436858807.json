@@ -25,5 +25,6 @@
   "itemground": "Vízigényes, szereti a mélyrétegű, nedves talajokat, de jól alkalmazkodik.",
   "itemusage": "Sorfának, szélfogónak, telekhatárokra vagy tájképi elemként (pl. utak mentén).",
   "itemlabels": "Populus nigra 'Italica', jegenyenyár, oszlopos fa, gyorsan növő fa, szélfogó",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889037739-DSC09279.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889037739-DSC09279.webp",
+  "showonweb": true
 }

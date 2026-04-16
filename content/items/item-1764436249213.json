@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban jól érzi magát.",
   "itemusage": "Talajtakaró, sziklakert, alacsony szegély, sírok, balkonládák.",
   "itemlabels": "Euonymus Emerald n Gold, aranytarka kecskerágó, talajtakaró, örökzöld, színes levél",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889696642-DSC09861.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889696642-DSC09861.webp",
+  "showonweb": true
 }

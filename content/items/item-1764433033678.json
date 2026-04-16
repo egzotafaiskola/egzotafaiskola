@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban is szépen fejlődik.",
   "itemusage": "Talajtakarónak, alacsony jelzősövénynek, sziklakertbe, sírokra vagy évelőágyásokba.",
   "itemlabels": "Spiraea japonica 'Little Princess', törpe gyöngyvessző, rózsaszín virág, talajtakaró cserje, alacsony sövény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766929047749-DSC09504_(3).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766929047749-DSC09504_(3).webp",
+  "showonweb": true
 }

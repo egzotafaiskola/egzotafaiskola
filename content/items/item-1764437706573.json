@@ -25,5 +25,6 @@
   "itemground": "Tápdús, jó vízáteresztő talajt kedvel, a meszes talajt is tűri.",
   "itemusage": "Szoliterként, virágos sövényként vagy cserjecsoportokba ültetve kiváló.",
   "itemlabels": "Hibiscus syriacus, kerti mályvacserje, nyári orgona, virágos cserje, nyári virágzás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765887572319-DSC09627_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765887572319-DSC09627_(1).webp",
+  "showonweb": true
 }

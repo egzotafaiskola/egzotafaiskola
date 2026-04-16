@@ -25,5 +25,6 @@
   "itemground": "Üde, jó vízáteresztő, tápanyagdús talajt igényel.",
   "itemusage": "Sziklakertbe, dézsás növényként, vagy árnyékosabb kertek világosítására szoliterként.",
   "itemlabels": "Osmanthus heterophyllus 'Goshiki', tarka illatcserje, színes lomb, örökzöld, törpe cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765910316974-DSC09969.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765910316974-DSC09969.webp",
+  "showonweb": true
 }

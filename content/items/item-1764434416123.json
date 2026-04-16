@@ -25,5 +25,6 @@
   "itemground": "Igénytelen, a városi levegőt és a szárazságot is jól tűri.",
   "itemusage": "Talajtakaró, rézsűk, alacsony jelzősövény, sziklakertek.",
   "itemlabels": "Cotoneaster horizontalis, kerti madárbirs, piros bogyó, őszi lombszín, talajtakaró",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766163502433-DSC09491_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766163502433-DSC09491_(1).webp",
+  "showonweb": true
 }

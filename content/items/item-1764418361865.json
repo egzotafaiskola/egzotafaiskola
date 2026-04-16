@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő képességű, meszes talajt kedvel.",
   "itemusage": "Alacsony sövény, szegélynövény, formára nyírt kerti dísz, sírkertek növénye.",
   "itemlabels": "Buxus sempervirens, puszpáng, buxus, örökzöld sövény, formára nyírható",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833009269-DSC09594.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833009269-DSC09594.webp",
+  "showonweb": true
 }

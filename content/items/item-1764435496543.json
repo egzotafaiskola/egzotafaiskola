@@ -25,5 +25,6 @@
   "itemground": "Széles talajtűrésű, de a pangó vizet kerülni kell.",
   "itemusage": "Zárt sövény, szélfogó, szoliter.",
   "itemlabels": "Cupressocyparis 2001, leylandi 2001, oszlopos leylandi, sűrű sövény, örökzöld",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766161686910-DSC09629.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766161686910-DSC09629.webp",
+  "showonweb": true
 }

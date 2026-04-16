@@ -25,5 +25,6 @@
   "itemground": "Tápdús kerti talajban, rendszeres öntözés mellett fejlődik szépen.",
   "itemusage": "Kaspóban teraszon, bejárat mellett, előkertben szoliterként.",
   "itemlabels": "Leylandi gömb, törzses örökzöld, formára nyírt, kerti dísz, exkluzív növény",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp",
+  "showonweb": true
 }

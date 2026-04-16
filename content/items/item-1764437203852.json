@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban jól érzi magát, nem válogatós.",
   "itemusage": "Szoliterként, cserjecsoportokba vagy nyíratlan, virágos sövénynek ültethető.",
   "itemlabels": "Forsythia x intermedia 'Lynwood', aranyvessző, sárga virágú cserje, tavaszi virágzás, gyors növésű cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765888371481-DSC09486_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765888371481-DSC09486_(1).webp",
+  "showonweb": true
 }

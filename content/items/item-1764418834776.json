@@ -27,5 +27,6 @@
   "itemground": "Nem igényes, de a nedvesebb, tápdús talajokat meghálálja.",
   "itemusage": "Sövényként (oszlopos formája miatt sűrű falat alkot), sorfának, szűk terekbe.",
   "itemlabels": "Carpinus Frans Fontaine, karcsú oszlopos fa, gyertyán, modern kert, sorfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833120711-DSC09249.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833120711-DSC09249.webp",
+  "showonweb": true
 }

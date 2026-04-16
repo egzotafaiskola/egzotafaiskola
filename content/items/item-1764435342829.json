@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús, enyhén savanyú talajt kedvel.",
   "itemusage": "Szoliterként, nyírott sövénynek (a magyal helyettesítésére), vagy bejáratok közelébe az illata miatt.",
   "itemlabels": "Osmanthus heterophyllus, illatcserje, örökzöld, illatos virág, magyalszerű levél, őszi virágzás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765910452722-DSC09957.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765910452722-DSC09957.webp",
+  "showonweb": true
 }

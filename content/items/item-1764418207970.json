@@ -25,5 +25,6 @@
   "itemground": "Nem válogatós, átlagos kerti talajban jól érzi magát, szárazságtűrő.",
   "itemusage": "Színfoltképző szoliterként, nyírott vagy nyíratlan védősövényként, cserjecsoportokba ültetve.",
   "itemlabels": "Berberis thunbergii, vérborbolya, vörös levelű cserje, szúrós sövény, díszcserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832847936-DSC09539_(3).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832847936-DSC09539_(3).webp",
+  "showonweb": true
 }

@@ -25,5 +25,6 @@
   "itemground": "Vízigényes, nedves, de jó vízáteresztő talajt igényel.",
   "itemusage": "Kisebb kertekbe, előkertekbe, japánkertekbe szoliterként, vagy dézsás növényként.",
   "itemlabels": "Salix purpurea 'Pendula', csüngő barkafűz, szomorúfűz, barka, tavaszi dísz, törzses fűz",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928610119-DSC09552_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928610119-DSC09552_(1).webp",
+  "showonweb": true
 }

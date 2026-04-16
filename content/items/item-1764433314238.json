@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban jól fejlődik, tűri a meszes talajt is.",
   "itemusage": "Szoliterként, cserjecsoportokban kontrasztképzőként, laza sövénynek.",
   "itemlabels": "Corylus avellana, vörös mogyoró, ehető termés, színes lomb, díszcserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766583370176-DSC09587_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766583370176-DSC09587_(1).webp",
+  "showonweb": true
 }

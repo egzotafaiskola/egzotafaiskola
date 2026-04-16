@@ -25,5 +25,6 @@
   "itemground": "Igénytelen, bármilyen kerti talajban jól fejlődik.",
   "itemusage": "Szoliterként, nyírott vagy nyíratlan sövénynek, illetve világos levelű növényekkel társítva kontrasztképzésre.",
   "itemlabels": "Physocarpus opulifolius 'Diabolo', hólyagvessző, bordó levelű cserje, igénytelen növény, kontraszt növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024881675-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024881675-almafa_lowres.jpg",
+  "showonweb": false
 }

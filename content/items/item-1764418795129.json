@@ -25,5 +25,6 @@
   "itemground": "Talajban nem válogatós, a szélsőségeket is jól tűri.",
   "itemusage": "Alacsony nyírott sövénynek, árnyékos területek beültetésére, vagy cserjecsoportokba.",
   "itemlabels": "Ribes alpinum 'Schmidt', havasi ribiszke, árnyéktűrő cserje, alacsony sövény, igénytelen növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927871843-DSC09515.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927871843-DSC09515.webp",
+  "showonweb": true
 }

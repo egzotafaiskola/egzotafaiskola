@@ -25,5 +25,6 @@
   "itemground": "Jól tűri a laza homokos és sós talajokat is, szárazságtűrő.",
   "itemusage": "Szoliterként, nyaralókba, homokos területek fásítására.",
   "itemlabels": "Tamarix tetrandra, tamariska, rózsaszín virág, szárazságtűrő, homoktövis, mediterrán hatás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766583018361-DSC09648_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766583018361-DSC09648_(1).webp",
+  "showonweb": true
 }

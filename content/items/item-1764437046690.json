@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban is megél, de a tápanyagot meghálálja.",
   "itemusage": "Alacsony sövénynek, térelválasztónak, gömb formára nyírva szoliternek.",
   "itemlabels": "Prunus laurocerasus 'Baumgartner', kompakt babérmeggy, kislevelű babérmeggy, alacsony sövény, betegségellenálló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024806301-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024806301-almafa_lowres.jpg",
+  "showonweb": false
 }

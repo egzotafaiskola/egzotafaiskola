@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban jól fejlődik, nem igényes.",
   "itemusage": "Talajtakarónak rézsűkre, alacsony jelzősövénynek, vagy temetői kiültetésre.",
   "itemlabels": "Lonicera nitida, mirtuszlonc, talajtakaró cserje, apró levelű örökzöld, sövénypótló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024564362-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024564362-almafa_lowres.jpg",
+  "showonweb": false
 }

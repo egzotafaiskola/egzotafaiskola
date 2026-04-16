@@ -25,5 +25,6 @@
   "itemground": "Savanyú, tőzeges, tápdús és jó vízáteresztő talajt igényel.",
   "itemusage": "Kiemelt helyre ültetett szoliterként érvényesül leginkább a szépsége.",
   "itemlabels": "Magnolia Susan, liliomfa, bíbor virágú magnólia, tavaszi virágzás, szoliter cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1772738976857-magnolia-susan.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1772738976857-magnolia-susan.jpg",
+  "showonweb": true
 }

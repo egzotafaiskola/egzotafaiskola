@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő, üde talajt igényel.",
   "itemusage": "Szoliterként, bejáratok közelébe az illata miatt, vagy cserjecsoportokba.",
   "itemlabels": "Viburnum bodnantense, kikeleti bangita, téli virágzás, illatos cserje, korai tavasz",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766409787051-DSC09918.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766409787051-DSC09918.webp",
+  "showonweb": true
 }

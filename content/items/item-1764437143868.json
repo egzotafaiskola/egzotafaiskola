@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús talajt kedvel.",
   "itemusage": "Magas, takaró sövénynek, szoliter bokornak.",
   "itemlabels": "Prunus laurocerasus 'Fontanette', nagylevelű babérmeggy, gyorsan növő sövény, örökzöld, takarónövény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765888534815-DSC09284_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765888534815-DSC09284_(2).webp",
+  "showonweb": true
 }

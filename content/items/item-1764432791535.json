@@ -31,5 +31,6 @@
   "itemground": "Mészkerülő, savanyú kémhatású, mély rétegű talajt igényel.",
   "itemusage": "Parkfa, haszonnövény, nagyméretű kertek szoliter fája.",
   "itemlabels": "Castanea sativa, szelídgesztenye, ehető termés, nagy fa, parkfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833222872-DSC09231.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833222872-DSC09231.webp",
+  "showonweb": true
 }

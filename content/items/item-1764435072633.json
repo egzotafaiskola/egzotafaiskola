@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban jól érzi magát.",
   "itemusage": "Sövény, szoliter, háttérnövény.",
   "itemlabels": "Cupressocyparis Blue Jeans, kékes leylandi, sövénynövény, örökzöld, díszfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766161868698-DSC09444_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766161868698-DSC09444_(1).webp",
+  "showonweb": true
 }

@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, üde talajt igényel.",
   "itemusage": "Virágos sövénynek, térelválasztónak vagy háttérnövénynek cserjeágyásokban.",
   "itemlabels": "Weigela florida 'Bristol Ruby', piros rózsalonc, virágzó cserje, sövénynövény, rubinvörös virág",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024906980-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024906980-almafa_lowres.jpg",
+  "showonweb": false
 }

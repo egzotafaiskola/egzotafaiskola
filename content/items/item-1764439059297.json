@@ -33,5 +33,6 @@
   "itemground": "Mélyrétegű, tápdús, enyhén savanyú és üde talajt igényel. A szárazságot rosszul tűri.",
   "itemusage": "Parkfának, sorfának vagy nagy kertek szoliter növényének.",
   "itemlabels": "Liriodendron tulipifera, tulipánfa, különleges levelű fa, őszi lombszín, nagy díszfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765827393696-DSC09829_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765827393696-DSC09829_(2).webp",
+  "showonweb": true
 }

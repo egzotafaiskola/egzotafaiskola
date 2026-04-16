@@ -25,5 +25,6 @@
   "itemground": "A nedves, akár vizes talajokat is jól tűri.",
   "itemusage": "Talajkötésre rézsűkön, szoliterként téli dísznek, vegyes cserjecsoportokba.",
   "itemlabels": "Cornus Flaviramea, sárga vessző, sárgavesszőjű som, talajkötő, téli dísz",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766409568052-DSC09527_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766409568052-DSC09527_(1).webp",
+  "showonweb": true
 }

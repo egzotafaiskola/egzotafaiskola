@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús talajt igényel, a szárazságot rosszul tűri.",
   "itemusage": "Sziklakertekbe, sírokra, előkertekbe, szegélynövénynek vagy dézsába.",
   "itemlabels": "Thuja occidentalis, gömb tuja, törpe örökzöld, sziklakerti növény, formás tuja",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766410246096-DSC09441.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766410246096-DSC09441.webp",
+  "showonweb": true
 }

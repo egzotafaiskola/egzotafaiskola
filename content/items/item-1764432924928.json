@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, humuszos, nedves talajt igényel.",
   "itemusage": "Tápanyagban gazdag, humuszos, nedves talajt igényel.",
   "itemlabels": "Sambucus nigra 'Black Beauty', díszbodza, sötét lombú cserje, rózsaszín virág, ehető termés",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928927980-DSC09385_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928927980-DSC09385_(1).webp",
+  "showonweb": true
 }

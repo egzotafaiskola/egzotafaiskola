@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, átlagos kerti talaj.",
   "itemusage": "Sziklakert, sírkertek, kisebb rézsűk, edényes beültetés.",
   "itemlabels": "Cotoneaster Bella, törpe madárbirs, talajtakaró, piros bogyó, kompakt cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766162642503-DSC09852_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766162642503-DSC09852_(1).webp",
+  "showonweb": true
 }

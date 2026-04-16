@@ -25,5 +25,6 @@
   "itemground": "Napos vagy félárnyékos helyet kedvel (tűző napon a levelek széle megéghet, mélyárnyékban kizöldül).",
   "itemusage": "Színes sövénynek, háttérnövénynek vagy szoliternek.",
   "itemlabels": "Színes sövénynek, háttérnövénynek vagy szoliternek.",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024872073-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024872073-almafa_lowres.jpg",
+  "showonweb": false
 }

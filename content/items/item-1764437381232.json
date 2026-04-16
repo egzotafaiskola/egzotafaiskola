@@ -37,5 +37,6 @@
   "itemground": "Átlagos kerti talajban is jól érzi magát, szereti a tápanyagot.",
   "itemusage": "Helytakarékos örökzöld sövénynek, szoliternek, vagy csoportos ültetésre keskeny ágyásokba.",
   "itemlabels": "Prunus laurocerasus 'Genolia', oszlopos babérmeggy, keskeny sövény, helytakarékos örökzöld, télálló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765888059993-DSC09288_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765888059993-DSC09288_(1).webp",
+  "showonweb": true
 }

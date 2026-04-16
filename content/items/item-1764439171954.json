@@ -28,5 +28,6 @@
   "itemground": "Nem válogatós, a legtöbb talajtípuson megél, kivéve a pangó vizes területeket.",
   "itemusage": "Szoliterként, nagyobb rézsűk beültetésére, vagy színes foltok kialakítására örökzöld ágyásokban.",
   "itemlabels": "Juniperus media Old Gold, arany boróka, sárga örökzöld, szárazságtűrő, pfitzer boróka",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765827174094-DSC09463.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765827174094-DSC09463.webp",
+  "showonweb": true
 }

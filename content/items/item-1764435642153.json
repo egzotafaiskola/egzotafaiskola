@@ -25,5 +25,6 @@
   "itemground": "Átlagos, jó szerkezetű kerti talajban szépen fejlődik.",
   "itemusage": "Színes sövénynek, szoliternek, vagy örökzöld cserjecsoportokba kontrasztképzésre.",
   "itemlabels": "Osmanthus heterophyllus 'Purpureus', bíbor illatcserje, lila hajtás, örökzöld, illatos virág.",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765910139024-DSC09960.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765910139024-DSC09960.webp",
+  "showonweb": true
 }

@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, savanyú vagy semleges, tápanyagdús talajt igényel.",
   "itemusage": "Védett kertekbe szoliternek, dézsás növényként teraszra, vagy alacsony sövénynek.",
   "itemlabels": "Viburnum tinus, téli bangita, örökzöld bangita, téli virágzás, dézsás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766409130309-DSC09369.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766409130309-DSC09369.webp",
+  "showonweb": true
 }

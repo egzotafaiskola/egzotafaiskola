@@ -25,5 +25,6 @@
   "itemground": "Jól alkalmazkodik a szegényebb, köves talajokhoz is.",
   "itemusage": "Szoliterként nagyobb sziklakertekbe, parkokba, vagy örökzöld csoportokba.",
   "itemlabels": "Pinus uncinata, havasi törpefenyő, hegyifenyő, örökzöld, ellenálló fenyő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889272126-DSC09907_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889272126-DSC09907_(1).webp",
+  "showonweb": true
 }

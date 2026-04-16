@@ -40,5 +40,6 @@
   "itemground": "Nem válogatós, de a tápdús talajt meghálálja.",
   "itemusage": "Magas sövény, szélfogó, gyors takarás.",
   "itemlabels": "Cupressocyparis leylandii, leylandi ciprus, gyorsan növő sövény, örökzöld, belátásgátló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766162189004-DSC09578_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766162189004-DSC09578_(1).webp",
+  "showonweb": true
 }

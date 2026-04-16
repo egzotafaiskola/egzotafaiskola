@@ -25,5 +25,6 @@
   "itemground": "Nem igényes, átlagos kerti talaj megfelelő számára.",
   "itemusage": "Talajtakaró, szegélynövény, alacsony sövény, edényes növény.",
   "itemlabels": "Euonymus Emerald Gaiety, ezüsttarka kecskerágó, fehértarka, talajtakaró, örökzöld",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833393346-DSC09859_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766833393346-DSC09859_(1).webp",
+  "showonweb": true
 }

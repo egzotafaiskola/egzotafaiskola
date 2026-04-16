@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, átlagos kerti talajban érzi jól magát.",
   "itemusage": "Nyírott sövénynek, csoportos ültetésre, vagy madárbarát kertekbe tápláléknövénynek.",
   "itemlabels": "Pyracantha coccinea 'Teton', betegségellenálló tűztövis, narancs bogyó, védősövény, nyírható cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927447452-DSC09934_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927447452-DSC09934_(1).webp",
+  "showonweb": true
 }

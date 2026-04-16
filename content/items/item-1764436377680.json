@@ -25,5 +25,6 @@
   "itemground": "Enyhén savanyú, jó vízáteresztő, párás környezetet és talajt kedvel.",
   "itemusage": "Sziklakertbe, sírokra, előkertekbe szoliterként vagy dézsába ültetve.",
   "itemlabels": "Picea omorika 'Nana', törpe szerb luc, törpefenyő, ezüstös tűlevél, sziklakerti fenyő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024860960-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024860960-almafa_lowres.jpg",
+  "showonweb": false
 }

@@ -25,5 +25,6 @@
   "itemground": "Átlagos, jó vízáteresztő talajban fejlődik szépen.",
   "itemusage": "Talajtakaró, rézsűmegkötés, sziklakertek, sírok beültetése.",
   "itemlabels": "Cotoneaster Eichholz, talajtakaró, madárbirs, örökzöld, rézsűnövény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766408834867-DSC09837_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766408834867-DSC09837_(1).webp",
+  "showonweb": true
 }

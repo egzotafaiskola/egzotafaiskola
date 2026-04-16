@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, laza talajt kedvel.",
   "itemusage": "Szoliternek, virágos sövénynek vagy vegyes cserjecsoportokba.",
   "itemlabels": "Weigela florida 'Red Prince', piros rózsalonc, nem fakuló virág, ismétlő virágzás, kompakt cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766163260511-DSC09987.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766163260511-DSC09987.webp",
+  "showonweb": true
 }

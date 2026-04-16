@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő, enyhén savanyú vagy semleges talajt igényel.",
   "itemusage": "Leggyakrabban nyírott sövényként ültetik, de magas törzsre oltva kis faként vagy szoliter bokorként is kedvelt.",
   "itemlabels": "Photinia fraseri 'Red Robin', korallberkenye, piros hajtás, örökzöld sövény, gyors növekedés",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765909659341-DSC09292.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765909659341-DSC09292.webp",
+  "showonweb": true
 }

@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, humuszban gazdag, enyhén savanyú talajt igényel.",
   "itemusage": "Jó vízáteresztő, humuszban gazdag, enyhén savanyú talajt igényel.",
   "itemlabels": "Nandina domestica, japán szentfa, vörös lomb, őszi lombszín, piros bogyó, bambuszszerű",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766161392993-DSC09914_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766161392993-DSC09914_(1).webp",
+  "showonweb": true
 }

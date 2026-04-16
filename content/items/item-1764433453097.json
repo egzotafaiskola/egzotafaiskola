@@ -25,5 +25,6 @@
   "itemground": "Üde, nedves talajokat kedveli, de jól alkalmazkodik.",
   "itemusage": "Szoliter, térelválasztó sövény, színes vesszőjű téli dísz.",
   "itemlabels": "Cornus alba, fehértarka som, tarka levél, piros vessző, téli dísz",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766582461100-DSC09847_(5).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766582461100-DSC09847_(5).webp",
+  "showonweb": true
 }

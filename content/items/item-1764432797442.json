@@ -25,5 +25,6 @@
   "itemground": "Vízigényes növény, nedves, tápanyagban gazdag talajt kedvel.",
   "itemusage": "Szoliterként vízpartra vagy a kert központi részére. Ágai kiválóak virágkötészeti célokra.",
   "itemlabels": "Salix sepulcralis 'Erythroflexusa', csavart fűz, parás fűz, téli dísz, vízparti növény, gyorsan növő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928855539-DSC09547_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766928855539-DSC09547_(1).webp",
+  "showonweb": true
 }

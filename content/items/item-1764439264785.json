@@ -25,5 +25,6 @@
   "itemground": "Igénytelen, bármilyen kerti talajban megél, a szélsőségeket is jól viseli.",
   "itemusage": "Talajmegkötésre rézsűkön, nagy felületek takarására parkokban, vagy háttérnövénynek.",
   "itemlabels": "Juniperus media, zöld pfitzer boróka, szürkészöld örökzöld, strapabíró növény, talajmegkötő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765284957351-DSC09459.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765284957351-DSC09459.jpg",
+  "showonweb": true
 }

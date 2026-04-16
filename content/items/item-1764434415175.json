@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, átlagos kerti talajban szépen fejlődik.",
   "itemusage": "Szoliterként, vagy sötétebb lombú növények elé ültetve kontrasztképzésre.",
   "itemlabels": "Weigela florida, tarka rózsalonc, fehér szegélyű levél, rózsaszín virág, díszcserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766163822765-DSC09824.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766163822765-DSC09824.webp",
+  "showonweb": true
 }
