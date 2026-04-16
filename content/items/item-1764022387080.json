@@ -1,5 +1,5 @@
 {
-  "ID": "mo1wbvdadk4l",
+  "ID": "mo1wd8li7b97",
   "title": "Kínai boróka 'Armstrong Gold'",
   "latin": "Juniperus chinensis 'Armstrong Gold'",
   "description": "Juniperus chinensis 'Armstrong Gold': Aranysárga lombozatú, kompakt növekedésű boróka, amely üde színfoltot visz a kertbe.",
@@ -25,6 +25,6 @@
   "itemground": "Jó vízáteresztő, átlagos kerti talajban szépen fejlődik.",
   "itemusage": "Sziklakertbe, rézsűk beültetésére, vagy színes folt kialakítására örökzöld ágyásokban.",
   "itemlabels": "Juniperus chinensis, Armstrong Gold, sárga boróka, talajtakaró, sziklakerti növény, díszboróka, földlabdás",
-  "showonweb": true,
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776369153961-edited-1776369140407.png"
+  "showonweb": false,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776369217759-edited-1776369210895.png"
 }
