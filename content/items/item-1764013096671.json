@@ -30,5 +30,6 @@
   "itemground": "Tápdús, jó vízellátottságú, enyhén savanyú talajt kedvel.",
   "itemusage": "Szoliterként a legszebb, de színes sövény is nevelhető belőle. Jól társítható sötétzöld vagy kék fenyőkkel a kontraszt érdekében.",
   "itemlabels": "Chamaecyparis lawsoniana, Stardust, sárga fenyő, színes örökzöld, díszfenyő, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764013095454-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764013095454-almafa.jpg",
+  "showonweb": false
 }
