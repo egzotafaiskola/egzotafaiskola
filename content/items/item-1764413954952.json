@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban jól érzi magát, szereti a tápanyagdús közeget.",
   "itemusage": "Szoliterként, keskeny sövényként vagy csoportos ültetésre, ahol az oszlopos forma díszítőérték.",
   "itemlabels": "Prunus laurocerasus 'Obelisk', oszlopos babérmeggy, karcsú örökzöld, helytakarékos növény, szoliter",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927052450-DSC09268.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927052450-DSC09268.webp",
+  "showonweb": true
 }

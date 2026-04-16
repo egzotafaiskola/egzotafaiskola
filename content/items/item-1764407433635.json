@@ -25,5 +25,6 @@
   "itemground": "Talajban nem válogatós, jól tűri a meszes és szárazabb talajokat is.",
   "itemusage": "Utcai sorfának, parkfának, de nyírott, lombhullató sövénynek is kiválóan alkalmas.",
   "itemlabels": "Acer campestre, mezei juhar, őshonos fa, sárga őszi lomb, várostűrő, konténeres fa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411550704-edited-1764411521577.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411550704-edited-1764411521577.png",
+  "showonweb": false
 }

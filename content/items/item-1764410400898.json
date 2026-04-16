@@ -34,5 +34,6 @@
   "itemground": "Enyhén savanyú, jó vízáteresztő, humuszos talajt igényel.",
   "itemusage": "Szoliterként japánkertekbe, előkertekbe, tavak partjára vagy dézsába ültetve érvényesül leginkább.",
   "itemlabels": "Acer palmatum, japán juhar, őszi lombszín, szoliter cserje, árnyéktűrő",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766831378752-DSC09871_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766831378752-DSC09871_(1).webp",
+  "showonweb": true
 }

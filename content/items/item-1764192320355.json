@@ -31,5 +31,6 @@
   "itemground": "Jó vízáteresztő, üde talajt igényel.",
   "itemusage": "Alacsony sövénynek, szegélynek, sírokra, vagy dézsás növénynek.",
   "itemlabels": "Prunus Mano, törpe babérmeggy, apró levelű, alacsony sövény, virágzó cserje, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766830620823-DSC09101_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766830620823-DSC09101_(2).webp",
+  "showonweb": true
 }

@@ -28,5 +28,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő, mélyrétegű talajt kedvel. A meszes talajt is elviseli.",
   "itemusage": "Kiváló sorfa, de szoliterként is a kert ékköve lehet. Parkok, kertek kedvelt díszfája.",
   "itemlabels": "Prunus serrulata 'Kanzan', japán cseresznye, díszfa, rózsaszín virág, tavaszi virágzás, lombhullató",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927138459-DSC09238_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927138459-DSC09238_(1).webp",
+  "showonweb": true
 }

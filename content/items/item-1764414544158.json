@@ -25,5 +25,6 @@
   "itemground": "Talajban nem válogatós, tűri a szerényebb viszonyokat is.",
   "itemusage": "Kerti tavak partjára, temetőkbe, vagy előkertekbe szoliterként ültetve a legszebb.",
   "itemlabels": "Betula pendula Youngii, csüngő nyír, szomorú nyír, esernyő korona, kerti tó mellé",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832686806-DSC09254_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832686806-DSC09254_(1).webp",
+  "showonweb": true
 }

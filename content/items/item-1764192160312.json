@@ -31,5 +31,6 @@
   "itemground": "Átlagos, jó szerkezetű talajt kedvel.",
   "itemusage": "Közepes magasságú sövénynek, teraszok mellé, szoliternek.",
   "itemlabels": "Prunus Kleopatra, vöröses hajtás, közepes babérmeggy, elegáns levél, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766767837720-DSC09031_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766767837720-DSC09031_(1).webp",
+  "showonweb": true
 }

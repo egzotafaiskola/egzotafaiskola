@@ -32,5 +32,6 @@
   "itemground": "Szinte bármilyen kerti talajban szépen fejlődik, tápanyagigényes.",
   "itemusage": "Magas, gyorsan növő sövénynek, szélfogónak, vagy nagy szoliter bokornak.",
   "itemlabels": "Prunus Novita, óriás babérmeggy, gyors sövény, ellenálló, nagylevelű, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766926739927-DSC09272_(2).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766926739927-DSC09272_(2).webp",
+  "showonweb": true
 }

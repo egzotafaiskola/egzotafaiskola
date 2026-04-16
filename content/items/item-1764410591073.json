@@ -25,5 +25,6 @@
   "itemground": "Tápanyagdús, mészmentes, savanyú talajban fejlődik szépen.",
   "itemusage": "Kiemelt helyre ültetve szoliterként, sziklakertbe vagy edényes növényként teraszon.",
   "itemlabels": "Acer palmatum Atropurpureum, vörös japán juhar, színes lomb, lassú növekedés, szoliter",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766831614960-DSC09925.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766831614960-DSC09925.webp",
+  "showonweb": true
 }

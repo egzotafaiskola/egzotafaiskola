@@ -34,5 +34,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő talajt kedvel, de toleráns a talaj típusára.",
   "itemusage": "Elsősorban magas, örökzöld sövény kialakítására ajánlott, amely teljes belátásgátlást biztosít, de szoliterként is ültethető.",
   "itemlabels": "Prunus laurocerasus 'Novita', gyors növekedésű sövény, örökzöld, télálló babérmeggy, belátásgátló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766926739927-DSC09272_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766926739927-DSC09272_(2).webp",
+  "showonweb": true
 }

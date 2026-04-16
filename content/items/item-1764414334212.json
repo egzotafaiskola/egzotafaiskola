@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag talajt kedvel.",
   "itemusage": "Kiemelkedő szoliter növény, amely színével vonzza a tekintetet.",
   "itemlabels": "Betula pendula Royal Frost, vörös levelű nyír, fehér törzs, színes lomb, különleges fa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832581817-DSC09292_(3).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832581817-DSC09292_(3).webp",
+  "showonweb": true
 }

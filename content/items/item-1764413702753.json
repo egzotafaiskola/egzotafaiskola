@@ -25,5 +25,6 @@
   "itemground": "Enyhén savanyú, nedvesebb talajokat kedveli, de alkalmazkodóképes.",
   "itemusage": "Haszonnövényként gyümölcséért, vagy díszcserjeként őszi lombszíne miatt ültetjük.",
   "itemlabels": "Címkék: Aronia melanocarpa, fekete berkenye, gyógynövény, ehető bogyó, őszi lombszín, szuperélelmiszer",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832230226-DSC09576_(4).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766832230226-DSC09576_(4).webp",
+  "showonweb": true
 }

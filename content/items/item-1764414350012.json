@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, lazább szerkezetű talajban fejlődik szépen.",
   "itemusage": "Sziklakertekbe, dézsás növényként teraszra, vagy védett, napos ágyásokba.",
   "itemlabels": "Punica granatum 'Chico', törpe gránátalma, díszgránátalma, narancsvörös virág, mediterrán hangulat, dézsás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927329258-DSC09366_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766927329258-DSC09366_(1).webp",
+  "showonweb": true
 }

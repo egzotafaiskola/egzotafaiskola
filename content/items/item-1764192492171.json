@@ -27,5 +27,6 @@
   "itemground": "Talajban nem válogatós, de a tápanyagot meghálálja.",
   "itemusage": "Sövénynek, térhatárolónak.",
   "itemlabels": "Prunus Miki, magyar babérmeggy, télálló sövény, ellenálló örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766831040795-DSC09101_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766831040795-DSC09101_(2).webp",
+  "showonweb": true
 }
