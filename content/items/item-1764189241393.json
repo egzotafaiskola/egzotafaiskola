@@ -22,5 +22,6 @@
   "itemground": "Enyhén savanyú vagy semleges, tápdús talajt kedvel.",
   "itemusage": "Díszes sövénynek vagy hangsúlyos szoliter növénynek.",
   "itemlabels": "Photinia Red Select, nagy levelű korallberkenye, mélyvörös hajtás, örökzöld, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765909659341-DSC09292.webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765909659341-DSC09292.webp",
+  "showonweb": true
 }

@@ -33,5 +33,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő talajt kedvel.",
   "itemusage": "Magas sövénynek, szélfogónak, háttérnövénynek.",
   "itemlabels": "Prunus Caucasica, kaukázusi babérmeggy, magas sövény, gyors növekedés, virágzó örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766781297-DSC09087_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766781297-DSC09087_(1).webp",
+  "showonweb": true
 }

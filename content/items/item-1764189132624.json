@@ -27,5 +27,6 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talaj megfelelő számára. Meszes talajon a levelek sárgulhatnak.",
   "itemusage": "Örökzöld sövénynek, térhatárolónak, szoliternek.",
   "itemlabels": "Photinia Red Robin, korallberkenye, piros levelű sövény, örökzöld, gyorsan növő, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766209842-DSC08996_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766209842-DSC08996_(1).webp",
+  "showonweb": true
 }

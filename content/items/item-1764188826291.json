@@ -27,5 +27,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag talajt igényel. A pangó vizet nem szereti.",
   "itemusage": "Sövénynek, színes foltnak cserjecsoportba, vagy dézsás növénynek.",
   "itemlabels": "Photinia Carré Rouge, korallberkenye, vörös hajtás, örökzöld, kompakt sövény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766765906406-DSC09015_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766765906406-DSC09015_(1).webp",
+  "showonweb": true
 }

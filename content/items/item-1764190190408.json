@@ -33,5 +33,6 @@
   "itemground": "Tápdús, jó vízáteresztő talajban fejlődik a legszebben.",
   "itemusage": ": Sövénynek, szoliternek, de akár alacsonyabb térelválasztónak is.",
   "itemlabels": "Prunus Etna, bronzos hajtás, babérmeggy, télálló, sűrű sövény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766767093209-DSC09114_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766767093209-DSC09114_(1).webp",
+  "showonweb": true
 }

@@ -29,5 +29,6 @@
   "itemground": "Jó vízáteresztő, humuszos talajban fejlődik szépen.",
   "itemusage": "Sövénynek, háttérnövénynek vagy szoliternek modern kertekbe.",
   "itemlabels": "Photinia Crunchy, fűrészes korallberkenye, bronzvörös hajtás, különleges levél, ellenálló, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766395978-DSC09004.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766395978-DSC09004.webp",
+  "showonweb": true
 }

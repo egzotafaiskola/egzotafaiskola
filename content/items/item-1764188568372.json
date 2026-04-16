@@ -27,5 +27,6 @@
   "itemground": "Tápanyagban gazdag, enyhén savanyú, jó vízáteresztő és nyirkos talajt kedvel.",
   "itemusage": "Kizárólag szoliternek ültessük, hogy szépsége érvényesüljön. Előkertekbe, gyepes felületekbe ideális.",
   "itemlabels": "Magnolia x soulangeana, liliomfa, magnólia, tavaszi virágzás, díszcserje, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766765628297-DSC08989_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766765628297-DSC08989_(1).webp",
+  "showonweb": true
 }

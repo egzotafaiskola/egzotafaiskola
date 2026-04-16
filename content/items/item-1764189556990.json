@@ -29,5 +29,6 @@
   "itemground": "Átlagos kerti talajban is szépen fejlődik, tápanyagutánpótlást meghálálja.",
   "itemusage": "Elsősorban nyírott vagy nyíratlan sövénynek, térhatárolónak.",
   "itemlabels": "Prunus laurocerasus, Antonius, babérmeggy, oszlopos sövény, télálló, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766641118-DSC08923_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766641118-DSC08923_(2).webp",
+  "showonweb": true
 }

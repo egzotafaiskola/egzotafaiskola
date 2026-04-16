@@ -29,5 +29,6 @@
   "itemground": "Laza, humuszos, jó vízáteresztő talajt kedvel.",
   "itemusage": "Szoliternek, színes sövénynek vagy konténeres növénynek teraszokra.",
   "itemlabels": "Photinia Cassini, Pink Marble, tarka korallberkenye, rózsaszín hajtás, különleges örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766064838-DSC09084_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766766064838-DSC09084_(1).webp",
+  "showonweb": true
 }
