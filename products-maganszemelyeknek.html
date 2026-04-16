@@ -973,6 +973,12 @@ img:hover{transform:scale(1.04)}
             
             <button class="details-btn" data-id="${itemData.ID}">Részletek</button>
           `;
+			// ── MÓDOSÍTÁS 1: showonweb szűrés ──────────────────────────────
+          div.dataset.showonweb = String(itemData.showonweb);
+          if (itemData.showonweb === false) {
+            continue; // Teljesen kihagyjuk, nem kerul bele a DOM-ba sem, kimarad az appendChild
+            //div.style.display = "none";
+          }																																	 
           container.appendChild(div);
         }
       }
@@ -1074,7 +1080,9 @@ img:hover{transform:scale(1.04)}
 //masolt idaig
 
       // szures logikaja
+      // ── MÓDOSÍTÁS 2: showonweb === false kártyák mindig rejtve maradnak ──
       if (
+        card.dataset.showonweb !== 'false' &&				 
         (!searchinput || searchcategoryname.includes(searchinput) || searchcategorynamelat.includes(searchinput))&& //masolt
         (!mainfiltervalue || rendeskategoriak.includes(mainfiltervalue)) &&
         (!filterValuequality || categoryquality === filterValuequality  || categoryquality === "Szabadföldi és Konténeres" )&&
