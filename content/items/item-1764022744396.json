@@ -22,5 +22,6 @@
   "itemground": "Igénytelen, jól tűri a szárazságot, de a pangó vizet kerülni kell.",
   "itemusage": "Szoliterként, sírokra, sziklakertbe vagy sövénynek is ültethető.",
   "itemlabels": "Juniperus communis, Hibernica, ír boróka, oszlopos boróka, kékes lombozat, szoliter, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022743369-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022743369-almafa.jpg",
+  "showonweb": false
 }
