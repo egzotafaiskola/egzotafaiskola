@@ -26,5 +26,6 @@
   "itemground": "Mészmentes, savanyú, üde talajt igényel.",
   "itemusage": "Sziklakertbe, sírokra, előkertekbe vagy edényes növényként ajánlott. Szép szoliter kisebb kertekben.",
   "itemlabels": "Címkék: Chamaecyparis pisifera, Boulevard, ezüstkék, puha levelű, törpe örökzöld, sziklakerti növény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764018587744-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764018587744-almafa.jpg",
+  "showonweb": false
 }
