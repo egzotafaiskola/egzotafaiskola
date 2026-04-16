@@ -1,5 +1,5 @@
 {
-  "ID": "mifv88wx4q6n",
+  "ID": "mo1wmh8ju20z",
   "title": "Tiszafa ’Overeynderii’",
   "latin": "Taxus baccata ’Overeynderii’",
   "description": "Taxus baccata ’Overeynderii’ – Tiszafa: szabályos növekedésű, felfelé törő ágrendszerű fajta, amely ideális választás gondozásmentesebb sövényekhez vagy szoliternek.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "5500",
     "6900"
@@ -17,13 +17,16 @@
     "100-125",
     "125-150"
   ],
-  "categorieshakonteneres": "",
+  "categorieshakonteneres": ",",
+  "itemkontenerek": [
+    ""
+  ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Fenyő",
   "itemlight": "Napos és árnyékos helyen is szépen fejlődik.",
   "itemground": "A pangó vizet nem szereti, egyébként talajban nem válogat.",
   "itemusage": "Szoliternek, csoportos ültetésre parkokba, vagy szélesebb sövénynek.",
   "itemlabels": "Taxus baccata Overeynderii, kúp alakú tiszafa, hímivarú, termés nélküli, sövénynek való, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153137704-edited-1764153124509.png",
-  "showonweb": true
+  "showonweb": false,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776369648861-edited-1776369643514.png"
 }
