@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő képességű talajt kedvel, a túlöntözést kerülni kell.",
   "itemusage": "Exkluzív szoliter, bejáratok mellé, vagy csoportosan ültetve vertikális hangsúlynak.",
   "itemlabels": "Cupressus sempervirens, Totem, oszlopos ciprus, kompakt örökzöld, mediterrán kert, szoliter, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022185912-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022185912-almafa.jpg",
+  "showonweb": false
 }
