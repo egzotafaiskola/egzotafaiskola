@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő, laza talajt kedvel.",
   "itemusage": "Sziklakertbe, előkertbe szoliterként, vagy színes csoportokba ültetve.",
   "itemlabels": "Juniperus communis, Gold Cone, arany boróka, sárga oszlopos, sziklakerti növény, lassú növekedés, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022978321-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022978321-almafa.jpg",
+  "showonweb": false
 }
