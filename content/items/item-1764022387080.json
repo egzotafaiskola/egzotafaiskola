@@ -22,5 +22,6 @@
   "itemground": "Jó vízáteresztő, átlagos kerti talajban szépen fejlődik.",
   "itemusage": "Sziklakertbe, rézsűk beültetésére, vagy színes folt kialakítására örökzöld ágyásokban.",
   "itemlabels": "Juniperus chinensis, Armstrong Gold, sárga boróka, talajtakaró, sziklakerti növény, díszboróka, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022386065-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764022386065-almafa.jpg",
+  "showonweb": true
 }
