@@ -24,5 +24,6 @@
   "itemground": "Igénytelen, jól bírja a szárazságot és a gyengébb talajokat is.",
   "itemusage": "Talajtakarónak, sziklakertbe, vagy színes kontrasztképzőnek örökzöld csoportokban.",
   "itemlabels": "Juniperus media, Old Gold, arany boróka, sárga talajtakaró, örökzöld, sziklakerti növény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024012316-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024012316-almafa.jpg",
+  "showonweb": false
 }
