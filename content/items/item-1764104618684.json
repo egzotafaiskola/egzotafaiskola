@@ -22,5 +22,6 @@
   "itemground": "Mésztippan, szereti a tápanyagban gazdag talajokat.",
   "itemusage": "Nyírott vagy nyíratlan sövénynek, aljnövényzetnek fák alá, vagy háttérnövénynek.",
   "itemlabels": "Taxus baccata, közönséges tiszafa, örökzöld sövény, árnyéktűrő, hosszú életű, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104617594-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104617594-almafa.jpg",
+  "showonweb": false
 }

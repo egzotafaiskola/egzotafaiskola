@@ -22,5 +22,6 @@
   "itemground": "Tápdús, laza szerkezetű talajt igényel.",
   "itemusage": "Reprezentatív szoliter növény bejáratokhoz, utak mellé sorfának vagy dézsába ültetve.",
   "itemlabels": "Buxus törzses, puszpáng fa, Faulkner, örökzöld fa, díszfa, szoliter, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764178018634-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764178018634-almafa.jpg",
+  "showonweb": false
 }

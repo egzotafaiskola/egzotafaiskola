@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, üde talajt igényel.",
   "itemusage": "Központi díszelemként modern vagy klasszikus kertekbe, átriumba, bejáratokhoz.",
   "itemlabels": "Taxus baccata, tiszafa bonsai, kerti alakfa, formára nyírt, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755399494-DSC09157_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755399494-DSC09157_(1).webp",
+  "showonweb": true
 }

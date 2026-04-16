@@ -25,5 +25,6 @@
   "itemground": "Tápdús, nyirkos talajokat kedveli.",
   "itemusage": "Csoportos ültetésre, téli kertekbe, talajtakaró cserjének.",
   "itemlabels": "Cornus Westonbirt, szibériai som, piros vessző, téli kert, díszcserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764433637356-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764433637356-almafa.jpg",
+  "showonweb": false
 }

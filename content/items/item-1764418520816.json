@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talajban, rendszeres vízellátás mellett érzi jól magát.",
   "itemusage": "Gömb formára nyíráshoz, alacsony sövénynek, dézsás növénynek.",
   "itemlabels": "Buxus Faulkner, puszpáng, széles levelű buxus, örökzöld, szoliter",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764418517013-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764418517013-almafa.jpg",
+  "showonweb": false
 }

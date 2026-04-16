@@ -22,5 +22,6 @@
   "itemground": "Tápdús, jó szerkezetű, nem pangó vizes talajt igényel.",
   "itemusage": "Exkluzív szoliterként japánkertekbe, bejáratok mellé, vagy kiemelt ágyásokba.",
   "itemlabels": "Taxus baccata, kerti bonsai, alakfa, formára nyírt, sárga tiszafa, luxus növény, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104387564-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104387564-almafa.jpg",
+  "showonweb": false
 }

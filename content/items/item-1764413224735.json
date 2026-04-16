@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő képességű, tápanyagban gazdag, enyhén savanyú vagy semleges talajt kedvel.",
   "itemusage": "Kiválóan alkalmas alacsonyabb nyírott vagy nyíratlan sövénynek, de szoliterként vagy dézsás növényként is megállja a helyét teraszokon.",
   "itemlabels": "Prunus laurocerasus 'Kleopatra', babérmeggy, örökzöld cserje, bronzos hajtás, alacsony sövény, konténeres növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025125791-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025125791-almafa_lowres.jpg",
+  "showonweb": false
 }

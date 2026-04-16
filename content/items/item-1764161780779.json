@@ -24,5 +24,6 @@
   "itemground": "Átlagos, jó vízáteresztő talaj.",
   "itemusage": "Keskeny sövények, térhatárolók, szélfogók kialakítására.",
   "itemlabels": "Thuja occidentalis Columna, oszlopos tuja, keskeny sövény, sötétzöld tuja, földlabdás növény",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766756318391-DSC00187.webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766756318391-DSC00187.webp",
+  "showonweb": true
 }

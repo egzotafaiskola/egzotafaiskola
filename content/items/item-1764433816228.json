@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, laza talajt kedvel.",
   "itemusage": "Szoliterként, előkertekbe, vagy színes örökzöld csoportokba.",
   "itemlabels": "Thuja orientalis, arany tuja, keleti tuja, sárga lombú örökzöld, szoliter tuja",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024918479-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024918479-almafa_lowres.jpg",
+  "showonweb": false
 }

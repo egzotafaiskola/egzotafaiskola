@@ -26,5 +26,6 @@
   "itemground": "Tápdús, jó szerkezetű talajt kedvel.",
   "itemusage": "Alacsonyabb vagy közepes magasságú sövénynek, de szoliterként is megállja a helyét.",
   "itemlabels": "Taxus media Brownii, termés nélküli tiszafa, sűrű sövény, oszlopos örökzöld, földlabdás növény",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766755691474-DSC08972.webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766755691474-DSC08972.webp",
+  "showonweb": true
 }

@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag talajt igényel.",
   "itemusage": "Virágzó sövénynek, cserjecsoportokba vagy szoliterként.",
   "itemlabels": "Spiraea nipponica 'June Bride', fehér gyöngyvessző, virágzó cserje, menyasszony cserje, sövénynövény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024941664-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024941664-almafa_lowres.jpg",
+  "showonweb": false
 }

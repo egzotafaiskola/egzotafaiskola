@@ -28,5 +28,6 @@
   "itemground": "Talajban nem válogatós, jól bírja a szárazságot.",
   "itemusage": "Szoliterként nagy kertekbe, vagy tömeges ültetésre parkokba, rézsűkre.",
   "itemlabels": "Juniperus media, Pfitzeriana Aurea, sárga boróka, talajtakaró, nagyméretű örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024490898-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024490898-almafa.jpg",
+  "showonweb": false
 }

@@ -25,5 +25,6 @@
   "itemground": "Igénytelen, bármilyen átlagos kerti talajban megél.",
   "itemusage": "Áthatolhatatlan védősövénynek, szoliternek vagy falak takarására kiváló.",
   "itemlabels": "Pyracantha coccinea 'Mohave', tűztövis, örökzöld sövény, narancsvörös bogyó, védősövény, madárbarát kert",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025031007-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025031007-almafa_lowres.jpg",
+  "showonweb": false
 }

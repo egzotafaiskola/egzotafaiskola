@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, enyhén savanyú talajt kedvel.",
   "itemusage": "Sziklakertbe, kőedénybe, teraszra vagy kis előkertbe szoliterként.",
   "itemlabels": "Acer palmatum Little Princess, törpe japán juhar, bonsai alapanyag, kompakt cserje, őszi színeződés",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411682114-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411682114-almafa.jpg",
+  "showonweb": false
 }

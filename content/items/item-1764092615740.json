@@ -27,5 +27,6 @@
   "itemground": "Igénytelen, köves és sziklás talajon is megél.",
   "itemusage": "Sziklakertek, rézsűk beültetésére, örökzöld csoportokba.",
   "itemlabels": "Pinus uncinata, havasi törpefenyő, sziklakerti fenyő, ellenálló, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766754410089-DSC08961.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766754410089-DSC08961.webp",
+  "showonweb": true
 }

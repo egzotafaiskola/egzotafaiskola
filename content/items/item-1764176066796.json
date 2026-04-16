@@ -25,5 +25,6 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talaj.",
   "itemusage": "Bejáratok mellé párosával, sziklakertbe, dézsába, vagy virágágyások központi elemeként.",
   "itemlabels": "Buxus sempervirens, formára nyírt puszpáng, bukszus gömb, topiary, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766757078286-DSC09132_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766757078286-DSC09132_(1).webp",
+  "showonweb": true
 }

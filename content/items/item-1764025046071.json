@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, nem túl meszes talajt kedvel.",
   "itemusage": "Sziklakertbe, sírokra, balkonládába vagy kőedényekbe ültetve érvényesül a legjobban.",
   "itemlabels": "Juniperus squamata, Blue Star, kék boróka, törpe örökzöld, sziklakerti növény, acélkék, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766752837410-DSC09211_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766752837410-DSC09211_(1).webp",
+  "showonweb": true
 }

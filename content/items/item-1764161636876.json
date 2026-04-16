@@ -31,5 +31,6 @@
   "itemground": "Nem válogatós, de a nedves, tápdús talajt meghálálja.",
   "itemusage": "Kifejezetten nyírott sövénynek ajánlott, gyors takarásra.",
   "itemlabels": "Thuja occidentalis Brabant, gyorsan növő tuja, sövény tuja, olcsó sövény, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766756318391-DSC00187.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766756318391-DSC00187.webp",
+  "showonweb": true
 }

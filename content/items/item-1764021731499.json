@@ -35,5 +35,6 @@
   "itemground": "Széles talajtűrésű, jól fejlődik a legtöbb kerti talajban, ha a víz nem pang a gyökereknél.",
   "itemusage": "Ideális örökzöld sövény kialakítására, takarásra és szélfogóként. Nagy növekedési erejének köszönhetően gyorsan zárt falat képez, így hatékonyan védi a kertet a belátástól és a széltől. Alkalmas telekhatárok jelölésére és modern kertek díszítésére is.",
   "itemlabels": "Leylandi ciprus ’2001’, Cupressocyparis leylandii, gyorsan növő sövény, belátás elleni védelem, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766746115409-DSC08889_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766746115409-DSC08889_(1).webp",
+  "showonweb": true
 }

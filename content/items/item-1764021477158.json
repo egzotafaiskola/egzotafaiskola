@@ -37,5 +37,6 @@
   "itemground": "Nem válogatós, bírja a szárazabb időszakokat is begyökeresedés után.",
   "itemusage": "Klasszikus nyírt sövénynek, térhatárolónak, szélfogónak. A nyírt kivitel megkönnyíti a kezdeti formázást.",
   "itemlabels": "Cupressocyparis leylandii, Oger, nyírt leylandi, kész sövény, örökzöld, gyors növekedés, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp",
+  "showonweb": true
 }

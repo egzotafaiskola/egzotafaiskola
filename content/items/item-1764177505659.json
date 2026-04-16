@@ -27,5 +27,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő képességű, meszes talajt kedvel.",
   "itemusage": "Kiváló alacsony sövénynek, szegélynövénynek, sírokra vagy dézsás növényként teraszokra. Jól bírja a formázó metszést.",
   "itemlabels": "Buxus microphylla, Faulkner, puszpáng, bukszus, örökzöld, alacsony sövény, formára nyírható, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764728363-DSC08867_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764728363-DSC08867_(2).webp",
+  "showonweb": true
 }

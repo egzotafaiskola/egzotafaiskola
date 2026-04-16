@@ -24,5 +24,6 @@
   "itemground": "Talajban nem válogat, a meszes talajt is viszonylag jól tűri.",
   "itemusage": "Szoliterként, csoportosan ültetve, vagy magas sövénynek is kiváló.",
   "itemlabels": "Picea omorika, szerb luc, karcsú fenyő, várostűrő, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084709512-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084709512-almafa.jpg",
+  "showonweb": false
 }

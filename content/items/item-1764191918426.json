@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő, tápdús talajt igényel.",
   "itemusage": "Közepes méretű sövénynek, szoliternek.",
   "itemlabels": "Prunus Greentorch, fáklya babérmeggy, közepes sövény, oszlopos habitus, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764191917196-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764191917196-almafa.jpg",
+  "showonweb": false
 }

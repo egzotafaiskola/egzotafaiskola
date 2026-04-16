@@ -32,5 +32,6 @@
   "itemground": "Tápanyagban gazdag, üde, savanyú vagy semleges talajban fejlődik legszebben.",
   "itemusage": "Nagyobb kertekbe, parkokba szoliternek, szélfogó sávok kialakítására, illetve karácsonyfának.",
   "itemlabels": "Picea abies, közönséges lucfenyő, karácsonyfa, gyorsan növő fenyő, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084278045-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084278045-almafa.jpg",
+  "showonweb": false
 }

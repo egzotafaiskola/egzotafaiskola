@@ -28,5 +28,6 @@
   "itemground": "Talajban nem válogatós, a városi szennyezett levegőt és a szegényebb talajokat is jól tűri.",
   "itemusage": "Nyírott vagy nyíratlan sövénynek, térhatárolónak.",
   "itemlabels": "Ligustrum ovalifolium, széleslevelű fagyal, gyors sövény, félörökzöld, igénytelen növény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764178853024-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764178853024-almafa.jpg",
+  "showonweb": false
 }

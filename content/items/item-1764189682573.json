@@ -26,5 +26,6 @@
   "itemground": "Jól tűri a meszes talajt és a mostohább körülményeket is.",
   "itemusage": "Sövénynek, cserjecsoportba, vagy rézsűk beültetésére.",
   "itemlabels": "Prunus laurocerasus, Baumgartner, babérmeggy, szárazságtűrő, kompakt sövény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764189681568-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764189681568-almafa.jpg",
+  "showonweb": false
 }

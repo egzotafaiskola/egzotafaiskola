@@ -28,5 +28,6 @@
   "itemground": "Igénytelen, átlagos kerti talaj megfelelő számára.",
   "itemusage": "Talajtakarónak, rézsűre, alacsonyabb térhatárolónak.",
   "itemlabels": "Juniperus media, Compacta, tömött boróka, talajtakaró, szürkészöld, örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024798157-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024798157-almafa.jpg",
+  "showonweb": false
 }

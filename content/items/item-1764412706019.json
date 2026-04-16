@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, laza szerkezetű talajban fejlődik jól, a szárazságot jól tűri.",
   "itemusage": "Szoliter faként ültetve érvényesül leginkább, kiváló árnyékot adó díszfa.",
   "itemlabels": "Albizia julibrissin, selyemakác, mediterrán fa, rózsaszín virág, ernyő alakú korona",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764412702465-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764412702465-almafa.jpg",
+  "showonweb": false
 }

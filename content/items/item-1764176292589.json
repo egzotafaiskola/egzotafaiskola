@@ -27,5 +27,6 @@
   "itemground": "Laza szerkezetű, meszes, üde talajokat kedvel.",
   "itemusage": "Kapuk és bejáratok két oldalára (őrszemként), szimmetrikus ágyások közepére, vagy dézsás növényként.",
   "itemlabels": "Buxus sempervirens, formára nyírt puszpáng, bukszus kúp, kerti dekoráció, topiary, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764591959-DSC09135_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764591959-DSC09135_(1).webp",
+  "showonweb": true
 }

@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag, üde talajt kedvel, de jól alkalmazkodik.",
   "itemusage": "Kiválóan alkalmas rézsűk beültetésére, nagyobb területek talajtakarására, sírokra vagy sziklakertbe.",
   "itemlabels": "Taxus baccata, terülő örökzöld, talajtakaró, árnyéktűrő, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104158838-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104158838-almafa.jpg",
+  "showonweb": false
 }

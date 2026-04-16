@@ -26,5 +26,6 @@
   "itemground": "Tápdús, laza szerkezetű talajban fejlődik a leggyorsabban.",
   "itemusage": "Magas sövények gyors kialakítására, vagy szélfogónak.",
   "itemlabels": "Taxus media Rapid, gyors növésű tiszafa, oszlopos örökzöld, takaró sövény, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153444993-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153444993-almafa.jpg",
+  "showonweb": false
 }

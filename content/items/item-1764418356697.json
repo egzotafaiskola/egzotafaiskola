@@ -25,5 +25,6 @@
   "itemground": "Nem válogatós, a legtöbb kerti talajtípuson jól fejlődik.",
   "itemusage": "Keskenyebb sövények kialakítására, falak takarására, vagy szoliterként a kert hangsúlyos pontjára.",
   "itemlabels": "Pyracantha coccinea 'Red Column', piros bogyós tűztövis, oszlopos cserje, védősövény, örökzöld",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024990494-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024990494-almafa_lowres.jpg",
+  "showonweb": false
 }

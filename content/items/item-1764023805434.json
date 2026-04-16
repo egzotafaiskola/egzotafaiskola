@@ -27,5 +27,6 @@
   "itemground": "Átlagos kerti talajban is szépen díszít.",
   "itemusage": "Szoliterként kaspóba, sziklakertbe vagy ágyásszegélynek.",
   "itemlabels": "Juniperus media, Mint Julep, gömb boróka, formára nyírt, topiary, díszboróka, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766746830141-DSC09165.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766746830141-DSC09165.webp",
+  "showonweb": true
 }

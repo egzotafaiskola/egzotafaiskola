@@ -25,5 +25,6 @@
   "itemground": "Mészkerülő, humuszos, nedves talajt igényel.",
   "itemusage": "Vízpartra, sziklakertbe vagy szoliterként kiemelt helyre ültetve a legszebb.",
   "itemlabels": "Acer palmatum Dissectum, zöld japán juhar, csüngő ágrendszer, őszi lombszín, sziklakerti növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411475103-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411475103-almafa.jpg",
+  "showonweb": false
 }

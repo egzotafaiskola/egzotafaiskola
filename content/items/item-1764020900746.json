@@ -24,5 +24,6 @@
   "itemground": "Tápdús, jó vízáteresztő talajt kedvel.",
   "itemusage": "Szoliterként vagy nyírt, színes sövényként is alkalmazható.",
   "itemlabels": "Cupressocyparis leylandii, Gold Rider, intenzív sárga, arany leylandi, díszfenyő, sövény, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp",
+  "showonweb": true
 }

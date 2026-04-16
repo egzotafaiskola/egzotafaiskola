@@ -27,5 +27,6 @@
   "itemground": "Enyhén savanyú, jó vízáteresztő, tápanyagban gazdag talajt kedvel.",
   "itemusage": "Szúrós védősövénynek, szoliternek vagy csoportos beültetésre. Karácsonyi dekorációként is népszerű.",
   "itemlabels": "Ilex aquifolium, Alaska, magyal, piros bogyós, örökzöld, szúrós sövény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764925966-DSC09184_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764925966-DSC09184_(1).webp",
+  "showonweb": true
 }

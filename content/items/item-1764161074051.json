@@ -26,5 +26,6 @@
   "itemground": "Jó vízáteresztő képességű, tápdús talaj.",
   "itemusage": "Ideális szabályos, magas sövényfalakhoz, térhatárolásra.",
   "itemlabels": "Taxus media Straight Hedge, egyenes tiszafa, erős sövény, hóálló örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161073054-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161073054-almafa.jpg",
+  "showonweb": false
 }

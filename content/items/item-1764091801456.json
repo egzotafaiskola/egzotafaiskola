@@ -27,5 +27,6 @@
   "itemground": "Igénytelen, meszes és köves talajokon is megél.",
   "itemusage": "Parkfának, szélfogónak, vagy nagyobb kertekbe szoliternek, ipari területek fásítására.",
   "itemlabels": "Pinus nigra, feketefenyő, szárazságtűrő fenyő, hosszú tűlevél, várostűrő, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753840564-DSC08836.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753840564-DSC08836.webp",
+  "showonweb": true
 }

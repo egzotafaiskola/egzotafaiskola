@@ -28,5 +28,6 @@
   "itemground": "Jó vízáteresztő, átlagos kerti talajt igényel, jól tűri a szárazságot.",
   "itemusage": "Szoliternek, parkfának, nagyobb kertekbe térhatárolónak.",
   "itemlabels": "Picea pungens, ezüstfenyő, szúrós luc, szárazságtűrő fenyő, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084918851-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084918851-almafa.jpg",
+  "showonweb": false
 }

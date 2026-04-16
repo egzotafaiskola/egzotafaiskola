@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús talajt kedvel, de a szárazságot is tűri.",
   "itemusage": "Sziklakertek, előkertek, sírok, kőedények beültetésére, illetve szoliternek kis kertekbe.",
   "itemlabels": "Picea pungens Glauca Globosa, törpe ezüstfenyő, gömb fenyő, sziklakerti növény, kék lomb, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753175246-DSC08811.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753175246-DSC08811.webp",
+  "showonweb": true
 }

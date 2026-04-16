@@ -24,5 +24,6 @@
   "itemground": "Mészkerülő, jó vízáteresztő, humuszos talajban fejlődik a legszebben.",
   "itemusage": "Elegáns nyírott sövénynek, formára nyírt növénynek (topiary) vagy szoliternek kiváló.",
   "itemlabels": "Prunus lusitanica, portugál babérmeggy, vörös hajtás, elegáns örökzöld, fehér virágú",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405751440-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405751440-almafa.jpg",
+  "showonweb": false
 }

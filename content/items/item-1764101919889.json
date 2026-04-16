@@ -29,5 +29,6 @@
   "itemground": "Átlagos kerti talajban is szépen díszlik.",
   "itemusage": "Szoliternek, bejáratok hangsúlyozására, szűk helyekre sövénynek.",
   "itemlabels": "Taxus baccata Fastigiata Robusta, oszlopos tiszafa, sötétzöld örökzöld, karcsú fa, árnyéktűrő, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755055179-DSC08848_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755055179-DSC08848_(1).webp",
+  "showonweb": true
 }

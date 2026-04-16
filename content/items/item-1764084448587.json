@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő képességű, enyhén savanyú, üde talajt igényel.",
   "itemusage": "Sziklakertek, előkertek, sírok beültetésére, illetve edényes növényként teraszokra.",
   "itemlabels": "Picea glauca Conica, cukorsüvegfenyő, törpefenyő, sziklakerti növény, lassú növekedés, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084447535-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764084447535-almafa.jpg",
+  "showonweb": false
 }

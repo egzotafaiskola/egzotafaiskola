@@ -28,5 +28,6 @@
   "itemground": "Mélyrétegű, tápanyagban gazdag talajt igényel, a meszes talajt kevésbé tűri.",
   "itemusage": "Ideális magas, örökzöld sövény kialakítására, amely teljes takarást biztosít, de szoliter bokorként is impozáns.",
   "itemlabels": "Prunus laurocerasus ’Rotundifolia’, nagy levelű babérmeggy, gyors növekedés, örökzöld sövény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405185308-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405185308-almafa.jpg",
+  "showonweb": false
 }

@@ -29,5 +29,6 @@
   "itemground": "Jól alkalmazkodik a különböző talajtípusokhoz, de a tápanyagban gazdag talajt meghálálja.",
   "itemusage": "Színes sövénynek, szoliternek vagy színfoltképzésre örökzöld csoportokban.",
   "itemlabels": "Cupressocyparis leylandii, Castlewellan Gold, arany leylandi, sárga sövény, gyors növekedés, díszfenyő, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766672687059-DSC08909.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766672687059-DSC08909.webp",
+  "showonweb": true
 }

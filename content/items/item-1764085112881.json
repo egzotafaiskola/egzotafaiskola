@@ -28,5 +28,6 @@
   "itemground": "Széles talajtűrésű, de a pangó vizet nem kedveli.",
   "itemusage": "Kiemelt szoliter növényként, karácsonyfának, vagy színes örökzöld csoportokba.",
   "itemlabels": "Picea pungens Glauca, kék ezüstfenyő, díszfenyő, várostűrő, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764085111162-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764085111162-almafa.jpg",
+  "showonweb": false
 }

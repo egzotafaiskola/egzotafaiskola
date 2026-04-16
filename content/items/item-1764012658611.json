@@ -27,5 +27,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag, enyhén savanyú talajt igényel.",
   "itemusage": "Szoliterként, sziklakertbe, sírokra vagy edényes növényként teraszokra ajánlott. Alacsony sövénynek is ültethető.",
   "itemlabels": "Chamaecyparis lawsoniana, Ellwood's Empire, sárga hajtásvég, lassú növekedés, sziklakerti növény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1775766234811-edited-1775766207270.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1775766234811-edited-1775766207270.png",
+  "showonweb": true
 }

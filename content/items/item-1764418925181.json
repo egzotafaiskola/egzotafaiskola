@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő talajt igényel.",
   "itemusage": "Díszcserjeként szoliternek, vagy virágzó sövénynek csoportosan ültetve.",
   "itemlabels": "Ribes sanguineum, vérribiszke, piros virágú cserje, tavaszi virágzás, illatos növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024959426-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024959426-almafa_lowres.jpg",
+  "showonweb": false
 }

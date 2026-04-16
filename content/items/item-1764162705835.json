@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő, melegebb talajokat szereti.",
   "itemusage": "Sziklakertbe, előkertbe, sírokra, edényes növénynek.",
   "itemlabels": "Thuja orientalis Aurea Nana, törpe tuja, keleti tuja, sárga gömb tuja, sziklakerti növény, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764162704794-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764162704794-almafa.jpg",
+  "showonweb": false
 }

@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, üde talajban fejlődik szépen.",
   "itemusage": "Színes cserjecsoportokba, évelőágyások hátterének, téli dísznek.",
   "itemlabels": "Cornus Anny's Winter Orange, narancs vessző, téli szín, különleges som, díszcserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764433795418-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764433795418-almafa.jpg",
+  "showonweb": false
 }

@@ -25,5 +25,6 @@
   "itemground": "Átlagos kerti talaj megfelelő számára, a pangó vizet kerülni kell.",
   "itemusage": "Szoliterként érvényesül leginkább a kert hangsúlyos pontjain.",
   "itemlabels": "Picea pungens Koster, ezüstfenyő, világoskék lomb, klasszikus fajta, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753445624-DSC08823_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753445624-DSC08823_(1).webp",
+  "showonweb": true
 }

@@ -33,5 +33,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús, meszes talajt kedvel.",
   "itemusage": "Reprezentatív kertekbe szoliternek, bejáratok mellé, vagy dézsás növénynek.",
   "itemlabels": "Taxus baccata, tiszafa, formára nyírt, gömb tiszafa, kúp tiszafa, topiary, árnyéktűrő, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766754715954-DSC09154_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766754715954-DSC09154_(1).webp",
+  "showonweb": true
 }

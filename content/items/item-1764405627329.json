@@ -22,5 +22,6 @@
   "itemground": "Igénytelen fajta, a legtöbb kerti talajban jól fejlődik.",
   "itemusage": "Alkalmas alacsonyabb, nyíratlan sövénynek, dézsás növénynek vagy szoliternek.",
   "itemlabels": "Prunus laurocerasus ’Titan’, oszlopos babérmeggy, bronzos hajtás, ellenálló örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405623533-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405623533-almafa.jpg",
+  "showonweb": false
 }

@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, közepes tápanyagtartalmú talajt kedvel, szárazságtűrő.",
   "itemusage": "Nyírott vagy nyíratlan sövénynek, falak mellé támasztékkal, vagy szoliter cserjének.",
   "itemlabels": "Pyracantha coccinea 'Orange Glow', tűztövis, narancssárga bogyó, biztonsági sövény, gyorsan növő cserje",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025014742-almafa_lowres.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025014742-almafa_lowres.jpg",
+  "showonweb": false
 }

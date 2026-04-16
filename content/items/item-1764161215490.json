@@ -24,5 +24,6 @@
   "itemground": "Átlagos kerti talaj, jó vízáteresztéssel.",
   "itemusage": "Szoliterként, vagy alacsonyabb jelzősövényként, sziklakertbe.",
   "itemlabels": "Taxus media Viridis, világoszöld tiszafa, karcsú örökzöld, lassú növekedésű, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161214496-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161214496-almafa.jpg",
+  "showonweb": false
 }

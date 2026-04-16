@@ -22,5 +22,6 @@
   "itemground": "Tápdús, laza talaj.",
   "itemusage": "Kerti dísztárgyként, dézsás növényként, bejáratok díszítésére.",
   "itemlabels": "Taxus media Viridis, formára nyírt tiszafa, alakfa, világoszöld örökzöld, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161314127-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161314127-almafa.jpg",
+  "showonweb": false
 }

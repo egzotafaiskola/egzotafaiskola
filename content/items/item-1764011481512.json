@@ -35,5 +35,6 @@
   "itemground": "Mélyrétegű, tápanyagban gazdag, jó vízáteresztő képességű, enyhén savanyú talajon fejlődik a legszebben.",
   "itemusage": "Elsősorban szoliterként érvényesül nagy kertekben és parkokban, de csoportosan ültetve is dekoratív. Szabályos növekedése miatt a kertek vezérnövénye lehet.",
   "itemlabels": "Abies nordmanniana, Kaukázusi jegenyefenyő, tűlevelű, karácsonyfa, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1775745670156-edited-1775745595546.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1775745670156-edited-1775745595546.png",
+  "showonweb": true
 }

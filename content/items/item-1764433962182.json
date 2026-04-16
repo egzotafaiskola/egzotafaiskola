@@ -25,5 +25,6 @@
   "itemground": "Igénytelen, a legtöbb kerti talajon megél, de a nedvességet meghálálja.",
   "itemusage": "Téli hatáskeltésre, csoportos beültetésre, cserjefoltokba.",
   "itemlabels": "Cornus Midwinter Fire, tűzszínű som, színes vessző, téli dísz, vérvessző",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764433958593-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764433958593-almafa.jpg",
+  "showonweb": false
 }

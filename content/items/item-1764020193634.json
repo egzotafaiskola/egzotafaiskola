@@ -27,5 +27,6 @@
   "itemground": "Átlagos kerti talajban is szépen fejlődik.",
   "itemusage": "Reprezentatív szoliter bejáratok mellé, kocsibeállók szegélyezésére vagy edényes növényként teraszokra.",
   "itemlabels": "Cupressocyparis x leylandii, törzses gömb, formára nyírt, topiary, szoliter, díszfa, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766672381308-DSC09038.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766672381308-DSC09038.webp",
+  "showonweb": true
 }

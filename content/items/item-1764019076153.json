@@ -35,5 +35,6 @@
   "itemground": "Talajban nem válogatós, a szélsőséges talajviszonyokat is jól tolerálja, de a pangó vizet nem szereti.",
   "itemusage": "Elsősorban nyírott sövénynek ültetik telekhatárolásra, szélfogónak és takarásra.",
   "itemlabels": "Cupressocyparis x leylandii, Leylandi ciprus, gyors növekedés, sövénynövény, örökzöld, belátásgátló, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766929246662-DSC09125_(5).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766929246662-DSC09125_(5).webp",
+  "showonweb": true
 }

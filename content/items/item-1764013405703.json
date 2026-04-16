@@ -25,5 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő, enyhén savanyú talajt igényel.",
   "itemusage": "Kiemelt szoliterként előkertekbe, bejáratok mellé, vagy dézsás növényként teraszokra. Modern és formális kertekbe is kiváló.",
   "itemlabels": "Chamaecyparis lawsoniana, Stardust, törzses fenyő, sárga lombozat, szoliter, különlegesség, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766671767493-DSC09018_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766671767493-DSC09018_(2).webp",
+  "showonweb": true
 }

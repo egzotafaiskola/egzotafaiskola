@@ -27,5 +27,6 @@
   "itemground": "Talajban nem válogatós, a meszes talajokat is kedveli.",
   "itemusage": "Nyírott vagy nyíratlan sövénynek, térhatárolónak, parkokba.",
   "itemlabels": "Taxus baccata Lakatos, magyar tiszafa, hímivarú tiszafa, termés nélküli, sövénynek való, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755211603-DSC08860_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755211603-DSC08860_(1).webp",
+  "showonweb": true
 }

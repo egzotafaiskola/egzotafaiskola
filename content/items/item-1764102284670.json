@@ -32,5 +32,6 @@
   "itemground": "Jó vízáteresztő, tápanyagdús talajt hálál meg a legszebb növekedéssel.",
   "itemusage": "Elsősorban nyírott, örökzöld sövény kialakítására, belátásgátlásra.",
   "itemlabels": "Taxus baccata, sövénytiszafa, örökzöld sövény, árnyéktűrő sövény, hosszú életű, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764102282698-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764102282698-almafa.jpg",
+  "showonweb": false
 }

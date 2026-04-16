@@ -28,5 +28,6 @@
   "itemground": "Igénytelen, a homokos, szegényebb talajokon is megél, de a pangó vizet nem szereti.",
   "itemusage": "Facsoportokba, parkfának, vagy nagyobb kertek szoliter növényének.",
   "itemlabels": "Betula pendula, közönséges nyír, fehér törzs, gyorsan növő fa, őszi sárga lomb",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413856872-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413856872-almafa.jpg",
+  "showonweb": false
 }

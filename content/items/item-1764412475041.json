@@ -25,5 +25,6 @@
   "itemground": "Nem válogatós, a meszes és szárazabb talajokon is megél.",
   "itemusage": "Nagyobb kertekbe szoliternek, szélfogó sávokba vagy nyíratlan sövénynek.",
   "itemlabels": "Acer tataricum ginnala, tűzpiros juhar, őszi lombszín, ellenálló cserje, illatos virág",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764412471841-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764412471841-almafa.jpg",
+  "showonweb": false
 }

@@ -26,5 +26,6 @@
   "itemground": "Átlagos kerti talajban is jól érzi magát, de a tápanyagdús közeget meghálálja.",
   "itemusage": "Elsősorban sövényként ültetik, mivel gyorsan zárt falat képez, de szoliterként is megállja a helyét.",
   "itemlabels": "Prunus laurocerasus ’Reynvaanii’, sövénynövény, gyorsan növő, fagytűrő örökzöld, belátásgátló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405001840-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764405001840-almafa.jpg",
+  "showonweb": false
 }

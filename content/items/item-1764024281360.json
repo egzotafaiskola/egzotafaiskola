@@ -24,5 +24,6 @@
   "itemground": "Bármilyen talajon megél, várostűrő.",
   "itemusage": "Parkokba, ipari területekre, nagy rézsűk megkötésére.",
   "itemlabels": "Juniperus media, Pfitzeriana, zöld boróka, nagy talajtakaró, igénytelen cserje, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024280456-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024280456-almafa.jpg",
+  "showonweb": false
 }

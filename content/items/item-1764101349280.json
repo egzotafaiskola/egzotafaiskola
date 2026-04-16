@@ -26,5 +26,6 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talaj.",
   "itemusage": "Színes szoliternek, sziklakertbe, vagy nyírott formaként.",
   "itemlabels": "Taxus baccata Aurea, sárga tiszafa, színes örökzöld, formázható, gömb forma, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764101347855-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764101347855-almafa.jpg",
+  "showonweb": false
 }

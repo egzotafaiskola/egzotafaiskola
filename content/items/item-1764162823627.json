@@ -25,5 +25,6 @@
   "itemground": "Lazább szerkezetű, mészben gazdagabb talajt is elvisel.",
   "itemusage": "Szoliternek, kisebb csoportokba, színes sövénynek.",
   "itemlabels": "Thuja orientalis Pyramidalis Aurea, arany tuja, keleti életfa, sárga oszlopos tuja, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766756695839-DSC09204_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766756695839-DSC09204_(1).webp",
+  "showonweb": true
 }

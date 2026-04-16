@@ -26,5 +26,6 @@
   "itemground": "Széles talajtűrésű, a homokos talajokat is jól viseli.",
   "itemusage": "Tájkertekbe, nagy terekre szoliternek vagy csoportosan ültetve.",
   "itemlabels": "Pinus sylvestris, erdei fenyő, vörös törzs, őshonos flóra, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764092396284-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764092396284-almafa.jpg",
+  "showonweb": false
 }

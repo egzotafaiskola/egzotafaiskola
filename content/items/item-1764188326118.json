@@ -22,5 +22,6 @@
   "itemground": "Átlagos kerti talajban is kiválóan fejlődik.",
   "itemusage": ": Geometrikus kertekbe, ágyások hangsúlyozására, vagy szoliterként.",
   "itemlabels": "Ligustrum gömb, formára nyírt fagyal, topiary, félörökzöld gömb, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764188324744-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764188324744-almafa.jpg",
+  "showonweb": false
 }

@@ -24,5 +24,6 @@
   "itemground": "Igénytelen, a legtöbb kerti talajban jól fejlődik.",
   "itemusage": "Sövénynek, térhatárolónak kiváló, de szoliterként is megállja a helyét kékes árnyalata miatt.",
   "itemlabels": "Cupressocyparis leylandii, Blue Jeans, kékes leylandi, sövénynövény, örökzöld, gyors növekedés, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp",
+  "showonweb": true
 }

@@ -27,5 +27,6 @@
   "itemground": "Üde, tápdús talaj.",
   "itemusage": "Szoliterként, vagy zöld sövények közé ültetve színfoltnak, esetleg sárga sövénynek.",
   "itemlabels": "Thuja occidentalis Yantar, sárga smaragd tuja, aranysárga örökzöld, kúp tuja, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766756421508-DSC08804.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766756421508-DSC08804.webp",
+  "showonweb": true
 }

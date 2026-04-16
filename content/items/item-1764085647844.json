@@ -25,5 +25,6 @@
   "itemground": "Jó szerkezetű, semleges vagy savanyú talajt kedvel.",
   "itemusage": "Szoliternek, előkertekbe, vagy élő karácsonyfának.",
   "itemlabels": "Picea pungens Fat Albert, kék ezüstfenyő, szabályos kúp, oltott fenyő, örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753323570-DSC08831.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766753323570-DSC08831.webp",
+  "showonweb": true
 }

@@ -22,5 +22,6 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talajban érzi jól magát.",
   "itemusage": "Szoliterként előkertekbe, bejáratok mellé párosával, vagy dézsába ültetve teraszok díszítésére.",
   "itemlabels": "Buxus gömb, formára nyírt puszpáng, Faulkner, örökzöld gömb, szoliter, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764177887769-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764177887769-almafa.jpg",
+  "showonweb": false
 }

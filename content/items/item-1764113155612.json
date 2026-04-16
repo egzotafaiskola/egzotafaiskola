@@ -33,5 +33,6 @@
   "itemground": "Tápdús, jó vízáteresztő talajt hálál meg a legszebb növekedéssel.",
   "itemusage": "Elsősorban vágott sövénynek ajánlott, de szoliterként is mutatós függőleges hangsúly.",
   "itemlabels": "Taxus media Hicksii, oszlopos tiszafa, piros bogyós, sövénynövény, örökzöld fal, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755691474-DSC08972.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755691474-DSC08972.webp",
+  "showonweb": true
 }

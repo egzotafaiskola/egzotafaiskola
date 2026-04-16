@@ -28,5 +28,6 @@
   "itemground": "Széles talajtűrésű, a városi klímát is jól viseli.",
   "itemusage": ": Keskeny sövények kialakítására, vagy szűk helyekre, ahol fontos a magasság, de kevés a szélesség.",
   "itemlabels": "Cupressocyparis leylandii, Green Rocket, oszlopos leylandi, nyírt fenyő, keskeny sövény, gyors növekedés, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp",
+  "showonweb": true
 }

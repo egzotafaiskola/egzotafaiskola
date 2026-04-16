@@ -22,5 +22,6 @@
   "itemground": "Átlagos, jó vízáteresztő kerti talajban szépen fejlődik.",
   "itemusage": "Kiemelt helyre, előkertekbe, sziklakertbe, edénybe ültetve szoliterként ajánlott.",
   "itemlabels": "Taxus baccata Repandens Aurea, formára nyírt, gömb tuja, sárga örökzöld, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104416123-edited-1764104409679.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764104416123-edited-1764104409679.png",
+  "showonweb": true
 }

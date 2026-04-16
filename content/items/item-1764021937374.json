@@ -29,5 +29,6 @@
   "itemground": "Jó vízáteresztő, szárazabb, meszes talajokon is jól érzi magát. A pangó vizet nem tűri.",
   "itemusage": "Kiemelt szoliterként, utak mellé sorfának, vagy mediterrán hangulatú kertek hangsúlyos elemeként.",
   "itemlabels": ": Cupressus sempervirens, Pyramidalis, európai ciprus, toszkán ciprus, oszlopos örökzöld, mediterrán növény, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766746512172-DSC08880.webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766746512172-DSC08880.webp",
+  "showonweb": true
 }

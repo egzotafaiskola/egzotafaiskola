@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő képességű, tápanyagban gazdag, enyhén savanyú vagy semleges talajt kedvel.",
   "itemusage": "Kiválóan alkalmas alacsony sövénynek, talajtakarónak, rézsűk beültetésére vagy szoliterként kisebb ágyásokba.",
   "itemlabels": "Prunus laurocerasus ’Otto Luyken’, alacsony babérmeggy, lomblevelű örökzöld, talajtakaró cserje, fehér virágú",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764404889930-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764404889930-almafa.jpg",
+  "showonweb": false
 }

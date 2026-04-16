@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag talaj.",
   "itemusage": "Modern kertek szoliter növényeként, utak mentén ritmusosan elhelyezve, vagy geometriai parterekbe.",
   "itemlabels": "Buxus sempervirens, formára nyírt puszpáng, bukszus kocka, geometrikus kert, topiary, szoliter, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764440512-DSC09128_(1).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766764440512-DSC09128_(1).webp",
+  "showonweb": true
 }

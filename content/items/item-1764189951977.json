@@ -24,5 +24,6 @@
   "itemground": "Átlagos, jó szerkezetű kerti talajban érzi jól magát.",
   "itemusage": "Keskeny sövénynek, szoliter oszlopnak, dézsás növénynek.",
   "itemlabels": "Prunus Elly, oszlopos babérmeggy, keskeny sövény, modern kert, gondozásmentes, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764189951018-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764189951018-almafa.jpg",
+  "showonweb": false
 }

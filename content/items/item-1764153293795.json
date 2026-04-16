@@ -26,5 +26,6 @@
   "itemground": "Átlagos kerti talaj megfelelő, a szélsőségeket (pangó víz) kerülni kell.",
   "itemusage": "Kiváló sövénynövény, de szoliterként is ültethető.",
   "itemlabels": "Taxus media Hillii, bogyó nélküli tiszafa, sűrű sövény, oszlopos örökzöld, földlabdás növény",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766755691474-DSC08972.webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766755691474-DSC08972.webp",
+  "showonweb": true
 }

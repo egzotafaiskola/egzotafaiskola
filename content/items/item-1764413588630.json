@@ -25,5 +25,6 @@
   "itemground": "Talajban nem válogatós, a meszes és szárazabb talajokat is jól tűri.",
   "itemusage": "Nyíratlan, virágzó sövénynek, szélfogónak vagy természetközeli kertekbe ideális.",
   "itemlabels": "Amelanchier spicata, füstös fanyarka, ehető termés, ellenálló cserje, sövénynövény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413584712-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413584712-almafa.jpg",
+  "showonweb": false
 }

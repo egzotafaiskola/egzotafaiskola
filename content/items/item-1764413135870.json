@@ -25,5 +25,6 @@
   "itemground": "Szárazságtűrő, jó vízáteresztő talajt kedvel.",
   "itemusage": "Különleges virágszíne miatt kiemelt helyre, szoliternek ajánlott.",
   "itemlabels": "Albizia Rouge de Tuiliére, sötét rózsaszín selyemakác, különleges virág, mediterrán kert, díszfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413131729-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413131729-almafa.jpg",
+  "showonweb": false
 }

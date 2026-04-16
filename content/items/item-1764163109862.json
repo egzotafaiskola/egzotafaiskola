@@ -26,5 +26,6 @@
   "itemground": "Laza, meszes, tápdús talajokat kedvel.",
   "itemusage": "Formasövénynek, térhatárolónak, vagy formára nyírt alakzatnak.",
   "itemlabels": "Címkék: Buxus sempervirens, puszpáng, bukszus, örökzöld sövény, formálható növény, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764163108567-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764163108567-almafa.jpg",
+  "showonweb": false
 }

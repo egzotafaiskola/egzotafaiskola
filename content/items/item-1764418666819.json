@@ -25,5 +25,6 @@
   "itemground": "Jó vízáteresztő, tápanyagban gazdag talajokat kedveli, de jól alkalmazkodik.",
   "itemusage": "Szoliterként, sorfának, utcai fásításra, kisebb kertekbe árnyékolónak.",
   "itemlabels": "Carpinus betulus, oszlopos fa, gyertyán, díszfa, őszi lombszín",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764418663077-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764418663077-almafa.jpg",
+  "showonweb": false
 }

@@ -26,5 +26,6 @@
   "itemground": "Jó szerkezetű, tápanyagban gazdag talajt igényel.",
   "itemusage": "Szoliterként, dézsában, előkertben vagy geometrikus kertekben.",
   "itemlabels": "Prunus gömb, Etna gömb, formára nyírt babérmeggy, bronz hajtás, szoliter, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764190375382-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764190375382-almafa.jpg",
+  "showonweb": false
 }

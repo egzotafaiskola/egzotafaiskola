@@ -25,5 +25,6 @@
   "itemground": "Enyhén savanyú, mészmentes talajt preferál, de átlagos kerti talajban is megél.",
   "itemusage": "Szoliter cserjeként, laza sövénynek vagy madárbarát kertekbe kiváló választás.",
   "itemlabels": "Amelanchier lamarckii, rézvörös fanyarka, ehető bogyó, őszi lombszín, fehér virág, madárbarát",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413411264-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764413411264-almafa.jpg",
+  "showonweb": false
 }

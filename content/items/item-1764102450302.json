@@ -24,5 +24,6 @@
   "itemground": "A pangó vizet nem szereti, egyébként talajban nem válogat.",
   "itemusage": "Szoliternek, csoportos ültetésre parkokba, vagy szélesebb sövénynek.",
   "itemlabels": "Taxus baccata Overeynderii, kúp alakú tiszafa, hímivarú, termés nélküli, sövénynek való, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153137704-edited-1764153124509.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153137704-edited-1764153124509.png",
+  "showonweb": true
 }

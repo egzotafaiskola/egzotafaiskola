@@ -27,5 +27,6 @@
   "itemground": "Átlagos kerti talajban is jól érzi magát, de a pangó vizet kerülni kell.",
   "itemusage": "Tömött, zárt sövények kialakítására, térhatárolásra kiváló.",
   "itemlabels": "Taxus media Groenland, sövény tiszafa, oszlopos tiszafa, ellenálló örökzöld, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755544616-DSC00208_(2).webp"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766755544616-DSC00208_(2).webp",
+  "showonweb": true
 }

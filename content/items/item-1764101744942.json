@@ -24,5 +24,6 @@
   "itemground": "Jó szerkezetű, tápanyagdús talajt kedvel.",
   "itemusage": "Szoliterként, vagy alacsony sövénynek, sziklakertbe vertikális hangsúlynak.",
   "itemlabels": "Taxus baccata David, sárga oszlopos tiszafa, karcsú örökzöld, színes lomb, hímivarú, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153046719-edited-1764153033848.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153046719-edited-1764153033848.png",
+  "showonweb": true
 }

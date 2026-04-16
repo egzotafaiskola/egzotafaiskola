@@ -22,5 +22,6 @@
   "itemground": "Tápdús, üde talajt igényel.",
   "itemusage": "Alacsony szegélysövénynek ágyások köré, fűszerkertbe, temetőbe.",
   "itemlabels": "Buxus suffruticosa, törpe bukszus, szegélynövény, alacsony sövény, lassú növekedésű, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764176472436-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764176472436-almafa.jpg",
+  "showonweb": false
 }

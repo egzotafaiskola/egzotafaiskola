@@ -24,5 +24,6 @@
   "itemground": "Jó vízáteresztő, semleges vagy enyhén meszes talaj.",
   "itemusage": "Keskeny sövénynek, szoliternek, csoportos ültetésre.",
   "itemlabels": "Taxus media Stricta Viridis, merev ágú tiszafa, oszlopos örökzöld, kompakt növény, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161467094-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764161467094-almafa.jpg",
+  "showonweb": false
 }

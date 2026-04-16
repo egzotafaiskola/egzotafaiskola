@@ -24,5 +24,6 @@
   "itemground": "Talajban nem válogatós, szárazságtűrő fajta.",
   "itemusage": "Színfoltnak örökzöld ágyásokba, talajtakarónak rézsűkre, vagy alacsony nyíratlan sövénynek.",
   "itemlabels": "Juniperus virginiana, Grey Owl, ezüst boróka, szürke lombozat, talajtakaró, díszboróka, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764025251920-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764025251920-almafa.jpg",
+  "showonweb": false
 }
