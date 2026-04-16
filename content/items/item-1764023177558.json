@@ -24,5 +24,6 @@
   "itemground": "Talajban nem válogatós, a városi szennyezett levegőt is jól tűri.",
   "itemusage": "Nagyobb rézsűk, parkok talajtakarására, vagy nyíratlan jelzősövénynek.",
   "itemlabels": "Juniperus media, Mint Julep, zöld boróka, talajtakaró, gyors növekedés, várostűrő, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764023176499-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764023176499-almafa.jpg",
+  "showonweb": false
 }
