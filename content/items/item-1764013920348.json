@@ -24,5 +24,6 @@
   "itemground": "Jó szerkezetű, tápanyagban gazdag, enyhén savanyú talajon érzi jól magát.",
   "itemusage": "Kiváló szoliter, de látványos, kék színű sövény is kialakítható belőle. Színkontraszt képzésére is alkalmas zöld növények társaságában.",
   "itemlabels": "Chamaecyparis lawsoniana, Van Pelts Blue, kék hamisciprus, intenzív kék, oszlopos örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764013919137-almafa.jpg"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764013919137-almafa.jpg",
+  "showonweb": false
 }
