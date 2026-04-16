@@ -584,7 +584,7 @@ img:hover{transform:scale(1.04)}
     </div>
   </div>
 </div>
-  
+
   <div class="overlay" id="overlay"></div>
   <div id="items" class="items-container">
     <p>Betöltés...</p>
@@ -618,7 +618,7 @@ img:hover{transform:scale(1.04)}
       </div>
     </div>
   </div>
- 
+
     </div>
     <div class="container csmitemhold">
       <ul role="list" class="grid_4-col gap-small w-list-unstyled">
@@ -958,7 +958,7 @@ img:hover{transform:scale(1.04)}
             <h3 class="item-title">${itemData.title || "Névtelen elem"}</h3>
             <p class="item-latin">${itemData.latin || ""}</p>
             <p class="item-text description">${itemData.description || ""}</p>
-            
+
             <p class="item-text rendes-kategoriak"><strong>Kategória:</strong> ${itemData.selectedCategoryFromDropdown || ""}</p>
             <p class="item-text categoriesquality">${itemData.categoriesquality || ""}</p>
             <p class="item-text categorieslevel">${itemData.categorieslevel || ""}</p>
@@ -966,14 +966,23 @@ img:hover{transform:scale(1.04)}
             ${(itemData.categorieshakonteneres ?? "").trim().replace(/,/g, "").trim()
              ? `<p class="item-text categorieshakonteneres" data-value="${itemData.categorieshakonteneres}">
               Konténer méret: ${itemData.categorieshakonteneres}
-             </p>` 
+             </p>`
              : ""}
 
 
-            
+
             <button class="details-btn" data-id="${itemData.ID}">Részletek</button>
           `;
+          
+          // ── MÓDOSÍTÁS 1: showonweb szűrés ──────────────────────────────
+          div.dataset.showonweb = String(itemData.showonweb);
+          if (itemData.showonweb === false) {
+            continue; // Teljesen kihagyjuk, nem kerul bele a DOM-ba sem, kimarad az appendChild
+            //div.style.display = "none";
+          }
           container.appendChild(div);
+          // ───────────────────────────────────────────────────────────────
+          
         }
       }
     } catch (err) {
@@ -982,7 +991,7 @@ img:hover{transform:scale(1.04)}
   }
 //<p><strong>Kategória:</strong> ${itemData.category || ""}</p>
 
-    //<p class="inline">Típus: 
+    //<p class="inline">Típus:
    //         <span class="item-text categorieshakonteneres2">${itemData.categorieshakonteneres2 || ""}</span>
  //           <span class="item-text categorieshanemkonteneres">${itemData.categorieshanemkonteneres || ""}</span>
    //         </p>
@@ -1035,10 +1044,10 @@ img:hover{transform:scale(1.04)}
       const categories = categori ? categori.textContent.trim() : "";
 
       const categoryhakont = card.querySelector(".categorieshakonteneres");
-      const categoryhakonteneres = categoryhakont 
+      const categoryhakonteneres = categoryhakont
       ? categoryhakont.getAttribute("data-value").trim() : "";
       //alert("categoryhakonteneres: " + categoryhakont);
-      
+
       const categoryhakont2 = card.querySelector(".categorieshakonteneres2");
       const categoryhakonteneres2 = categoryhakont2 ? categoryhakont2.textContent.trim() : "";
 
@@ -1069,12 +1078,14 @@ img:hover{transform:scale(1.04)}
     const searchcategorynamelat = searchcategorylat.toLowerCase();
 
  //   console.log("Kártya latin nev:", searchcategorynamelat, "| Keresési érték:", searchinput);
-     
+
 
 //masolt idaig
 
       // szures logikaja
+      // ── MÓDOSÍTÁS 2: showonweb === false kártyák mindig rejtve maradnak ──
       if (
+        card.dataset.showonweb !== 'false' &&
         (!searchinput || searchcategoryname.includes(searchinput) || searchcategorynamelat.includes(searchinput))&& //masolt
         (!mainfiltervalue || rendeskategoriak.includes(mainfiltervalue)) &&
         (!filterValuequality || categoryquality === filterValuequality  || categoryquality === "Szabadföldi és Konténeres" )&&
@@ -1094,11 +1105,11 @@ img:hover{transform:scale(1.04)}
     });
   }
 
-  
-</script> 
+
+</script>
 <script> //masolt kod popuphoz
   document.addEventListener("click", function(e) {
-    
+
   if (e.target.classList.contains("details-btn")) {
     const id = e.target.getAttribute("data-id");
     const card = document.querySelector(`.item-card[data-id="${id}"]`);
@@ -1106,7 +1117,7 @@ img:hover{transform:scale(1.04)}
     if (!card) return;
 
     const itemData = JSON.parse(card.dataset.item);
-    
+
     const priceTable = `
   <table class="ar-tablazat-popupon">
     <thead>
@@ -1142,7 +1153,7 @@ img:hover{transform:scale(1.04)}
         <p><strong>Telj. leir.:</strong> ${itemData.descriptionall || "Nincs"} </p>
         <p><strong>Kategória:</strong> ${itemData.category || "Nincs"}</p>
         <p><strong>Kategória(rendes):</strong> ${itemData.selectedCategoryFromDropdown || "Nincs"}</p>
-  
+
         <p><strong>Minőség:</strong> ${itemData.categoriesquality || "Nincs"}</p>
         <p><strong>Levél:</strong> ${itemData.categorieslevel || "Nincs"}</p>
         <p><strong>Növés:</strong> ${itemData.categoriesnoves || "Nincs"}</p>
@@ -1152,7 +1163,7 @@ img:hover{transform:scale(1.04)}
          ${(itemData.categorieshakonteneres ?? "").trim().replace(/,/g, "").trim()
              ? `<p class="item-text categorieshakonteneres" data-value="${itemData.categorieshakonteneres}">
               Konténer méret: ${itemData.categorieshakonteneres}
-             </p>` 
+             </p>`
              : ""}
         <p><strong>Típus:</strong> ${itemData.categorieshakonteneres2 || itemData.categorieshanemkonteneres || "Nincs"}</p>
         <p><strong>Fényigény:</strong> ${itemData.itemlight || "Nincs"}</p>
@@ -1183,7 +1194,7 @@ img:hover{transform:scale(1.04)}
       document.getElementById("item-modal").classList.add("active");
       document.getElementById("overlay").classList.add("active");
       document.body.classList.add("no-scroll");
-   
+
   }
 });
 
