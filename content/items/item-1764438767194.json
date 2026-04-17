@@ -1,5 +1,5 @@
 {
-  "ID": "mnw764cfujbr",
+  "ID": "mo3e50ujt11a",
   "title": "Mirtuszlonc 'Elegans'",
   "latin": "Lonicera nitida 'Elegans'",
   "description": "Lonicera nitida 'Elegans' – Mirtuszlonc 'Elegans': apró, fényes levelű, gyorsan terjedő örökzöld, amely talajtakarónak és alacsony sövénynek is kiváló.",
@@ -25,6 +25,6 @@
   "itemground": "Átlagos kerti talajban jól fejlődik, nem igényes.",
   "itemusage": "Talajtakarónak rézsűkre, alacsony jelzősövénynek, vagy temetői kiültetésre.",
   "itemlabels": "Lonicera nitida, mirtuszlonc, talajtakaró cserje, apró levelű örökzöld, sövénypótló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024564362-almafa_lowres.jpg",
-  "showonweb": false
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776459533724-edited-1776459510497.png"
 }
