@@ -1,5 +1,5 @@
 {
-  "ID": "mnw7cpryf7cj",
+  "ID": "mikjqf286t0d",
   "title": "Sárgalevelű hólyagvessző",
   "latin": "Physocarpus opulifolius 'Luteus'",
   "description": "Színes sövénynek, háttérnövénynek vagy szoliternek.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "",
+  "selectedCategoryFromDropdown": "Cserjék",
   "itemprices": [
     "2600"
   ],
@@ -25,6 +25,6 @@
   "itemground": "Napos vagy félárnyékos helyet kedvel (tűző napon a levelek széle megéghet, mélyárnyékban kizöldül).",
   "itemusage": "Színes sövénynek, háttérnövénynek vagy szoliternek.",
   "itemlabels": "Színes sövénynek, háttérnövénynek vagy szoliternek.",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024872073-almafa_lowres.jpg",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764436160971-Gemini_Generated_Image_jlxnztjlxnztjlxn-removebg-preview.png",
   "showonweb": false
 }

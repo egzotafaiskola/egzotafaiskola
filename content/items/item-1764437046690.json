@@ -1,5 +1,5 @@
 {
-  "ID": "mnw7bb10om1t",
+  "ID": "mikk9ck8b552",
   "title": "Babérmeggy 'Baumgartner'",
   "latin": "Prunus laurocerasus 'Baumgartner'",
   "description": "Prunus laurocerasus 'Baumgartner' – Babérmeggy 'Baumgartner': sűrű, kompakt növekedésű, kisebb levelű fajta, amely ideális alacsonyabb sövények kialakítására.",
@@ -7,8 +7,8 @@
   "category": "",
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "2500"
   ],
@@ -25,6 +25,6 @@
   "itemground": "Átlagos kerti talajban is megél, de a tápanyagot meghálálja.",
   "itemusage": "Alacsony sövénynek, térelválasztónak, gömb formára nyírva szoliternek.",
   "itemlabels": "Prunus laurocerasus 'Baumgartner', kompakt babérmeggy, kislevelű babérmeggy, alacsony sövény, betegségellenálló",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024806301-almafa_lowres.jpg",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764437044202-Gemini_Generated_Image_jlxnztjlxnztjlxn-removebg-preview.png",
   "showonweb": false
 }

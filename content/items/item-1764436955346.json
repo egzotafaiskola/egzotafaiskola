@@ -1,5 +1,5 @@
 {
-  "ID": "mnw7blbaqd3l",
+  "ID": "mikk7dzckpnk",
   "title": "Babérmeggy 'Antonius'",
   "latin": "Prunus laurocerasus 'Antonius'",
   "description": "Prunus laurocerasus 'Antonius' – Babérmeggy 'Antonius': kiváló hidegtűrésű, oszlopos növekedésű örökzöld, bronzos új hajtásokkal.",
@@ -7,8 +7,8 @@
   "category": "",
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "2500"
   ],
@@ -25,6 +25,6 @@
   "itemground": "Tápanyagban gazdag, jó vízáteresztő talajt kedvel.",
   "itemusage": "Keskenyebb, nyírott vagy nyíratlan sövénynek, szoliternek.",
   "itemlabels": "Prunus laurocerasus 'Antonius', babérmeggy, télálló, oszlopos sövény, bronzos hajtás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776024819642-almafa_lowres.jpg",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764436952720-Gemini_Generated_Image_jlxnztjlxnztjlxn-removebg-preview.png",
   "showonweb": false
 }

@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Cserjék",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "1800"
   ],
@@ -19,7 +19,7 @@
   "itemkontenerek": [
     "3 L"
   ],
-  "categorieshakonteneres2": "Cserjék",
+  "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "",
   "itemlight": "Kifejezetten fényigényes, napos helyre való.",
   "itemground": "Minden talajon megél, még a szikes, homokos talajokon is.",
