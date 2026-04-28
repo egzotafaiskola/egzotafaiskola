@@ -7,8 +7,8 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Lomblevelű örökzöldek",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "4500"
   ],
@@ -17,7 +17,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos és félárnyékos helyen is szépen díszít.",
   "itemground": "Igénytelen fajta, a legtöbb kerti talajban jól fejlődik.",
   "itemusage": "Alkalmas alacsonyabb, nyíratlan sövénynek, dézsás növénynek vagy szoliternek.",

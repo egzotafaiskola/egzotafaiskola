@@ -1,5 +1,5 @@
 {
-  "ID": "mnw7v8p5rsk2",
+  "ID": "mik978lt4l2p",
   "title": "Oszlopos tűztövis 'Red Column'",
   "latin": "Pyracantha coccinea 'Red Column'",
   "description": "Pyracantha coccinea 'Red Column' – Oszlopos tűztövis: felfelé törő ágrendszerű, piros bogyós fajta, amely ideális választás keskenyebb, de biztonságos sövényekhez.",
@@ -7,8 +7,8 @@
   "category": "",
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Cserjék",
   "itemprices": [
     "1800"
   ],
@@ -25,6 +25,6 @@
   "itemground": "Nem válogatós, a legtöbb kerti talajtípuson jól fejlődik.",
   "itemusage": "Keskenyebb sövények kialakítására, falak takarására, vagy szoliterként a kert hangsúlyos pontjára.",
   "itemlabels": "Pyracantha coccinea 'Red Column', piros bogyós tűztövis, oszlopos cserje, védősövény, örökzöld",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025736411-almafa_lowres.jpg",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764418469985-edited-1764418459774.png",
   "showonweb": false
 }

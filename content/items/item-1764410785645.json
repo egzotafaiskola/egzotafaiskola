@@ -1,5 +1,5 @@
 {
-  "ID": "mo1wpdztoii8",
+  "ID": "mik530z800zx",
   "title": "Szeldelt levelű japán juhar",
   "latin": "Acer palmatum ’Crimson Queen’",
   "description": "Acer palmatum ’Crimson Queen’ – Szeldelt levelű japán juhar: Finom, csipkés lombozatú, csüngő habitusú különlegesség, amely egész évben bordó színével hódít.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "",
+  "selectedCategoryFromDropdown": "Szoliterek",
   "itemprices": [
     "6500"
   ],
@@ -25,6 +25,6 @@
   "itemground": "Savanyú, nyirkos, de jó vízáteresztő talajt kedvel.",
   "itemusage": "Japánkertek központi eleme, sziklakerti növény vagy dézsás dísz.",
   "itemlabels": "Acer palmatum Crimson Queen, csüngő japán juhar, szeldelt levél, bordó lomb, törpe fa",
-  "showonweb": false,
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776369784625-edited-1776369779565.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764411555001-edited-1764411549589.png",
+  "showonweb": false
 }

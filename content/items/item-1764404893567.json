@@ -7,8 +7,8 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "Lomblevelű örökzöldek",
+  "categoriesnoves": "Gyors",
+  "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "3800",
     "4500"
@@ -19,7 +19,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Gömb",
   "itemlight": "Napos, félárnyékos és árnyékos helyen is jól érzi magát.",
   "itemground": "Jó vízáteresztő képességű, tápanyagban gazdag, enyhén savanyú vagy semleges talajt kedvel.",
   "itemusage": "Kiválóan alkalmas alacsony sövénynek, talajtakarónak, rézsűk beültetésére vagy szoliterként kisebb ágyásokba.",
