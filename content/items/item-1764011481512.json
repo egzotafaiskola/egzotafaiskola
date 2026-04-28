@@ -7,7 +7,7 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
-  "categoriesnoves": "Közepes",
+  "categoriesnoves": "Lassú",
   "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "5400",
@@ -29,7 +29,7 @@
   "itemkontenerek": [
     ""
   ],
-  "categorieshakonteneres2": "Fenyő",
+  "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Fenyő",
   "itemlight": "Napos vagy félárnyékos helyet kedvel, de a fiatal példányok jobban viselik a párásabb, védettebb környezetet.",
   "itemground": "Mélyrétegű, tápanyagban gazdag, jó vízáteresztő képességű, enyhén savanyú talajon fejlődik a legszebben.",

@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Talajtakarók",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "3200",
     "3600"
@@ -19,7 +19,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "Fenyő",
+  "categorieshanemkonteneres": "Kúszó",
   "itemlight": "Napos helyen a legszebb az ezüstös színe.",
   "itemground": "Talajban nem válogatós, szárazságtűrő fajta.",
   "itemusage": "Színfoltnak örökzöld ágyásokba, talajtakarónak rézsűkre, vagy alacsony nyíratlan sövénynek.",

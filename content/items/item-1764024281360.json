@@ -7,8 +7,8 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
-  "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Talajtakarók",
+  "categoriesnoves": "Közepes",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "2400",
     "3000"
@@ -19,7 +19,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "Fenyő",
+  "categorieshanemkonteneres": "Kúszó",
   "itemlight": "Napos vagy félárnyékos helyet kedvel.",
   "itemground": "Bármilyen talajon megél, várostűrő.",
   "itemusage": "Parkokba, ipari területekre, nagy rézsűk megkötésére.",

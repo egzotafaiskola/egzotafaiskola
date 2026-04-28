@@ -1,5 +1,5 @@
 {
-  "ID": "mnw7wqhcudeh",
+  "ID": "mnrxbo0o5szd",
   "title": "Oszlopos oregoni hamisciprus",
   "latin": "Chamaecyparis lawsoniana 'Columnaris'",
   "description": "Chamaecyparis lawsoniana 'Columnaris' – Oszlopos oregoni hamisciprus: Acélkék lombozatú, karcsú növekedésű örökzöld, amely kiválóan alkalmas dekoratív sövénynek.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "",
+  "selectedCategoryFromDropdown": "Pikkelyes fenyők",
   "itemprices": [
     "3300",
     "4100",
@@ -25,12 +25,12 @@
   "itemkontenerek": [
     ""
   ],
-  "categorieshakonteneres2": "Fenyő",
-  "categorieshanemkonteneres": "Fenyő",
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos vagy félárnyékos fekvést igényel. Árnyékban a lombozata megritkulhat és elveszítheti szép kék színét.",
   "itemground": "Átlagos kerti talajban jól érzi magát, szereti a tápanyagban gazdag, üde földet. A meszes talajt kevésbé tolerálja.",
   "itemusage": "Ideális választás örökzöld sövény kialakítására, mivel jól tűri a nyírást. Szoliterként vagy csoportba ültetve színfoltot képez a kertben.",
   "itemlabels": "Chamaecyparis lawsoniana, oregoni hamisciprus, kékes lombozat, sövénynövény, oszlopos fenyő, földlabdás növény",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776025806107-almafa_lowres.jpg",
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1775766162266-edited-1775766146466.png",
   "showonweb": false
 }

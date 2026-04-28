@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Talajtakarók",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "2400",
     "3000"
@@ -19,7 +19,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "Fenyő",
+  "categorieshanemkonteneres": "Kúszó",
   "itemlight": "Napos helyen lesz a legszebb a színe.",
   "itemground": "Igénytelen, jól bírja a szárazságot és a gyengébb talajokat is.",
   "itemusage": "Talajtakarónak, sziklakertbe, vagy színes kontrasztképzőnek örökzöld csoportokban.",
