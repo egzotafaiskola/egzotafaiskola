@@ -1,5 +1,5 @@
 {
-  "ID": "mo1witapudx9",
+  "ID": "mifv6ap8fnkl",
   "title": "Oszlopos sárga tiszafa ’David’",
   "latin": "Taxus baccata ’David’",
   "description": "Taxus baccata ’David’ – Oszlopos sárga tiszafa: karcsú, helytakarékos oszlopos formájú tiszafa, ragyogó sárgászöld lombozattal.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "3300",
     "4200"
@@ -17,16 +17,13 @@
     "40-60",
     "60-80"
   ],
-  "categorieshakonteneres": ",",
-  "itemkontenerek": [
-    ""
-  ],
+  "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "Fenyő",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos helyen a legszebb a színe, de félárnyékban is megél.",
   "itemground": "Jó szerkezetű, tápanyagdús talajt kedvel.",
   "itemusage": "Szoliterként, vagy alacsony sövénynek, sziklakertbe vertikális hangsúlynak.",
   "itemlabels": "Taxus baccata David, sárga oszlopos tiszafa, karcsú örökzöld, színes lomb, hímivarú, földlabdás növény",
-  "showonweb": false,
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1776369477858-edited-1776369470611.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764153046719-edited-1764153033848.png",
+  "showonweb": false
 }

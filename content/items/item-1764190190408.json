@@ -7,7 +7,7 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Lassú",
+  "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "4200",
@@ -28,7 +28,7 @@
     ""
   ],
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Gömb",
   "itemlight": "Napos vagy félárnyékos helyet kedvel.",
   "itemground": "Tápdús, jó vízáteresztő talajban fejlődik a legszebben.",
   "itemusage": ": Sövénynek, szoliternek, de akár alacsonyabb térelválasztónak is.",

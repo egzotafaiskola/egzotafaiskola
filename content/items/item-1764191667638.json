@@ -23,10 +23,11 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos és félárnyékos helyen is jól fejlődik.",
   "itemground": "Átlagos kerti talajban is szépen díszít, a pangó vizet kerüljük.",
   "itemusage": "Helytakarékos sövénynek, keskeny térelválasztónak.",
   "itemlabels": "Prunus Genolia, oszlopos babérmeggy, keskeny sövény, helytakarékos, télálló, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765888059993-DSC09288_(1).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765888059993-DSC09288_(1).webp",
+  "showonweb": false
 }

@@ -7,7 +7,7 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Közepes",
+  "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "4200",
@@ -19,7 +19,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos vagy félárnyékos helyet kedvel.",
   "itemground": "Jó vízáteresztő, tápdús talajt igényel.",
   "itemusage": "Közepes méretű sövénynek, szoliternek.",

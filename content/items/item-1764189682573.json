@@ -7,7 +7,7 @@
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Levél",
-  "categoriesnoves": "Közepes",
+  "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "4200",
@@ -21,7 +21,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos, félárnyékos, sőt árnyékos helyen is megél.",
   "itemground": "Jól tűri a meszes talajt és a mostohább körülményeket is.",
   "itemusage": "Sövénynek, cserjecsoportba, vagy rézsűk beültetésére.",

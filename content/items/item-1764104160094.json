@@ -8,7 +8,7 @@
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Lassú",
-  "selectedCategoryFromDropdown": "Talajtakarók",
+  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "3800",
     "4500"
@@ -19,7 +19,7 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "Fenyő",
+  "categorieshanemkonteneres": "Kúszó",
   "itemlight": "Napos, félárnyékos és árnyékos helyen is kiválóan érzi magát.",
   "itemground": "Jó vízáteresztő, tápanyagban gazdag, üde talajt kedvel, de jól alkalmazkodik.",
   "itemusage": "Kiválóan alkalmas rézsűk beültetésére, nagyobb területek talajtakarására, sírokra vagy sziklakertbe.",

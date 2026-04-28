@@ -21,10 +21,11 @@
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
-  "categorieshanemkonteneres": "",
+  "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos, félárnyékos fekvést kedvel.",
   "itemground": "Tápanyagban gazdag, laza talajt hálál meg.",
   "itemusage": "Magas, széles sövénynek vagy szoliter bokornak.",
   "itemlabels": "Prunus Fontanette, nagylevelű babérmeggy, gyors sövény, robusztus örökzöld, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765888534815-DSC09284_(2).webp"
+  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1765888534815-DSC09284_(2).webp",
+  "showonweb": false
 }
