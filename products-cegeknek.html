@@ -562,9 +562,9 @@ img:hover{transform:scale(1.04)}
       <label class="filter-label">Típus (konténeres)</label>
       <div class="filter-select-wrap">
         <select id="item-filter-Category-hakonteneres2" class="filter-select itemCategory" onchange="filterItems()">
-          <!-- Választékliata: (Fenyők, Rózsák, Törzsesek, Cserjék, Díszfák) -->
+          <!-- Választékliata: (Fenyő, Rózsák, Törzsesek, Cserjék, Díszfák) -->
           <option value="">Összes típus</option>
-          <option value="Fenyők">Fenyők</option>
+          <option value="Fenyő">Fenyő</option>
           <option value="Rózsák">Rózsák</option>
           <option value="Törzsesek">Törzsesek</option>
           <option value="Cserjék">Cserjék</option>
@@ -1051,8 +1051,7 @@ img:hover{transform:scale(1.04)}
       const categories = categori ? categori.textContent.trim() : "";
 
       const categoryhakont = card.querySelector(".categorieshakonteneres");
-      const categoryhakonteneres = categoryhakont
-      ? categoryhakont.getAttribute("data-value").trim() : "";
+      const categoryhakonteneres = categoryhakont ? categoryhakont.getAttribute("data-value").trim() : "";
       //alert("categoryhakonteneres: " + categoryhakont);
 
       const categoryhakont2 = card.querySelector(".categorieshakonteneres2");
@@ -1098,17 +1097,25 @@ img:hover{transform:scale(1.04)}
         (!filterValuequality || categoryquality === filterValuequality  || categoryquality === "Szabadföldi és Konténeres" )&&
         (!filterValuelevel || categorylevel === filterValuelevel) &&
         (!filterValuenoves || categorynoves === filterValuenoves) &&
-       // (!filterValuecategories || categories === filterValuecategories) &&
-        (!filterValuehakonteneres || categoryhakonteneres === filterValuehakonteneres) &&
+       
+        (!filterValuehakonteneres || categoryhakonteneres.includes(filterValuehakonteneres)) &&
         (!filterValuehakonteneres2 || categoryhakonteneres2 === filterValuehakonteneres2) &&
         (!filterValuehanemkonteneres || categoryhanemkonteneres === filterValuehanemkonteneres)
-
+// (!filterValuecategories || categories === filterValuecategories) &&
       )
         {
         card.style.display = "";
       } else {
         card.style.display = "none";
       }
+      console.log("Kártya latin nev:", searchcategorynamelat);
+      console.log("categoryhakonteneres: ", categoryhakonteneres);
+      console.log("filterValuehakonteneres: ", filterValuehakonteneres);
+      console.log("categoryhakonteneres2: ", categoryhakonteneres2);
+      console.log("filterValuehakonteneres2: ", filterValuehakonteneres2);
+      console.log("categoryhanemkonteneres: ", categoryhanemkonteneres);
+      console.log("filterValuehanemkonteneres: ", filterValuehanemkonteneres);  
+
     });
   }
 
