@@ -480,12 +480,13 @@ img:hover{transform:scale(1.04)}
       <div class="filter-select-wrap">
         <select id="item-filter-Categories" class="filter-select itemCategory" onchange="filterItems()">
           <option value="">Összes kategória</option>
+          <!-- Választékliata: (Cserjék, Lomblevelű örökzöldek, Pikkelyes fenyők, Sövénynövények, Tűlevelű fenyők, Díszfák, Talajtakarók, Szoliterek) -->
           <option value="Cserjék">Cserjék</option>
           <option value="Lomblevelű örökzöldek">Lomblevelű örökzöldek</option>
           <option value="Pikkelyes fenyők">Pikkelyes fenyők</option>
           <option value="Sövénynövények">Sövénynövények</option>
           <option value="Tűlevelű fenyők">Tűlevelű fenyők</option>
-          <option value="Fák">Fák</option>
+          <option value="Díszfák">Díszfák</option>
           <option value="Talajtakarók">Talajtakarók</option>
           <option value="Szoliterek">Szoliterek</option>
         </select>
@@ -496,6 +497,7 @@ img:hover{transform:scale(1.04)}
       <label class="filter-label">Minőség</label>
       <div class="filter-select-wrap">
         <select id="item-filter-Category-quality" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: (Szabadföldi, Konténeres, Szabadföldi és Konténeres) -->
           <option value="">Összes minőség</option>
           <option value="Szabadföldi">Szabadföldi</option>
           <option value="Konténeres">Konténeres</option>
@@ -541,6 +543,7 @@ img:hover{transform:scale(1.04)}
       <label class="filter-label">Konténerméret</label>
       <div class="filter-select-wrap">
         <select id="item-filter-Category-hakonteneres" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: 1.5 L, 2 L,3 L,4 L, 5 L,7.5 L,9.5 L,20 L,24 L -->
           <option value="">Összes méret</option>
           <option value="1.5 L">1.5L</option>
           <option value="2 L">2L</option>
@@ -559,8 +562,9 @@ img:hover{transform:scale(1.04)}
       <label class="filter-label">Típus (konténeres)</label>
       <div class="filter-select-wrap">
         <select id="item-filter-Category-hakonteneres2" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: (Fenyők, Rózsák, Törzsesek, Cserjék, Díszfák) -->
           <option value="">Összes típus</option>
-          <option value="Fenyő">Fenyő</option>
+          <option value="Fenyők">Fenyők</option>
           <option value="Rózsák">Rózsák</option>
           <option value="Törzsesek">Törzsesek</option>
           <option value="Cserjék">Cserjék</option>
@@ -573,11 +577,14 @@ img:hover{transform:scale(1.04)}
       <label class="filter-label">Típus (szabadföldi)</label>
       <div class="filter-select-wrap">
         <select id="item-filter-Category-hanemkonteneres" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: (Fenyő, Törzsesek, Oszlopos, Formafa,Kúszó,Gömb) -->
           <option value="">Összes típus</option>
           <option value="Fenyő">Fenyő</option>
           <option value="Törzsesek">Törzsesek</option>
-          <option value="Rózsák">Leilandi</option>
-          <option value="Cserjék">Formafa</option>
+          <option value="Oszlopos">Oszlopos</option>
+          <option value="Formafa">Formafa</option>
+          <option value="Kúszó">Kúszó</option>
+          <option value="Gömb">Gömb</option>
         </select>
         <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </div>
