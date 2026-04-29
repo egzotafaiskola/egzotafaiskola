@@ -480,7 +480,7 @@ img:hover{transform:scale(1.04)}
       <div class="filter-select-wrap">
         <select id="item-filter-Categories" class="filter-select itemCategory" onchange="filterItems()">
           <option value="">Összes kategória</option>
-          <!-- Választékliata: (Cserjék, Lomblevelű örökzöldek, Pikkelyes fenyők, Sövénynövények, Tűlevelű fenyők, Díszfák, Talajtakarók, Szoliterek) -->
+	
           <option value="Cserjék">Cserjék</option>
           <option value="Lomblevelű örökzöldek">Lomblevelű örökzöldek</option>
           <option value="Pikkelyes fenyők">Pikkelyes fenyők</option>
@@ -545,15 +545,15 @@ img:hover{transform:scale(1.04)}
         <select id="item-filter-Category-hakonteneres" class="filter-select itemCategory" onchange="filterItems()">
           <!-- Választékliata: 1.5 L, 2 L,3 L,4 L, 5 L,7.5 L,9.5 L,20 L,24 L -->
           <option value="">Összes méret</option>
-          <option value="1.5 L">1.5L</option>
-          <option value="2 L">2L</option>
-          <option value="3 L">3L</option>
-          <option value="4 L">4L</option>
-          <option value="5 L">5L</option>
-          <option value="7.5 L">7.5L</option>
-          <option value="9.5 L">9.5L</option>
-          <option value="20 L">20L</option>
-          <option value="24 L">24L</option>
+          <option value="1.5 L">1.5 L</option>
+          <option value="2 L">2 L</option>
+          <option value="3 L">3 L</option>
+          <option value="4 L">4 L</option>
+          <option value="5 L">5 L</option>
+          <option value="7.5 L">7.5 L</option>
+          <option value="9.5 L">9.5 L</option>
+          <option value="20 L">20 L</option>
+          <option value="24 L">24 L</option>
         </select>
         <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
       </div>
@@ -975,8 +975,9 @@ img:hover{transform:scale(1.04)}
               Konténer méret: ${itemData.categorieshakonteneres}
              </p>`
              : ""}
-
-
+             <!-- MÓDOSÍTÁS 2: rejtett attributumok kinyerése és a data-value attribútumba is bekerül az érték, hogy később szűrni lehessen vele -->
+            <div class="item-text categorieshakonteneres2" style="display:none;">${itemData.categorieshakonteneres2 || ""}</div>
+            <div class="item-text categorieshanemkonteneres" style="display:none;">${itemData.categorieshanemkonteneres || ""}</div>
 
             <button class="details-btn" data-id="${itemData.ID}">Részletek</button>
           `;
@@ -1071,7 +1072,7 @@ img:hover{transform:scale(1.04)}
     const searchinput = document.getElementById("search-category").value.toLowerCase();
     //console.log("Keresett kifejezés: " + searchinput);
 
-    const cards = document.getElementById("items").getElementsByClassName("item-card");
+    //const cards = document.getElementById("items").getElementsByClassName("item-card");
 
 
     const searchcategorynam = card.querySelector(".item-title");
@@ -1108,6 +1109,7 @@ img:hover{transform:scale(1.04)}
       } else {
         card.style.display = "none";
       }
+      /* Szurok logolasa teszteleshez
       console.log("Kártya latin nev:", searchcategorynamelat);
       console.log("categoryhakonteneres: ", categoryhakonteneres);
       console.log("filterValuehakonteneres: ", filterValuehakonteneres);
@@ -1115,7 +1117,7 @@ img:hover{transform:scale(1.04)}
       console.log("filterValuehakonteneres2: ", filterValuehakonteneres2);
       console.log("categoryhanemkonteneres: ", categoryhanemkonteneres);
       console.log("filterValuehanemkonteneres: ", filterValuehanemkonteneres);  
-
+      */
     });
   }
 
