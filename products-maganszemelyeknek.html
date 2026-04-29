@@ -1137,7 +1137,7 @@ img:hover{transform:scale(1.04)}
     <thead>
       <tr class="ar-tablazat-cimsor">
         <th class="ar-tablazat-cim">Méret</th>
-        <th class="ar-tablazat-cim">Ár</th>
+        <th class="ar-tablazat-cim">Bruttó kiskereskedelmi ár</th>
       </tr>
     </thead>
     <tbody>
@@ -1145,7 +1145,7 @@ img:hover{transform:scale(1.04)}
         ? itemData.itemsizes.map((size, i) => `
             <tr class="ar-tablazat-sor">
               <td class="ar-tablazat-meret" >${size + " cm"}</td>
-              <td class="ar-tablazat-ar">${itemData.itemprices[i]+ " Ft" || "—"}</td>
+              <td class="ar-tablazat-ar">${2*itemData.itemprices[i]+ " Ft" || "—"}</td>
             </tr>
           `).join("")
         : `<tr class="ar-tablazat-haures-sor"><td colspan="2" class="ar-tablazat-haures-adat">Nincs adat</td></tr>`}
