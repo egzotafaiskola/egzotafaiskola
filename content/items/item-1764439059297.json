@@ -1,5 +1,5 @@
 {
-  "ID": "mj7k1d3onb07",
+  "ID": "mosx2i4pswmo",
   "title": "Amerikai tulipánfa",
   "latin": "Liriodendron tulipifera",
   "description": "Liriodendron tulipifera – Amerikai tulipánfa: hatalmasra növő, egzotikus virágú és levelű díszfa, amely ősszel aranysárgában pompázik.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Gyors",
-  "selectedCategoryFromDropdown": "Fák",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "2000",
     "2500",
@@ -33,6 +33,6 @@
   "itemground": "Mélyrétegű, tápdús, enyhén savanyú és üde talajt igényel. A szárazságot rosszul tűri.",
   "itemusage": "Parkfának, sorfának vagy nagy kertek szoliter növényének.",
   "itemlabels": "Liriodendron tulipifera, tulipánfa, különleges levelű fa, őszi lombszín, nagy díszfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765827393696-DSC09829_(2).webp",
-  "showonweb": true
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778002983339-edited-1778002903722.png"
 }
