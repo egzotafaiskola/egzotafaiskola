@@ -1,5 +1,5 @@
 {
-  "ID": "mj7knzbgwsao",
+  "ID": "mosxvprtkw1d",
   "title": "Amerikai ámbrafa",
   "latin": "Liquidambar styraciflua",
   "description": "Liquidambar styraciflua – Amerikai ámbrafa: látványos őszi színkavalkádot nyújtó, parás kérgű, elegáns megjelenésű díszfa.",
@@ -8,7 +8,7 @@
   "categoriesquality": "Konténeres",
   "categorieslevel": "Levél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Fák",
+  "selectedCategoryFromDropdown": "",
   "itemprices": [
     "2500",
     "3000",
@@ -29,6 +29,6 @@
   "itemground": "Savanyú vagy semleges, mészmentes, nedves talajt kedvel. Meszes talajon levelei sárgulhatnak.",
   "itemusage": "Szoliternek, utcasorfának vagy parkokba, ahol érvényesülhet őszi színeződése.",
   "itemlabels": "Liquidambar styraciflua, ámbrafa, őszi lombszín, parás kéreg, díszfa",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765828448915-DSC09944_(2).webp",
-  "showonweb": true
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778004346258-edited-1778004317013.png"
 }
