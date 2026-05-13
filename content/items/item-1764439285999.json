@@ -1,14 +1,14 @@
 {
-  "ID": "mp43k5jtxrx0",
-  "title": "Sárga pfitzer boróka",
+  "ID": "mp4apob894c5",
+  "title": "Sárga boróka",
   "latin": "Juniperus media 'Pfitzeriana Aurea'",
-  "description": "Juniperus media 'Pfitzeriana Aurea' – Sárga pfitzer boróka: nagy térigényű, gyorsan növő, sárgás hajtásvégű örökzöld, amely kiválóan takar.",
-  "descriptionall": "A Sárga pfitzer boróka (Juniperus media 'Pfitzeriana Aurea') egy erőteljes növekedésű, nagy termetű, szélesen elterülő örökzöld. Fiatal hajtásai élénk aranysárgák, amelyek később sárgászöldre érnek, így a növény kétszínű hatást kelt. Ágai emeletesen helyezkednek el, végeik enyhén bókolnak. Idősebb korában magassága elérheti a 2–3 métert, szélessége pedig a 3–4 métert is, így nagy térigényű növény. Rendkívül tűrőképes, ipari területek parkosítására is alkalmas.",
-  "category": "",
+  "description": "Juniperus media 'Pfitzeriana Aurea' – Sárga  boróka: nagy térigényű, gyorsan növő, sárgás hajtásvégű örökzöld, amely kiválóan takar.",
+  "descriptionall": "A Sárga  boróka (Juniperus media 'Pfitzeriana Aurea') egy erőteljes növekedésű, nagy termetű, szélesen elterülő örökzöld. Fiatal hajtásai élénk aranysárgák, amelyek később sárgászöldre érnek, így a növény kétszínű hatást kelt. Ágai emeletesen helyezkednek el, végeik enyhén bókolnak. Idősebb korában magassága elérheti a 2–3 métert, szélessége pedig a 3–4 métert is, így nagy térigényű növény. Rendkívül tűrőképes, ipari területek parkosítására is alkalmas.",
+  "category": "Talajtakarók",
   "categoriesquality": "Konténeres",
   "categorieslevel": "Tűlevél",
   "categoriesnoves": "Közepes",
-  "selectedCategoryFromDropdown": "Tűlevelű fenyők",
+  "selectedCategoryFromDropdown": "Talajtakarók",
   "itemprices": [
     "1100"
   ],
@@ -24,7 +24,7 @@
   "itemlight": "Napos fekvést igényel a sárga szín kialakulásához.",
   "itemground": "Széles talajtűrésű, a gyengébb talajokon is megél.",
   "itemusage": "Nagyobb parkokba, kertekbe talajtakarónak, vagy nyíratlan, széles sövénynek.",
-  "itemlabels": "Juniperus media Aurea, sárga pfitzer boróka, gyors növésű boróka, nagy termetű örökzöld",
+  "itemlabels": "Juniperus media Aurea, sárga  boróka, gyors növésű boróka, nagy termetű örökzöld",
   "showonweb": true,
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778679012590-edited-1778678999675.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691027413-edited-1778690920395.png"
 }
