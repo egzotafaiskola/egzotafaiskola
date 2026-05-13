@@ -1,5 +1,5 @@
 {
-  "ID": "mj8kqly5a6ng",
+  "ID": "mp4b5iy8h97d",
   "title": "Jegenyenyár",
   "latin": "Populus nigra 'Italica'",
   "description": "Populus nigra 'Italica' – Jegenyenyár: jellegzetes, karcsú oszlopos formájú fa, amely gyors növekedésével hamar meghatározó eleme lesz a kertnek.",
@@ -25,6 +25,6 @@
   "itemground": "Vízigényes, szereti a mélyrétegű, nedves talajokat, de jól alkalmazkodik.",
   "itemusage": "Sorfának, szélfogónak, telekhatárokra vagy tájképi elemként (pl. utak mentén).",
   "itemlabels": "Populus nigra 'Italica', jegenyenyár, oszlopos fa, gyorsan növő fa, szélfogó",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1765889037739-DSC09279.webp",
-  "showonweb": true
+  "showonweb": false,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691766864-edited-1778691736395.png"
 }
