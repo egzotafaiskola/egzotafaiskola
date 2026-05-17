@@ -1,6 +1,6 @@
 {
-  "ID": "mjn2p8jckwnc",
-  "title": "Nagyvirágú liliomfa (Fa alakú)",
+  "ID": "mp9yg3xodqp1",
+  "title": "Nagyvirágú liliomfa (Magastörzsű)",
   "latin": "Magnolia x soulangeana törzses fa",
   "description": "Magnolia x soulangeana törzses fa: Fa formára nevelt liliomfa, amely tavasszal látványos virágkoronát nevel. Elegáns szoliter növény.",
   "descriptionall": "Ez a liliomfa változat kifejezetten fává nevelt, egyenes törzzsel és magasan induló koronával rendelkezik. A tavaszi virágzáskor a csupasz ágakon nyíló hatalmas, rózsaszínes-fehér virágok így szemmagasságban vagy afölött díszítenek, ami különleges látványt nyújt. Ideális választás azoknak, akik a liliomfa szépségét szeretnék élvezni, de a bokros forma helyett egy elegáns kis fát keresnek. Lombfakadás után nagy, zöld leveleivel ad árnyékot. Közepes növekedésű, végleges magassága 4–6 méter lehet.",
@@ -29,6 +29,6 @@
   "itemground": "Enyhén savanyú, humuszos, nedves talajban fejlődik a legszebben.",
   "itemusage": "Kerti díszfa, szoliter, utcai sorfa (védett helyen).",
   "itemlabels": "Magnolia fa, törzses liliomfa, soulangeana, virágzó fa, díszfa, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766765733260-DSC08933.webp",
-  "showonweb": true
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1779033222667-edited-1779033202323.png"
 }
