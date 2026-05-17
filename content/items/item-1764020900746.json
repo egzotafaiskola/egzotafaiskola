@@ -1,5 +1,5 @@
 {
-  "ID": "midohxhtthyl",
+  "ID": "mp9yr0lm37yx",
   "title": "Leylandi ciprus 'Gold Rider'",
   "latin": "Cupressocyparis x leylandii 'Gold Rider'",
   "description": "Cupressocyparis x leylandii 'Gold Rider': Ragyogó aranysárga színű, szabályos növekedésű örökzöld, amely kiváló dísze a kertnek szoliterként vagy sövényként.",
@@ -17,13 +17,16 @@
     "80-100",
     "100-125"
   ],
-  "categorieshakonteneres": "",
+  "categorieshakonteneres": ",",
+  "itemkontenerek": [
+    ""
+  ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos helyen tartja meg legszebben aranysárga színét.",
   "itemground": "Tápdús, jó vízáteresztő talajt kedvel.",
   "itemusage": "Szoliterként vagy nyírott, színes sövényként is alkalmazható.",
   "itemlabels": "Cupressocyparis leylandii, Gold Rider, intenzív sárga, arany leylandi, díszfenyő, sövény, földlabdás",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766929246662-DSC09125_(5).webp",
-  "showonweb": true
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1779033732178-DSC08852.JPG"
 }
