@@ -1,9 +1,9 @@
 {
-  "ID": "midqmwehjlom",
-  "title": "Sárga pfitzer boróka",
+  "ID": "mp9yoseg5djv",
+  "title": "Sárga  boróka",
   "latin": "Juniperus media ’Pfitzeriana Aurea’",
   "description": "Juniperus media ’Pfitzeriana Aurea’: Nagy termetű, aranysárga hajtásvégű, elterülő boróka, amely látványos színfoltot képez.",
-  "descriptionall": "A 'Pfitzeriana Aurea' a pfitzer boróka sárga változata. Mérete és habitusa hasonló az alapfajhoz: szélesen elterülő, emeletes ágrendszerű. Gyors növekedésű, nagy térigényű növény. Fiatal hajtásai élénk aranysárgák, amelyek később sárgászöldre érnek. Kiváló választás, ha nagy felületen szeretnénk színt vinni a kertbe.",
+  "descriptionall": "A 'Pfitzeriana Aurea' a  boróka sárga változata. Mérete és habitusa hasonló az alapfajhoz: szélesen elterülő, emeletes ágrendszerű. Gyors növekedésű, nagy térigényű növény. Fiatal hajtásai élénk aranysárgák, amelyek később sárgászöldre érnek. Kiváló választás, ha nagy felületen szeretnénk színt vinni a kertbe.",
   "category": "",
   "categoriesquality": "Szabadföldi",
   "categorieslevel": "Tűlevél",
@@ -21,13 +21,16 @@
     "100-125",
     "125-150"
   ],
-  "categorieshakonteneres": "",
+  "categorieshakonteneres": ",",
+  "itemkontenerek": [
+    ""
+  ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Kúszó",
   "itemlight": "Napos helyet igényel a sárga szín megőrzéséhez.",
   "itemground": "Talajban nem válogatós, jól bírja a szárazságot.",
   "itemusage": "Szoliterként nagy kertekbe, vagy tömeges ültetésre parkokba, rézsűkre.",
   "itemlabels": "Juniperus media, Pfitzeriana Aurea, sárga boróka, talajtakaró, nagyméretű örökzöld, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764024490898-almafa.jpg",
-  "showonweb": false
+  "showonweb": false,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1779033627603-edited-1779033597659.png"
 }
