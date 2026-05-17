@@ -1,5 +1,5 @@
 {
-  "ID": "mig0dgzj0re1",
+  "ID": "mp9yig23doi2",
   "title": "Oszlopos tuja",
   "latin": "Thuja occidentalis ’Columna’",
   "description": "Thuja occidentalis ’Columna’ – Oszlopos tuja: szabályos henger alakú, sötétzöld lombozatú fajta, amely ideális helytakarékos, keskeny sövénynek.",
@@ -17,13 +17,16 @@
     "80-100",
     "100-125"
   ],
-  "categorieshakonteneres": "",
+  "categorieshakonteneres": ",",
+  "itemkontenerek": [
+    ""
+  ],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Oszlopos",
   "itemlight": "Napos, félárnyékos.",
   "itemground": "Átlagos, jó vízáteresztő talaj.",
   "itemusage": "Keskeny sövények, térhatárolók, szélfogók kialakítására.",
   "itemlabels": "Thuja occidentalis Columna, oszlopos tuja, keskeny sövény, sötétzöld tuja, földlabdás növény",
-  "image": "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/static/uploads/1766756318391-DSC00187.webp",
-  "showonweb": true
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1779033332543-DSC08852.JPG"
 }
