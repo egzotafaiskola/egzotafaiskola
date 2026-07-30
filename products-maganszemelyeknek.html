@@ -1,0 +1,1259 @@
+<!DOCTYPE html><!--  This site was created in Webflow. https://webflow.com  --><!--  Last Published: Fri Apr 03 2026 10:45:52 GMT+0000 (Coordinated Universal Time)  -->
+<html data-wf-page="68d53367374e65abe4e054f9" data-wf-site="6874f90f82f7e4f11528eaf4" lang="hu-HU">
+<head>
+  <meta charset="utf-8">
+  <title>Egzóta Faiskola – Növényeink</title>
+  <meta content="Discover a variety of ornamental plants at Egzóta Faiskola, from hedge plants to evergreens. Shop our selection online or contact us for wholesale inquiries." name="description">
+  <meta content="Egzóta Faiskola – Növényeink" property="og:title">
+  <meta content="Discover a variety of ornamental plants at Egzóta Faiskola, from hedge plants to evergreens. Shop our selection online or contact us for wholesale inquiries." property="og:description">
+  <meta content="Egzóta Faiskola – Növényeink" property="twitter:title">
+  <meta content="Discover a variety of ornamental plants at Egzóta Faiskola, from hedge plants to evergreens. Shop our selection online or contact us for wholesale inquiries." property="twitter:description">
+  <meta property="og:type" content="website">
+  <meta content="summary_large_image" name="twitter:card">
+  <meta content="width=device-width, initial-scale=1" name="viewport">
+  <meta content="Webflow" name="generator">
+  <link href="css/CMSITEMS.css" rel="stylesheet" type="text/css">
+  <link href="css/normalize.css" rel="stylesheet" type="text/css">
+  <link href="css/webflow.css" rel="stylesheet" type="text/css">
+  <link href="css/egzota-faiskola.webflow.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous">
+  <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
+  <script type="text/javascript">WebFont.load({  google: {    families: ["Work Sans:300,400,500,600,700"]  }});</script>
+  <script type="text/javascript">!function(o,c){var n=c.documentElement,t=" w-mod-";n.className+=t+"js",("ontouchstart"in o||o.DocumentTouch&&c instanceof DocumentTouch)&&(n.className+=t+"touch")}(window,document);</script>
+  <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link href="images/webclip.png" rel="apple-touch-icon">
+  <style>
+html{scroll-behavior:smooth}
+.reveal{opacity:0;transform:translateY(28px);transition:opacity .65s ease,transform .65s ease}
+.reveal.visible{opacity:1;transform:translateY(0)}
+a,button,.w-button{transition:all .25s ease}
+.w-button:hover{transform:translateY(-2px);box-shadow:0 6px 20px rgba(0,0,0,.18)}
+.w-nav-link{position:relative}
+.w-nav-link::after{content:'';position:absolute;bottom:-2px;left:0;width:0;height:2px;background:currentColor;transition:width .3s ease}
+.w-nav-link:hover::after{width:100%}
+img{transition:transform .4s ease}
+img:hover{transform:scale(1.04)}
+@keyframes fadeInUp{from{opacity:0;transform:translateY(40px)}to{opacity:1;transform:translateY(0)}}
+@keyframes floatLeaf{0%,100%{transform:translateY(0) rotate(0deg)}50%{transform:translateY(-8px) rotate(3deg)}}
+.hero-animate{animation:fadeInUp .8s ease both}
+.float-icon{animation:floatLeaf 4s ease-in-out infinite}
+.tipp-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;padding:2rem 0}
+.tipp-card{background:#fff;border-radius:12px;padding:1.5rem;box-shadow:0 2px 12px rgba(0,0,0,.08);transition:transform .3s ease,box-shadow .3s ease;cursor:default}
+.tipp-card:hover{transform:translateY(-6px);box-shadow:0 8px 28px rgba(0,0,0,.14)}
+.tipp-card h3{color:#2d6a2d;margin-bottom:.5rem}
+.stat-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1.5rem;padding:2rem 0;text-align:center}
+.stat-card{background:rgba(255,255,255,.12);border-radius:12px;padding:1.5rem;backdrop-filter:blur(4px)}
+.stat-number{font-size:2.5rem;font-weight:700;color:#2d6a2d;display:block}
+.timeline{border-left:3px solid #2d6a2d;padding-left:1.5rem;margin:2rem 0}
+.timeline-item{margin-bottom:1.5rem;position:relative}
+.timeline-item::before{content:'';width:12px;height:12px;background:#2d6a2d;border-radius:50%;position:absolute;left:-1.95rem;top:4px}
+
+/* ── Filter Panel ───────────────────────────────────────── */
+.filter-panel {
+  background: #fff;
+  border: 1px solid #e0ebe0;
+  border-radius: 16px;
+  padding: 20px 24px;
+  margin: 0 auto 32px;
+  max-width: 1200px;
+  box-shadow: 0 2px 16px rgba(45,106,45,.07);
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+/* Keresősor */
+.filter-search-row {
+  width: 100%;
+}
+.filter-search-wrap {
+  display: flex;
+  align-items: center;
+  background: #f4f8f4;
+  border: 1.5px solid #c8ddc8;
+  border-radius: 10px;
+  padding: 0 14px;
+  gap: 10px;
+  transition: border-color .2s;
+}
+.filter-search-wrap:focus-within {
+  border-color: #2d6a2d;
+  background: #fff;
+}
+.filter-search-icon {
+  color: #6b9e6b;
+  flex-shrink: 0;
+}
+.filter-search-input {
+  flex: 1;
+  border: none;
+  background: transparent;
+  outline: none;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 15px;
+  color: #2a3a2a;
+  padding: 13px 0;
+}
+.filter-search-input::placeholder { color: #a0b8a0; }
+.filter-search-btn {
+  background: #2d6a2d;
+  color: #fff;
+  border: none;
+  border-radius: 7px;
+  padding: 8px 18px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .03em;
+  cursor: pointer;
+  transition: background .2s, transform .15s;
+  white-space: nowrap;
+}
+.filter-search-btn:hover { background: #235023; transform: translateY(-1px); }
+
+/* Elsődleges szűrősor */
+.filter-primary-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* Extra szűrők sor */
+.filter-extra-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+/* Egy szűrő mező */
+.filter-field {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  flex: 1;
+  min-width: 160px;
+}
+.filter-label {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: #5a7a5a;
+}
+.filter-select-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.filter-select {
+  width: 100%;
+  appearance: none;
+  -webkit-appearance: none;
+  background: #f4f8f4;
+  border: 1.5px solid #c8ddc8;
+  border-radius: 9px;
+  padding: 10px 36px 10px 13px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 14px;
+  color: #2a3a2a;
+  cursor: pointer;
+  outline: none;
+  transition: border-color .2s, background .2s;
+}
+.filter-select:focus {
+  border-color: #2d6a2d;
+  background: #fff;
+}
+.filter-select:hover { border-color: #4a8a4a; }
+.filter-chevron {
+  position: absolute;
+  right: 11px;
+  color: #6b9e6b;
+  pointer-events: none;
+}
+
+/* "További szűrők" gomb */
+.filter-toggle-btn-wrap {
+  flex-shrink: 0;
+  display: flex;
+  align-items: flex-end;
+}
+.filter-toggle-btn {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  background: transparent;
+  border: 1.5px solid #2d6a2d;
+  color: #2d6a2d;
+  border-radius: 9px;
+  padding: 10px 16px;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: .03em;
+  cursor: pointer;
+  transition: background .2s, color .2s, transform .15s;
+  white-space: nowrap;
+}
+.filter-toggle-btn:hover {
+  background: #2d6a2d;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* displayhidden override — csak a form-group displayhidden elemeket rejti */
+.form-group.displayhidden { display: none !important; }
+/* ha láthatóak, akkor filter-field-ként viselkednek */
+.filter-extra-row .filter-field,
+.filter-primary-row .filter-field { display: flex; }
+
+@media (max-width: 640px) {
+  .filter-panel { padding: 16px; }
+  .filter-primary-row, .filter-extra-row { flex-direction: column; }
+  .filter-field { min-width: 0; width: 100%; }
+  .filter-toggle-btn-wrap { width: 100%; }
+  .filter-toggle-btn { width: 100%; justify-content: center; }
+}
+</style>
+  <link href="css/egzota-responsive.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+  <div class="nav is-inverse">
+    <div data-duration="400" data-animation="default" data-easing2="ease" data-easing="ease" data-collapse="medium" role="banner" data-no-scroll="1" class="nav_container w-nav">
+      <div class="nav_left">
+        <a href="index.html" class="nav_logo w-inline-block"><img src="images/egzota-logo.png" loading="lazy" sizes="(max-width: 1536px) 100vw, 1536px" srcset="images/egzota-logo-p-500.png 500w, images/egzota-logo-p-800.png 800w, images/egzota-logo-p-1080.png 1080w, images/egzota-logo.png 1536w" alt="" class="image-2"></a>
+      </div>
+      <div class="nav_center telefon">
+        <nav role="navigation" class="nav_menu w-nav-menu">
+          <ul role="list" class="nav_menu-list w-list-unstyled">
+            <li class="nav_menu-list-item">
+              <a href="index.html" data-w-id="83902456-2cc4-52ca-ebb3-f5683ce5717c" class="nav_link on-inverse w-inline-block">
+                <div class="text-block-3">Kezdőlap</div>
+              </a>
+            </li>
+            <li class="nav_menu-list-item">
+              <a href="products.html" data-w-id="710d4ee9-72ef-6489-0383-c2c16def7218" aria-current="page" class="nav_link on-inverse w-inline-block w--current">
+                <div class="text-block-2">Növényeink</div>
+              </a>
+            </li>
+            <li class="nav_menu-list-item ghce">
+              <div data-delay="0" data-hover="false" class="nav_dropdown-menu w-dropdown">
+                <div class="nav_link on-inverse hide w-dropdown-toggle">
+                  <div>Növényeink</div>
+                  <div class="nav-caret w-icon-dropdown-toggle"></div>
+                </div>
+                <nav class="mega-nav_dropdown-list w-dropdown-list">
+                  <div class="mega-nav_dropdown-list-wrapper">
+                    <ul role="list" class="grid_3-col tablet-1-col gap-medium margin-bottom_none w-list-unstyled">
+                      <li id="w-node-_80809302-0803-a6d7-3f50-faaa38cb129c-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce570f7-3ce570e2">
+                        <div class="w-layout-grid grid_3-col tablet-1-col gap-small">
+                          <div>
+                            <div class="eyebrow">Sövények</div>
+                            <ul role="list" class="mega-nav_list w-list-unstyled">
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12a7-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce57102-3ce570e2">
+                                    <div><strong>Tuja</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Sűrű, örökzöld takarás bármilyen kertbe</div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12b2-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce5710d-3ce570e2">
+                                    <div><strong>Leylandi Ciprus</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Gyorsan növekszik, ellenálló és sokoldalú</div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12bd-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce57118-3ce570e2">
+                                    <div><strong>Babérmeggy</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Dús lomb, egész évben gyönyörű</div>
+                                  </div>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div>
+                            <div class="eyebrow">Örökzöldek</div>
+                            <ul role="list" class="mega-nav_list w-list-unstyled">
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12cc-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce57127-3ce570e2">
+                                    <div><strong>Korallberkenye</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Élénk új hajtások, feltűnő sövények</div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12d7-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce57132-3ce570e2">
+                                    <div><strong>Tölgymogyoró</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Klasszikus forma, könnyű gondozás</div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12e2-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce5713d-3ce570e2">
+                                    <div><strong>Tiszafa</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Elegáns, tartós zöld növényzet.</div>
+                                  </div>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                          <div>
+                            <div class="eyebrow">Szolgátatásaink</div>
+                            <ul role="list" class="mega-nav_list w-list-unstyled">
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12f1-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce5714c-3ce570e2">
+                                    <div><strong>Nagykereskedelem</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Faiskolák és kertépítők ellátása</div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb12fc-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce57157-3ce570e2">
+                                    <div><strong>Szállítás</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Növények biztonságos szállítása Önhöz</div>
+                                  </div>
+                                </a>
+                              </li>
+                              <li class="margin-bottom_none">
+                                <a href="#" class="mega-nav_link-item w-inline-block">
+                                  <div class="icon_medium"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 32 32" fill="currentColor">
+                                      <path d="m25.7 9.3l-7-7A.9.9 0 0 0 18 2H8a2.006 2.006 0 0 0-2 2v24a2.006 2.006 0 0 0 2 2h16a2.006 2.006 0 0 0 2-2V10a.9.9 0 0 0-.3-.7M18 4.4l5.6 5.6H18ZM24 28H8V4h8v6a2.006 2.006 0 0 0 2 2h6Z" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                  <div id="w-node-_80809302-0803-a6d7-3f50-faaa38cb1307-d66a6ef8" class="w-node-_83902456-2cc4-52ca-ebb3-f5683ce57162-3ce570e2">
+                                    <div><strong>Kerttervezés</strong></div>
+                                    <div class="paragraph_small text-color_secondary">Személyre szabott segítség kertje kialakításához</div>
+                                  </div>
+                                </a>
+                              </li>
+                            </ul>
+                          </div>
+                        </div>
+                      </li>
+                      <li id="w-node-_80809302-0803-a6d7-3f50-faaa38cb130d-d66a6ef8" class="flex_horizontal w-node-_83902456-2cc4-52ca-ebb3-f5683ce57168-3ce570e2">
+                        <a href="#" class="card-link is-inverse flex-child_expand w-inline-block">
+                          <div class="card_body">
+                            <div class="heading_h3">Tekintse meg Növényeinket </div>
+                            <p class="paragraph_small text-color_inverse-secondary">Tekintse meg gondosan válogatott növényeinket és szakértői szolgáltatásainkat minden kert és projekt számára!</p>
+                            <div class="margin_top-auto">
+                              <div class="button-group">
+                                <div class="text-button is-secondary on-inverse">
+                                  <div>Böngészés</div>
+                                  <div class="button_icon"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewbox="0 0 16 16" fill="none">
+                                      <path d="M2 8H14.5M14.5 8L8.5 2M14.5 8L8.5 14" stroke="currentColor" stroke-width="2" stroke-linejoin="round"></path>
+                                    </svg></div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </nav>
+              </div>
+            </li>
+            <li class="nav_menu-list-item">
+              <a href="rolunk.html" data-w-id="83902456-2cc4-52ca-ebb3-f5683ce57178" class="nav_link on-inverse w-inline-block">
+                <div class="text-block-4">Rólunk</div>
+              </a>
+            </li>
+            <li class="nav_menu-list-item">
+              <a href="kapcsolat.html" data-w-id="47b6f853-6bb9-e773-038b-d252cfada032" class="nav_link on-inverse w-inline-block">
+                <div class="text-block-5">Kapcsolat</div>
+              </a>
+            </li>
+            <li class="nav_menu-list-item lathatatlan">
+              <div data-delay="0" data-hover="false" class="nav_dropdown-menu w-dropdown">
+                <div class="nav_link on-inverse w-dropdown-toggle">
+                  <div>Kapcsolat</div>
+                  <div class="nav-caret w-icon-dropdown-toggle"></div>
+                </div>
+                <div class="nav_dropdown-list w-dropdown-list">
+                  <div class="nav-menu_dropdown-list-wrapper">
+                    <ul role="list" class="flex_vertical margin-bottom_none w-list-unstyled">
+                      <li class="margin-bottom_none">
+                        <a href="#" class="nav_dropdown-link w-inline-block">
+                          <div class="button_label">Írj nekünk</div>
+                        </a>
+                      </li>
+                      <li class="margin-bottom_none">
+                        <a href="#" class="nav_dropdown-link w-inline-block">
+                          <div class="button_label">Látogass el hozzánk</div>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <div class="nav_right telefon">
+        <div class="button-group margin-top_none">
+          <a href="products.html" data-w-id="83902456-2cc4-52ca-ebb3-f5683ce57192" aria-current="page" class="button on-inverse w-inline-block w--current">
+            <div class="button_label">Növényeink</div>
+          </a>
+        </div>
+      </div>
+      <div class="nav_mobile-menu-button w-nav-button">
+        <div class="icon on-inverse"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewbox="0 0 24 24">
+            <g class="nc-icon-wrapper" stroke-linecap="square" stroke-linejoin="miter" stroke-width="1.5" fill="none" stroke="currentColor" stroke-miterlimit="10">
+              <line x1="1" y1="12" x2="23" y2="12" stroke="currentColor"></line>
+              <line x1="1" y1="5" x2="23" y2="5"></line>
+              <line x1="1" y1="19" x2="23" y2="19"></line>
+            </g>
+          </svg></div>
+      </div>
+    </div>
+  </div>
+  <header class="section overflow_hidden is-secondary">
+    <div class="ix_hero-intro-down-scale-3d">
+      <div class="container is-small margin-bottom_xsmall">
+        <div class="ix_hero-intro-down-scale-3d is-step-1-hero-intro-down-scale-3d">
+          <h1 class="heading_h1 text-align_center margin-bottom_none reveal">Növényeink – Magánszemélyeknek</h1>
+          <p class="subheading text-align_center reveal" style="margin-top:1rem;margin-bottom:0;">Álmai kertjéhez válassza ki a tökéletes növényt! Kínálatunkban díszfák, örökzöldek, sövények és egzotikus fajok egyaránt megtalálhatók – kiskereskedelmi árakon, személyes tanácsadással.</p>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section id="novenyek" class="section is-secondary cmsitemscontainer" style="padding-top: 1.5rem;">
+    <div class="items-holder">
+      <!--filterItemsBySearch-->
+</div>
+<div class="filter-panel reveal">
+  <!-- Keresősáv -->
+  <div class="filter-search-row">
+    <div class="filter-search-wrap">
+      <svg class="filter-search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="11" cy="11" r="8" stroke="currentColor" stroke-width="2"/>
+        <line x1="16.6569" y1="16.6569" x2="21.3137" y2="21.3137" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <input type="text" id="search-category" class="filter-search-input" placeholder="Keresés növénynév vagy latin név alapján…">
+      <button class="filter-search-btn" onclick="filterItems()">Keresés</button>
+    </div>
+  </div>
+
+  <!-- Elsődleges szűrők (mindig látható) -->
+  <div class="filter-primary-row">
+    <div class="filter-field kategoria-filter">
+      <label class="filter-label">Kategória</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Categories" class="filter-select itemCategory" onchange="filterItems()">
+          <option value="">Összes kategória</option>
+         <!-- Választékliata: (Cserjék, Lomblevelű örökzöldek, Pikkelyes fenyők, Sövénynövények, Tűlevelű fenyők, Díszfák, Talajtakarók, Szoliterek) -->																																										   
+          <option value="Cserjék">Cserjék</option>
+          <option value="Lomblevelű örökzöldek">Lomblevelű örökzöldek</option>
+          <option value="Pikkelyes fenyők">Pikkelyes fenyők</option>
+          <option value="Sövénynövények">Sövénynövények</option>
+          <option value="Tűlevelű fenyők">Tűlevelű fenyők</option>
+          <!-- JAVITAS: hianyzott a "Fák" kategoria. Az osszehasonlitas a
+               normalizeKategoria() fuggvennyel megy, igy a regi "Díszfák" es az
+               uj "Díszfa" erteku cikkek is elojonnek erre az egy opciora. -->
+          <option value="Díszfák">Díszfák</option>
+          <option value="Fák">Fák</option>
+          <option value="Talajtakarók">Talajtakarók</option>
+          <option value="Szoliterek">Szoliterek</option>
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+    <div class="filter-field form-group displayhidden">
+      <label class="filter-label">Minőség</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Category-quality" class="filter-select itemCategory" onchange="filterItems()">
+<!-- Választékliata: (Szabadföldi, Konténeres, Szabadföldi és Konténeres) -->																							  
+          <option value="">Összes minőség</option>
+          <option value="Szabadföldi">Szabadföldi</option>
+          <option value="Konténeres">Konténeres</option>
+          <option value="Szabadföldi és Konténeres">Szabadföldi és Konténeres</option>
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+    <div class="filter-toggle-btn-wrap szurok-gomb">
+      <button class="filter-toggle-btn all-filters-button" onclick="showhidefilters()">
+        <svg width="15" height="15" viewBox="0 0 24 24" fill="none"><path d="M3 6h18M7 12h10M11 18h2" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+        <span>További szűrők</span>
+      </button>
+    </div>
+  </div>
+
+  <!-- Extra szűrők (rejtett) -->
+  <div class="filter-extra-row">
+    <div class="filter-field form-group displayhidden">
+      <label class="filter-label">Levél típus</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Category-level" class="filter-select itemCategory" onchange="filterItems()">
+          <option value="">Összes típus</option>
+          <option value="Levél">Levél</option>
+          <option value="Tűlevél">Tűlevél</option>
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+    <div class="filter-field form-group displayhidden">
+      <label class="filter-label">Növekedési sebesség</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Category-noves" class="filter-select itemCategory" onchange="filterItems()">
+          <option value="">Összes sebesség</option>
+          <option value="Lassú">Lassú</option>
+          <option value="Közepes">Közepes</option>
+          <option value="Gyors">Gyors</option>
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+    <div class="filter-field form-group displayhidden">
+      <label class="filter-label">Konténerméret</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Category-hakonteneres" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: 1.5 L, 2 L,3 L,4 L, 5 L,7.5 L,9.5 L,20 L,24 L -->																				  
+          <option value="">Összes méret</option>
+          <option value="1.5 L">1.5 L</option>
+          <option value="2 L">2 L</option>
+          <option value="3 L">3 L</option>
+          <option value="4 L">4 L</option>
+          <option value="5 L">5 L</option>
+          <option value="7.5 L">7.5 L</option>
+          <option value="9.5 L">9.5 L</option>
+          <option value="20 L">20 L</option>
+          <option value="24 L">24 L</option>
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+    <div class="filter-field form-group displayhidden">
+      <label class="filter-label">Típus (konténeres)</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Category-hakonteneres2" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: (Fenyő, Rózsák, Törzsesek, Cserjék, Díszfák) -->																						
+          <option value="">Összes típus</option>
+          <option value="Fenyő">Fenyő</option>
+          <option value="Rózsák">Rózsák</option>
+          <option value="Törzsesek">Törzsesek</option>
+          <option value="Cserjék">Cserjék</option>
+          <option value="Díszfák">Díszfák</option>
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+    <div class="filter-field form-group displayhidden">
+      <label class="filter-label">Típus (szabadföldi)</label>
+      <div class="filter-select-wrap">
+        <select id="item-filter-Category-hanemkonteneres" class="filter-select itemCategory" onchange="filterItems()">
+          <!-- Választékliata: (Fenyő, Törzsesek, Oszlopos, Formafa,Kúszó,Gömb) -->																						  
+          <option value="">Összes típus</option>
+          <option value="Fenyő">Fenyő</option>
+          <option value="Törzsesek">Törzsesek</option>
+          <option value="Oszlopos">Oszlopos</option>
+          <option value="Formafa">Formafa</option>
+          <option value="Kúszó">Kúszó</option>
+          <option value="Gömb">Gömb</option>  
+        </select>
+        <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      </div>
+    </div>
+  </div>
+</div>
+  
+  <div class="overlay" id="overlay"></div>
+  <div id="items" class="items-container">
+    <p>Betöltés...</p>
+  </div>
+  <!--<div class="overlay"></div>-->
+  <div class="maps-container">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2749.166916903983!2d17.030317325829692!3d46.445389616275826!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476892f9d1abeae9%3A0xfdd0c62def7ce83!2zRWd6w7N0YSBEw61zemZhaXNrb2xh!5e0!3m2!1sen!2shu!4v1758655599324!5m2!1sen!2shu" class="iframe"  allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+  <!--masolas idaig-->
+  <!-- ELTAVOLITVA: a Webflow sablonbol orokolt masodik footer (rl_footer4_component)
+       es a $0/$9/$19/$29 angol nyelvu arcsomag-blokk. Mindketto sablonmaradvany volt,
+       a valodi footer lejjebb, a <footer class="footer is-inverse"> elemben talalhato. -->
+  </section>
+  <section class="section overflow_hidden asddas is-secondary">
+    <div class="width_125percent is-shift-left">
+      <div class="w-layout-grid grid_6-col gap-xsmall">
+        <div id="w-node-_0ee0b947-41fc-51db-2983-0e7f57bf66c6-57bf66c3" class="rotate_-4-5deg w-node-_3872b401-73b1-7bcf-b31f-bfd6acfac892-e4e054f9"><img class="image_contain" src="images/DSC00003-export10.JPG" width="" height="" alt="Egzóta Faiskola növények" sizes="100vw" data-aisg-image-id="8e3b29c4-f97a-4c0e-8fcd-5ec36d62b345" loading="lazy" srcset="images/DSC00003-export10-p-500.jpg 500w, images/DSC00003-export10-p-800.jpg 800w, images/DSC00003-export10-p-1080.jpg 1080w, images/DSC00003-export10-p-1600.jpg 1600w, images/DSC00003-export10.JPG 4128w"></div>
+        <div id="w-node-_0ee0b947-41fc-51db-2983-0e7f57bf66c9-57bf66c3" class="rotate_4-5deg w-node-_3872b401-73b1-7bcf-b31f-bfd6acfac894-e4e054f9"><img class="image_contain" src="images/DSC00119-export10.JPG" width="" height="" alt="Díszfák a faiskolában" sizes="100vw" data-aisg-image-id="99a280f0-2001-4a8e-b4ff-72bb35eae3d8" loading="lazy" srcset="images/DSC00119-export10-p-500.jpg 500w, images/DSC00119-export10-p-800.jpg 800w, images/DSC00119-export10-p-1080.jpg 1080w, images/DSC00119-export10-p-1600.jpg 1600w, images/DSC00119-export10.JPG 4128w"></div>
+        <div id="w-node-_0ee0b947-41fc-51db-2983-0e7f57bf66cc-57bf66c3" class="rotate_-4-5deg w-node-_3872b401-73b1-7bcf-b31f-bfd6acfac896-e4e054f9"><img class="image_contain" src="images/DSC00131-export10.JPG" width="" height="" alt="Egzóta Faiskola növények" sizes="100vw" data-aisg-image-id="9c3b6bcd-d621-4125-888c-7767e1015bc2" loading="lazy" srcset="images/DSC00131-export10-p-500.jpg 500w, images/DSC00131-export10-p-800.jpg 800w, images/DSC00131-export10-p-1080.jpg 1080w, images/DSC00131-export10.JPG 4128w"></div>
+        <div id="w-node-_0ee0b947-41fc-51db-2983-0e7f57bf66cf-57bf66c3" class="rotate_4-5deg w-node-_3872b401-73b1-7bcf-b31f-bfd6acfac898-e4e054f9"><img class="image_contain" src="images/DSC00113-export10.JPG" width="" height="" alt="hands planting a community garden" sizes="100vw" data-aisg-image-id="12b9f303-59ec-4643-98a4-b3deb048609f" loading="lazy" srcset="images/DSC00113-export10-p-500.jpg 500w, images/DSC00113-export10-p-800.jpg 800w, images/DSC00113-export10-p-1080.jpg 1080w, images/DSC00113-export10-p-1600.jpg 1600w, images/DSC00113-export10.JPG 4128w"></div>
+        <div id="w-node-_0ee0b947-41fc-51db-2983-0e7f57bf66d2-57bf66c3" class="rotate_-4-5deg w-node-_3872b401-73b1-7bcf-b31f-bfd6acfac89a-e4e054f9"><img class="image_contain" src="images/DSC00050-export10.JPG" width="" height="" alt="Díszcserjék a faiskolában" sizes="100vw" data-aisg-image-id="7f921849-dee5-4479-bbdf-aff093f38fd2" loading="lazy" srcset="images/DSC00050-export10-p-500.jpg 500w, images/DSC00050-export10-p-800.jpg 800w, images/DSC00050-export10-p-1080.jpg 1080w, images/DSC00050-export10.JPG 4128w"></div>
+        <div id="w-node-_0ee0b947-41fc-51db-2983-0e7f57bf66d5-57bf66c3" class="rotate_4-5deg w-node-_3872b401-73b1-7bcf-b31f-bfd6acfac89c-e4e054f9"><img class="image_contain" src="images/DSC00114-export10.JPG" width="" height="" alt="A faiskola munkatársai" sizes="100vw" data-aisg-image-id="a733214a-feef-4829-bf1f-90ed76c5705c" loading="lazy" srcset="images/DSC00114-export10-p-500.jpg 500w, images/DSC00114-export10-p-800.jpg 800w, images/DSC00114-export10-p-1080.jpg 1080w, images/DSC00114-export10.JPG 4128w"></div>
+      </div>
+    </div>
+  </section>
+  <section class="section is-secondary">
+    <div class="container">
+      <div class="flex_vertical is-x-center text-align_center">
+        <div id="w-node-c97331e5-b40b-d28b-31f8-3745165011d6-165011d3" class="text-align_center w-node-e0adee3e-c2cd-7aa9-69ac-41551894a8f4-e4e054f9">
+          <h2 class="heading_h1 tele">Lépj közelebb álomkertedhez - válogass kínálatunkból</h2>
+          <div class="button-group is-align-center">
+            <a href="kapcsolat.html" data-w-id="e0adee3e-c2cd-7aa9-69ac-41551894a8f2" class="button w-button">Kapcsolat</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer class="footer is-inverse">
+    <div class="container">
+      <div class="footer-inner-grid">
+        <div style="display:flex;flex-direction:column;gap:1.25rem;">
+          <a href="index.html" class="logo w-inline-block"><img src="images/egzota-logo.png" loading="lazy" sizes="(max-width: 1536px) 100vw, 1536px" srcset="images/egzota-logo-p-500.png 500w, images/egzota-logo-p-800.png 800w, images/egzota-logo-p-1080.png 1080w, images/egzota-logo.png 1536w" alt="" class="image-3">
+            <div class="paragraph_xlarge margin-bottom_none text_all-caps text-block">Egzóta faiskola</div>
+          </a>
+          <p style="color:rgba(255,255,255,0.6);font-size:0.9rem;line-height:1.7;margin:0;">Egzotikus és díszfák, örökzöldek és sövények egy helyen – közel 40 éve, Nagykanizsán.</p>
+        </div>
+        <ul role="list" class="margin-bottom_none w-list-unstyled">
+          <li>
+            <h2 class="heading_h6 text-color_secondary">Oldalak</h2>
+          </li>
+          <li>
+            <a href="index.html" class="footer_link on-inverse w-inline-block">
+              <div>Kezdőlap</div>
+            </a>
+          </li>
+          <li>
+            <a href="products.html" class="footer_link on-inverse w-inline-block">
+              <div>Növényeink</div>
+            </a>
+          </li>
+          <li>
+            <a href="rolunk.html" class="footer_link on-inverse w-inline-block">
+              <div>Rólunk</div>
+            </a>
+          </li>
+          <li>
+            <a href="kapcsolat.html" class="footer_link on-inverse w-inline-block">
+              <div>Kapcsolat</div>
+            </a>
+          </li>
+        </ul>
+        <div>
+          <h2 class="heading_h6 text-color_secondary">Elérhetőség</h2>
+          <p style="color:rgba(255,255,255,0.8);font-size:0.9rem;line-height:2;margin:0;">
+            8800 Nagykanizsa, Kaposvári út 82.<br>
+            <a href="tel:+36204823646" style="color:inherit;text-decoration:none;opacity:1;">+36 20 482 3646</a><br>
+            <a href="mailto:egzota.nemeth@gmail.com" style="color:inherit;text-decoration:none;opacity:1;">egzota.nemeth@gmail.com</a>
+          </p>
+        </div>
+      </div>
+      <div class="div-block">
+        <div class="text-block-8">All rights reserved ©2026 Egzóta Díszfaiskola<br>
+          <a href="https://www.webzign.hu/index.html" class="link-2">Design by Webzign.</a>
+        </div>
+        <a href="termsofservice.html" class="link">Felhasználási feltételek és adatkezelési tájékoztató</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Modal popup (CMSITEMS.css stílusokhoz illeszkedő struktúra) -->
+  <div id="item-modal" role="dialog" aria-modal="true" aria-labelledby="modal-nev">
+    <div class="modal-content">
+      <button id="modal-close" aria-label="Bezárás">&#x2715;</button>
+      <div class="header-content">
+        <!-- MÓDOSÍTÁS 3: kepgaleria. A vezerlok az .img-container-en BELUL vannak,
+             mert a #modal-body innerHTML-jet minden megnyitas felulirja - ott
+             kitorlodnenek. Egyetlen kepnel a .galeria-egykepes osztaly elrejti
+             oket, igy a regi cikkek megjelenese valtozatlan. -->
+        <div class="img-container" id="modal-galeria">
+          <img id="modal-img" src="" alt="">
+          <button type="button" class="galeria-nyil galeria-elozo" id="galeria-elozo" aria-label="Előző kép">&#10094;</button>
+          <button type="button" class="galeria-nyil galeria-kovetkezo" id="galeria-kovetkezo" aria-label="Következő kép">&#10095;</button>
+          <div class="galeria-szamlalo" id="galeria-szamlalo"></div>
+          <div class="galeria-pottyok" id="galeria-pottyok"></div>
+        </div>
+        <div class="main-content" id="modal-body">
+          <!-- JS tölti fel -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6874f90f82f7e4f11528eaf4" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="js/webflow.js" type="text/javascript"></script>
+
+  <script> // masolas script
+  const username = "egzotafaiskola";   // pl. "myuser"
+  const repo = "egzotafaiskola";              // pl. "my-cms-repo"
+  const branch = "main";                       // ha nem main, írd át pl. "master"
+
+  // Ezen az oldalon a kiskereskedelmi ar jelenik meg: a CMS-ben tarolt brutto
+  // nagykereskedelmi ar ketszerese. Ha valtozik az arres, EZT az egy szamot kell atirni.
+  const AR_SZORZO = 2;
+
+  // ── Segedfuggvenyek ────────────────────────────────────────────────────
+  // A kategorianevek tobb valtozatban szerepelnek a cikkekben: a CMS ma
+  // "Díszfa"-t es "Fák"-at ment, a regebbi cikkekben viszont "Díszfák" all.
+  // Puszta szovegegyezes nem eleg (a magyar tobbesszam az ekezetet is valtja:
+  // Díszfa -> Díszfák), ezert kisbetusitunk, leszedjuk az ekezeteket es a
+  // tobbesszam "k" veget:  "Díszfa" es "Díszfák" is -> "diszfa"
+  function normalizeKategoria(ertek) {
+    return String(ertek ?? "")
+      .trim()
+      .toLowerCase()
+      .normalize("NFD").replace(/[̀-ͯ]/g, "")
+      .replace(/k$/, "");
+  }
+
+  // A CMS a kontenermereteket szabad szovegkent, vesszovel elvalasztva menti
+  // (pl. "2,9.5,3,"), a szuro ertekei viszont "2 L" alakuak. Ez hozza kozos
+  // nevezore a ketto:  "2 L" -> "2",  " 9.5 " -> "9.5"
+  function normalizeKontener(ertek) {
+    return String(ertek ?? "").trim().toLowerCase().replace(/\s*(?:liter|l)\s*$/, "").trim();
+  }
+
+  // "2,9.5,3," -> ["2","9.5","3"]
+  function kontenerLista(ertek) {
+    return String(ertek ?? "").split(",").map(normalizeKontener).filter(Boolean);
+  }
+
+  // Megjeleniteshez: "2,9.5,3," -> "2, 9.5, 3"
+  function kontenerFelirat(ertek) {
+    return String(ertek ?? "").split(",").map(s => s.trim()).filter(Boolean).join(", ");
+  }
+
+  // MÓDOSÍTÁS 3: egyseges keplista. Az uj cikkekben "images" tomb van (tobb kep),
+  // a regiekben csak egyetlen "image" mezo - mindketto ugyanigy hasznalhato.
+  function kepLista(item) {
+    if (!item) return [];
+    if (Array.isArray(item.images) && item.images.length) return item.images.filter(Boolean);
+    return item.image ? [item.image] : [];
+  }
+
+  // Ures ar -> "—", nem szamszeru ertek -> valtozatlanul, szam -> szorozva + " Ft"
+  function formatAr(nyersAr, szorzo) {
+    const szoveg = String(nyersAr ?? "").trim();
+    if (szoveg === "") return "—";
+    const szam = Number(szoveg.replace(/\s/g, "").replace(",", "."));
+    if (!isFinite(szam)) return szoveg;
+    return (szam * szorzo) + " Ft";
+  }
+
+  // Meret/ar parokbol tablazatsorok. Az ures meretu sorok kimaradnak, igy a
+  // CMS-bol jovo lezaro vesszo nem general ures " cm / Ft" sort.
+  function arTablazatSorok(itemData, szorzo) {
+    const meretek = Array.isArray(itemData.itemsizes) ? itemData.itemsizes : [];
+    const arak = Array.isArray(itemData.itemprices) ? itemData.itemprices : [];
+    const sorok = meretek
+      .map((meret, i) => ({ meret: String(meret ?? "").trim(), ar: arak[i] }))
+      .filter(sor => sor.meret !== "")
+      .map(sor => `
+            <tr class="ar-tablazat-sor">
+              <td class="ar-tablazat-meret">${sor.meret} cm</td>
+              <td class="ar-tablazat-ar">${formatAr(sor.ar, szorzo)}</td>
+            </tr>`)
+      .join("");
+    return sorok || `<tr class="ar-tablazat-haures-sor"><td colspan="2" class="ar-tablazat-haures-adat">Nincs adat</td></tr>`;
+  }
+
+  async function loadItems() {
+    const container = document.getElementById("items");
+    try {
+      // 1. Lekéri a content/items mappa tartalmát
+      const response = await fetch(`https://api.github.com/repos/${username}/${repo}/contents/content/items?ref=${branch}`);
+      if (!response.ok) {
+        throw new Error("Nem sikerült betölteni az itemeket (HTTP " + response.status + ")");
+      }
+      const files = await response.json();
+
+      // JAVITAS: csak a tenyleges JSON cikkek. Korabban barmilyen mas fajl
+      // (README, .gitkeep) JSON-kent parseolva az EGESZ katalogust megbuktatta.
+      const jsonFajlok = (Array.isArray(files) ? files : []).filter(file =>
+        file.type === "file" && /\.json$/i.test(file.name) && !file.name.includes("placeholder")
+      );
+
+      // JAVITAS: parhuzamos letoltes a soros helyett + fajlonkent elkulonitett
+      // hibakezeles, hogy egy serult cikk ne vigye el a tobbit.
+      const itemek = await Promise.all(jsonFajlok.map(async file => {
+        try {
+          const itemRes = await fetch(file.download_url);
+          if (!itemRes.ok) return null;
+          return await itemRes.json();
+        } catch (hiba) {
+          console.error("Hibás cikk, kihagyva:", file.name, hiba);
+          return null;
+        }
+      }));
+
+      container.innerHTML = ""; // kiürítjük
+      let megjelenitett = 0;
+
+      // 2. Végigmegy minden cikken (a fájlok eredeti sorrendjében)
+      for (const itemData of itemek) {
+        if (!itemData) continue;
+
+        // ── MÓDOSÍTÁS 1: showonweb szűrés ──────────────────────────────
+        if (itemData.showonweb === false) continue; // nem kerul bele a DOM-ba sem
+
+        // 3. Item HTML megjelenítése
+        const div = document.createElement("div");
+        div.className = "item-card";
+        div.setAttribute("data-id", itemData.ID);
+        div.dataset.item = JSON.stringify(itemData);
+        div.dataset.showonweb = String(itemData.showonweb);
+        // A kartyan tovabbra is CSAK a fo kep latszik; a galeria a popupban van.
+        const foKep = kepLista(itemData)[0] || "";
+        div.innerHTML = `
+            ${foKep ? `<img src="${foKep}" loading="lazy" sizes="(max-width: 1186px) 100vw, 1186px" class="item-image" alt="Item kép"/>` : ""}
+            <h3 class="item-title">${itemData.title || "Névtelen elem"}</h3>
+            <p class="item-latin">${itemData.latin || ""}</p>
+            <p class="item-text description">${itemData.description || ""}</p>
+
+            <p class="item-text rendes-kategoriak"><strong>Kategória:</strong> ${itemData.selectedCategoryFromDropdown || ""}</p>
+            <p class="item-text categoriesquality">${itemData.categoriesquality || ""}</p>
+            <p class="item-text categorieslevel">${itemData.categorieslevel || ""}</p>
+            <p class="item-text categoriesnoves">${itemData.categoriesnoves || ""}</p>
+            ${kontenerFelirat(itemData.categorieshakonteneres)
+             ? `<p class="item-text categorieshakonteneres" data-value="${kontenerLista(itemData.categorieshakonteneres).join(",")}">
+              Konténer méret: ${kontenerFelirat(itemData.categorieshakonteneres)}
+             </p>`
+             : ""}
+             <!-- MÓDOSÍTÁS 2: rejtett attributumok kinyerése és a data-value attribútumba is bekerül az érték, hogy később szűrni lehessen vele -->
+            <div class="item-text categorieshakonteneres2" style="display:none;">${itemData.categorieshakonteneres2 || ""}</div>
+            <div class="item-text categorieshanemkonteneres" style="display:none;">${itemData.categorieshanemkonteneres || ""}</div>
+
+            <button class="details-btn" data-id="${itemData.ID}">Részletek</button>
+          `;
+        container.appendChild(div);
+        megjelenitett++;
+      }
+
+      // JAVITAS: ures allapot jelzese a vegtelen "Betöltés..." helyett
+      if (megjelenitett === 0) {
+        container.innerHTML = '<p class="items-uzenet">Jelenleg nincs megjeleníthető növény.</p>';
+      }
+    } catch (err) {
+      // JAVITAS: hiba eseten korabban orokre a "Betöltés..." maradt a kepernyon
+      console.error("Hiba:", err);
+      if (container) {
+        container.innerHTML = '<p class="items-uzenet">Nem sikerült betölteni a növényeket. Kérjük, frissítse az oldalt, vagy próbálja újra később.</p>';
+      }
+    }
+  }
+//<p><strong>Kategória:</strong> ${itemData.category || ""}</p>
+
+    //<p class="inline">Típus: 
+   //         <span class="item-text categorieshakonteneres2">${itemData.categorieshakonteneres2 || ""}</span>
+ //           <span class="item-text categorieshanemkonteneres">${itemData.categorieshanemkonteneres || ""}</span>
+   //         </p>
+  // Betöltéskor lefut
+  loadItems();
+</script>
+<script>  // masolas script
+   function filterItems() {
+    //alert("filterItems");
+
+    const mainfiltervalue = document.getElementById("item-filter-Categories").value;
+    //console.log("Fő szűrő érték:consolelogvege!", mainfiltervalue);
+    const filterValuequality = document.getElementById("item-filter-Category-quality").value;
+    //console.log("filtervalue: ", filterValuequality);   // JAVITAS: eles oldalon ne logoljon minden szuresnel
+    const filterValuelevel = document.getElementById("item-filter-Category-level").value;
+    const filterValuenoves = document.getElementById("item-filter-Category-noves").value;
+    //const filterValuecategories = document.getElementById("item-filter-Categories").value;
+    const filterValuehakonteneres = document.getElementById("item-filter-Category-hakonteneres").value;
+    const filterValuehakonteneres2 = document.getElementById("item-filter-Category-hakonteneres2").value;
+    const filterValuehanemkonteneres = document.getElementById("item-filter-Category-hanemkonteneres").value;
+    //alert("filtervaluehakonteneres: " + filterValuehakonteneres);
+
+    const cards = document.getElementById("items").getElementsByClassName("item-card");
+
+
+    Array.from(cards).forEach(card => {
+
+      const rendeskategori = card.querySelector(".rendes-kategoriak");
+      let rendeskategoriak = "";
+      if (rendeskategori) {
+        const text = rendeskategori.textContent;
+        const parts = text.split(":");
+        rendeskategoriak = parts.length > 1 ? parts[1].trim() : parts[0].trim();
+      }
+
+      //console.log("Kártya rendes kategória: consolelogvege!", rendeskategoriak, "| Szűrés érték:Consolelogvege!", mainfiltervalue);
+     // console.log(document.getElementById("item-filter-Categories").value);
+
+
+      const categoryqual = card.querySelector(".categoriesquality");
+      const categoryquality = categoryqual ? categoryqual.textContent.trim() : "";
+      //console.log("Kartya kategoria: ", categoryquality);   // JAVITAS: kartyankent futott, tele szemetelte a konzolt
+      const categorylev = card.querySelector(".categorieslevel");
+      const categorylevel = categorylev ? categorylev.textContent.trim() : "";
+
+      const categorynov = card.querySelector(".categoriesnoves");
+      const categorynoves = categorynov ? categorynov.textContent.trim() : "";
+
+      const categori = card.querySelector(".categories");
+      const categories = categori ? categori.textContent.trim() : "";
+
+      const categoryhakont = card.querySelector(".categorieshakonteneres");
+ 												  
+      // JAVITAS: null-biztos olvasas + normalizalt lista, mert a CMS "2,9.5,3"
+      // alakban ment, a szuro pedig "2 L" erteket kuld.
+      const kontenerMeretek = kontenerLista(categoryhakont ? categoryhakont.getAttribute("data-value") : "");
+      //alert("categoryhakonteneres: " + categoryhakont);
+     
+      const categoryhakont2 = card.querySelector(".categorieshakonteneres2");
+      const categoryhakonteneres2 = categoryhakont2 ? categoryhakont2.textContent.trim() : "";
+
+      const categoryhanemkont = card.querySelector(".categorieshanemkonteneres");
+      const categoryhanemkonteneres = categoryhanemkont ? categoryhanemkont.textContent.trim() : "";
+
+
+      //console.log("Kártya kategória:", categoryquality, "| Szűrés érték:", filterValuequality);
+     // console.log("Kártya kategória level:", categorylevel, "| Szűrés érték:", filterValuelevel);
+
+
+      //innen masolt
+    //console.log("Keresés gomb megnyomva");
+
+    const searchinput = document.getElementById("search-category").value.toLowerCase();
+    //console.log("Keresett kifejezés: " + searchinput);
+
+    //const cards = document.getElementById("items").getElementsByClassName("item-card");
+
+
+    const searchcategorynam = card.querySelector(".item-title");
+    const searchcategory = searchcategorynam ? searchcategorynam.textContent.trim() : "";
+    const searchcategoryname = searchcategory.toLowerCase();
+
+    const searchcategorynamlat = card.querySelector(".item-latin");
+    //console.log("Kartya latin kezdo: ", searchcategorynamlat)
+    const searchcategorylat = searchcategorynamlat ? searchcategorynamlat.textContent.trim() : "";
+    const searchcategorynamelat = searchcategorylat.toLowerCase();
+
+ //   console.log("Kártya latin nev:", searchcategorynamelat, "| Keresési érték:", searchinput);
+     
+
+//masolt idaig
+
+      // szures logikaja
+      // ── MÓDOSÍTÁS 2: showonweb === false kártyák mindig rejtve maradnak ──
+      if (
+        card.dataset.showonweb !== 'false' &&				 
+        (!searchinput || searchcategoryname.includes(searchinput) || searchcategorynamelat.includes(searchinput))&& //masolt
+        (!mainfiltervalue || normalizeKategoria(rendeskategoriak) === normalizeKategoria(mainfiltervalue)) &&
+        (!filterValuequality || categoryquality === filterValuequality  || categoryquality === "Szabadföldi és Konténeres" )&&
+        (!filterValuelevel || categorylevel === filterValuelevel) &&
+        (!filterValuenoves || categorynoves === filterValuenoves) &&
+       
+        (!filterValuehakonteneres || kontenerMeretek.includes(normalizeKontener(filterValuehakonteneres))) &&
+        (!filterValuehakonteneres2 || categoryhakonteneres2 === filterValuehakonteneres2) &&
+        (!filterValuehanemkonteneres || categoryhanemkonteneres === filterValuehanemkonteneres)
+// (!filterValuecategories || categories === filterValuecategories) &&
+      )
+        {
+        card.style.display = "";
+      } else {
+        card.style.display = "none";
+      }
+      /* Szurok logolasa teszteleshez
+      console.log("Kártya latin nev:", searchcategorynamelat);
+      console.log("kontenerMeretek: ", kontenerMeretek);
+      console.log("filterValuehakonteneres: ", filterValuehakonteneres);
+      console.log("categoryhakonteneres2: ", categoryhakonteneres2);
+      console.log("filterValuehakonteneres2: ", filterValuehakonteneres2);
+      console.log("categoryhanemkonteneres: ", categoryhanemkonteneres);
+      console.log("filterValuehanemkonteneres: ", filterValuehanemkonteneres);  
+      */
+    });
+  }
+
+  
+</script> 
+<script> //masolt kod popuphoz
+
+  // ── MÓDOSÍTÁS 3: kepgaleria a popupban ─────────────────────────────────
+  let galeriaKepek = [];
+  let galeriaIndex = 0;
+
+  // Az adott kep megjelenitese. Az index korbeforog (utolso -> elso).
+  function galeriaMutat(index) {
+    const db = galeriaKepek.length;
+    if (!db) return;
+    galeriaIndex = ((index % db) + db) % db;
+
+    const kep = document.getElementById("modal-img");
+    kep.src = galeriaKepek[galeriaIndex];
+
+    const szamlalo = document.getElementById("galeria-szamlalo");
+    if (szamlalo) szamlalo.textContent = `${galeriaIndex + 1} / ${db}`;
+
+    const pottyok = document.getElementById("galeria-pottyok");
+    if (pottyok) {
+      Array.from(pottyok.children).forEach((potty, i) => {
+        potty.classList.toggle("aktiv", i === galeriaIndex);
+      });
+    }
+
+    // A kovetkezo kep elotoltese, hogy a lapozas azonnali legyen
+    if (db > 1) {
+      const kovetkezo = new Image();
+      kovetkezo.src = galeriaKepek[(galeriaIndex + 1) % db];
+    }
+  }
+
+  function galeriaLep(irany) {
+    galeriaMutat(galeriaIndex + irany);
+  }
+
+  // A popup megnyitasakor fut: felepiti a keplistat es a pottyoket.
+  function galeriaBetolt(itemData) {
+    galeriaKepek = kepLista(itemData);
+    galeriaIndex = 0;
+
+    const kep = document.getElementById("modal-img");
+    kep.alt = itemData.title || "";
+    if (!galeriaKepek.length) kep.removeAttribute("src");
+
+    const galeria = document.getElementById("modal-galeria");
+    // Egy (vagy nulla) kepnel nincs nyil, szamlalo, potty -> a regi cikkek
+    // megjelenese pontosan a korabbival azonos marad.
+    galeria.classList.toggle("galeria-egykepes", galeriaKepek.length <= 1);
+
+    const pottyok = document.getElementById("galeria-pottyok");
+    pottyok.innerHTML = galeriaKepek.length > 1
+      ? galeriaKepek.map((_, i) => `<button type="button" class="galeria-potty" data-index="${i}" aria-label="${i + 1}. kép"></button>`).join("")
+      : "";
+
+    galeriaMutat(0);
+  }
+
+  // A ket bezaro ag (X gomb, overlay) es az Esc kozos fuggvenye
+  function bezarModal() {
+    document.getElementById("item-modal").classList.remove("active");
+    document.getElementById("overlay").classList.remove("active");
+    document.body.classList.remove("no-scroll");
+  }
+
+  document.addEventListener("click", function(e) {
+    
+  if (e.target.classList.contains("details-btn")) {
+    const id = e.target.getAttribute("data-id");
+    const card = document.querySelector(`.item-card[data-id="${id}"]`);
+    //alert(card);
+    if (!card) return;
+
+    const itemData = JSON.parse(card.dataset.item);
+    
+    const priceTable = `
+  <table class="ar-tablazat-popupon">
+    <thead>
+      <tr class="ar-tablazat-cimsor">
+        <th class="ar-tablazat-cim">Méret</th>
+        <th class="ar-tablazat-cim">Bruttó kiskereskedelmi ár</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${arTablazatSorok(itemData, AR_SZORZO)}
+    </tbody>
+  </table>
+`;
+
+
+    // Betöltjük a modalba (MÓDOSÍTÁS 3: egy kep helyett a teljes galeria)
+    galeriaBetolt(itemData);
+
+    const modalBody = document.getElementById("modal-body");
+    modalBody.innerHTML = `
+        <h3 id="modal-nev"> ${itemData.title}</h3>
+        <h4><em><strong>Latin:</strong> ${itemData.latin || "Nincs"}</em></h4>
+        <p><strong>Röv. leir.:</strong> ${itemData.description || "Nincs"} </p>
+        <p><strong>Telj. leir.:</strong> ${itemData.descriptionall || "Nincs"} </p>
+        <p><strong>Egyedi kategória:</strong> ${itemData.category || "Nincs"}</p>
+        <p><strong>Kategória:</strong> ${itemData.selectedCategoryFromDropdown || "Nincs"}</p>
+  
+        <p><strong>Minőség:</strong> ${itemData.categoriesquality || "Nincs"}</p>
+        <p><strong>Levél:</strong> ${itemData.categorieslevel || "Nincs"}</p>
+        <p><strong>Növés:</strong> ${itemData.categoriesnoves || "Nincs"}</p>
+
+         ${priceTable || ""}
+
+         ${kontenerFelirat(itemData.categorieshakonteneres)
+             ? `<p class="item-text categorieshakonteneres">
+              <strong>Konténer méret:</strong> ${kontenerFelirat(itemData.categorieshakonteneres)}
+             </p>`
+             : ""}
+        <p><strong>Típus:</strong> ${itemData.categorieshakonteneres2 || itemData.categorieshanemkonteneres || "Nincs"}</p>
+        <p><strong>Fényigény:</strong> ${itemData.itemlight || "Nincs"}</p>
+        <p><strong>Talajigény:</strong> ${itemData.itemground || "Nincs"}</p>
+        <p><strong>Felhasználás:</strong> ${itemData.itemusage || "Nincs"}</p>
+    `;
+
+    //<p><strong>Méret:</strong> ${(itemData.itemsizes && itemData.itemsizes[0]) || "Nincs"}</p>
+     //   <p><strong>Árak:</strong> ${itemData.itemprices || "Nincs"}</p>
+    //removed item stats
+
+
+
+
+    //<div class="extra-content">
+   //   <p><strong>Címkék:</strong> ${itemData.itemlabels || "Nincs"}</p>
+  //    <p><strong>Item ID:</strong> ${itemData.ID || "Nincs"}</p>
+  //  </div>
+
+      // Popup megjelenítése
+     // document.getElementById("item-modal").classList.add("active");
+     // document.getElementById("item-modal").style.display = "flex";
+    //  const overlay = document.querySelector(".overlay");
+      //overlay.className= "overlay active";    //opacity a bodynak
+     // document.body.classList.add("no-scroll");   //body-t nem lehet gorgetni
+
+
+      document.getElementById("item-modal").classList.add("active");
+      document.getElementById("overlay").classList.add("active");
+      document.body.classList.add("no-scroll");
+   
+  }
+});
+
+// Bezárás
+//document.getElementById("modal-close").addEventListener("click", () => {
+// document.getElementById("item-modal").classList.remove("active");
+ // document.getElementById("item-modal").style.display = "none";
+ // const overlay = document.querySelector(".overlay");
+  //overlay.className= "overlay default";
+ // document.body.classList.remove("no-scroll");
+  document.getElementById("modal-close").addEventListener("click", bezarModal);
+  document.getElementById("overlay").addEventListener("click", bezarModal);
+
+  // ── MÓDOSÍTÁS 3: galeria vezerlok ───────────────────────────────────────
+  // Nyilgombok (statikus elemek, kozvetlen figyelovel)
+  document.getElementById("galeria-elozo").addEventListener("click", () => galeriaLep(-1));
+  document.getElementById("galeria-kovetkezo").addEventListener("click", () => galeriaLep(1));
+
+  // Pottyok: delegalva, mert minden megnyitaskor ujraepulnek
+  document.getElementById("galeria-pottyok").addEventListener("click", e => {
+    const potty = e.target.closest(".galeria-potty");
+    if (potty) galeriaMutat(Number(potty.dataset.index));
+  });
+
+  // Billentyuzet. CSAK nyitott popupnal fut, kulonben a bal/jobb nyil
+  // elrontana a gepelest a #search-category keresomezoben.
+  document.addEventListener("keydown", e => {
+    if (!document.getElementById("item-modal").classList.contains("active")) return;
+    if (e.key === "Escape") { bezarModal(); return; }
+    if (e.key === "ArrowLeft")  { galeriaLep(-1); e.preventDefault(); }
+    if (e.key === "ArrowRight") { galeriaLep(1);  e.preventDefault(); }
+  });
+
+  // Mobil: ujjal huzas. Csak vizszintes huzasra lapoz (|dx| > |dy|), hogy a
+  // modal fuggoleges gorgetese tovabbra is mukodjon. preventDefault nincs.
+  (function () {
+    const galeria = document.getElementById("modal-galeria");
+    const KUSZOB = 40;
+    let kezdoX = 0, kezdoY = 0;
+
+    galeria.addEventListener("touchstart", e => {
+      kezdoX = e.changedTouches[0].clientX;
+      kezdoY = e.changedTouches[0].clientY;
+    }, { passive: true });
+
+    galeria.addEventListener("touchend", e => {
+      if (galeriaKepek.length <= 1) return;
+      const dx = e.changedTouches[0].clientX - kezdoX;
+      const dy = e.changedTouches[0].clientY - kezdoY;
+      if (Math.abs(dx) > KUSZOB && Math.abs(dx) > Math.abs(dy)) {
+        galeriaLep(dx < 0 ? 1 : -1);
+      }
+    }, { passive: true });
+  })();
+
+  const scrollbarWidth = window.innerWidth - document.documentElement.clientWidth;
+  document.body.style.setProperty("--scrollbar-width", `${scrollbarWidth}px`);
+
+</script>
+<script>
+
+  function showhidefilters() {
+  // Az összes rejtett form-group elemet kezeljük
+  const hideable = document.querySelectorAll(".form-group.displayhidden, .filter-field.form-group.displayhidden");
+  const btn = document.querySelector(".all-filters-button span") || document.querySelector(".all-filters-button");
+
+  // Az első extra mezőn nézzük az állapotot
+  const extraFields = document.querySelectorAll(".filter-extra-row .filter-field, .filter-primary-row .filter-field.form-group");
+  if (extraFields.length === 0) return;
+
+  // Minőség mező a primary rowban is displayhidden
+  const allHidden = document.querySelectorAll(".form-group.displayhidden");
+  const currentlyHidden = allHidden.length > 0;
+
+  if (currentlyHidden) {
+    allHidden.forEach(el => el.classList.remove("displayhidden"));
+    if (btn) btn.textContent = "Kevesebb szűrő";
+  } else {
+    // Elrejtjük az összes form-group-ot kivéve a kategoria-filter és szurok-gomb
+    document.querySelectorAll(".form-group:not(.kategoria-filter):not(.szurok-gomb)").forEach(el => {
+      el.classList.add("displayhidden");
+    });
+    if (btn) btn.textContent = "További szűrők";
+  }
+}
+
+</script>
+<script>
+  document.getElementById("search-category").addEventListener("keydown", function(event) {
+     if (event.key === "Enter") {
+      event.preventDefault(); // ne küldjön el semmit véletlenül
+      filterItems();
+      //filterItemsBySearch();
+    }
+  });
+</script>
+<script>
+  (function() {
+    var io = new IntersectionObserver(function(entries) {
+      entries.forEach(function(e) {
+        if (e.isIntersecting) {
+          e.target.classList.add('visible');
+          io.unobserve(e.target);
+        }
+      });
+    }, { threshold: 0.1 });
+    document.querySelectorAll('.reveal').forEach(function(el) { io.observe(el); });
+  })();
+</script>
+<script src="js/vasarlo-modal.js"></script>
+<!-- JAVITAS: a fajl korabban a JavaScript kellos kozepen, lezaro tagek nelkul
+     ert veget. Az utolso script-blokk a "//nem hasznalt"-nak jelolt, felbevagott
+     filterItemsBySearch() fuggvenyt tartalmazta (a filterItems() duplikatuma),
+     ezert az a holt kod torolve lett, a dokumentum pedig szabalyosan lezarva. -->
+</body>
+</html>
