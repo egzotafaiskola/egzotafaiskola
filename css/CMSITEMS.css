@@ -709,6 +709,7 @@ body.no-scroll {
   justify-content: center;
   align-items: center;
   padding: 16px 20px 48px 20px;
+  margin: 0 auto;
 }
 
 .iframe {
