@@ -300,37 +300,38 @@ img:hover{transform:scale(1.04)}
     <div class="container">
       <div class="header is-align-center">
         <h2 class="heading_h2 reveal telefon">Ismerd meg a csapatunkat!</h2>
-        <p class="subheading telefon">Négyen visszük a faiskolát – hívja bátran azt, akit a legegyszerűbb elérni.</p>
+        <p class="subheading telefon">Négyen visszük a faiskolát, hívja bátran azt, akit a legegyszerűbb elérni.</p>
       </div>
-      <div id="w-node-_9b66a009-450f-cb0f-554d-edd538c60e17-42fd70a4" class="w-layout-grid grid_4-col tablet-1-col gap-medium w-node-_3ea3d983-5381-6a79-da80-ed0b3fda64b5-3ad6c684">
-        <div id="w-node-_9b66a009-450f-cb0f-554d-edd538c60e18-42fd70a4" class="text-align_center w-node-_3ea3d983-5381-6a79-da80-ed0b3fda647c-3ad6c684">
-          <div class="flex_horizontal is-x-center margin-bottom_xsmall">
-            <div class="avatar is-large"><img width="" height="" alt="Egy kép Németh Lajosról" src="images/2c47d5dd5b532f83bb55c4cd6f5bd1ef.jpg" loading="lazy" data-aisg-image-id="6659ded1-4580-4e4f-ae87-61725f64533d" class="image_cover"></div>
-          </div>
-          <div class="heading_h5 margin-bottom_xxsmall">Németh Lajos</div>
-          <a href="tel:+36204823646" class="paragraph_small text-color_secondary margin-bottom_none" style="text-decoration:none;">+36 20 482 3646</a>
-        </div>
-        <div class="text-align_center">
-          <div class="flex_horizontal is-x-center margin-bottom_xsmall">
-            <div class="avatar is-large"><img width="" height="" alt="Egy kép Ifj. Németh Lajosról" src="images/2c47d5dd5b532f83bb55c4cd6f5bd1ef.jpg" loading="lazy" class="image_cover"></div>
-          </div>
-          <div class="heading_h5 margin-bottom_xxsmall">Ifj. Németh Lajos</div>
-          <a href="tel:+36202577041" class="paragraph_small text-color_secondary margin-bottom_none" style="text-decoration:none;">+36 20 257 7041</a>
-        </div>
-        <div id="w-node-_80f95e5c-5a14-fad2-4e1e-0f6e761bc849-42fd70a4" class="text-align_center w-node-_3ea3d983-5381-6a79-da80-ed0b3fda6484-3ad6c684">
-          <div class="flex_horizontal is-x-center margin-bottom_xsmall">
-            <div class="avatar is-large"><img width="" height="" alt="Egy kép Németh Lászlóról" src="images/2c47d5dd5b532f83bb55c4cd6f5bd1ef.jpg" loading="lazy" data-aisg-image-id="ffe50294-3254-4c08-ae8a-da5beb87dd68" class="image_cover"></div>
-          </div>
-          <div class="heading_h5 margin-bottom_xxsmall">Németh László</div>
-          <a href="tel:+36209356824" class="paragraph_small text-color_secondary margin-bottom_none" style="text-decoration:none;">+36 20 935 6824</a>
-        </div>
-        <div id="w-node-_53b792b4-87f3-4c7f-ab12-f4dcc401751b-42fd70a4" class="text-align_center w-node-_3ea3d983-5381-6a79-da80-ed0b3fda648c-3ad6c684">
-          <div class="flex_horizontal is-x-center margin-bottom_xsmall">
-            <div class="avatar is-large"><img width="" height="" alt="Egy kép Némethné Schatzl Zsófiáról" src="images/2c47d5dd5b532f83bb55c4cd6f5bd1ef.jpg" loading="lazy" data-aisg-image-id="38e83e95-0277-4349-9768-bc1ebe9b3bfa" class="image_cover"></div>
-          </div>
-          <div class="heading_h5 margin-bottom_xxsmall">Némethné Schatzl Zsófia</div>
-          <a href="tel:+36702492520" class="paragraph_small text-color_secondary margin-bottom_none" style="text-decoration:none;">+36 70 249 2520</a>
-        </div>
+      <!-- MÓDOSÍTÁS: a törött kép-avatarokkal teret pazarló 4-kártyás elrendezés helyett kompakt, kezdőbetűs panel (ua. mint az index.html kapcsolat-panelje) -->
+      <div class="team-panel">
+        <a href="tel:+36204823646" class="team-row">
+          <span class="team-row-avatar">NL</span>
+          <span class="team-row-text">
+            <span class="team-row-name">Németh Lajos</span>
+            <span class="team-row-phone">+36 20 482 3646</span>
+          </span>
+        </a>
+        <a href="tel:+36202577041" class="team-row">
+          <span class="team-row-avatar">INL</span>
+          <span class="team-row-text">
+            <span class="team-row-name">Ifj. Németh Lajos</span>
+            <span class="team-row-phone">+36 20 257 7041</span>
+          </span>
+        </a>
+        <a href="tel:+36209356824" class="team-row">
+          <span class="team-row-avatar">NL</span>
+          <span class="team-row-text">
+            <span class="team-row-name">Németh László</span>
+            <span class="team-row-phone">+36 20 935 6824</span>
+          </span>
+        </a>
+        <a href="tel:+36702492520" class="team-row">
+          <span class="team-row-avatar">NSZ</span>
+          <span class="team-row-text">
+            <span class="team-row-name">Némethné Schatzl Zsófia</span>
+            <span class="team-row-phone">+36 70 249 2520</span>
+          </span>
+        </a>
       </div>
     </div>
   </section>
@@ -339,7 +340,7 @@ img:hover{transform:scale(1.04)}
       <div class="w-layout-grid grid_3-col tablet-1-col gap-medium"><img width="" height="" alt="Hagyományokra épülő faiskola" src="https://webflow-prod-assets.s3.amazonaws.com/image-generation-assets/44e75e30-40b9-4c62-8985-145f571d8a52.avif" loading="lazy" id="w-node-_0b664277-1b3d-1629-7716-5b56d7b1e702-80c0cef9" data-aisg-image-id="44e75e30-40b9-4c62-8985-145f571d8a52" class="image_cover ratio_4x3 w-node-_0ee68761-6e03-037d-ff75-b5db277e2bea-3ad6c684">
         <div id="w-node-c04d9b41-7df1-862c-b90f-ca4b2f41f161-80c0cef9" class="header margin-bottom_none w-node-_0ee68761-6e03-037d-ff75-b5db277e2bf4-3ad6c684">
           <h2 class="heading_h2 reveal">Hagyományokra építkezve</h2>
-          <p class="subheading">1986 óta családunk szenvedéllyel gondozza a dísznövényeket – szakértelmünket, gondoskodásunkat és a zöld terek iránti szeretetünket minden kertbaráttal és szakemberrel örömmel osztjuk meg.</p>
+          <p class="subheading">1986 óta családunk szenvedéllyel gondozza a dísznövényeket, hiszen szakértelmünket, gondoskodásunkat és a zöld terek iránti szeretetünket minden kertbaráttal és szakemberrel örömmel osztjuk meg.</p>
           <div class="button-group">
             <a href="kapcsolat.html" data-w-id="0ee68761-6e03-037d-ff75-b5db277e2bf0" class="button w-button">Kapcsolat</a>
             <a href="#" data-w-id="0ee68761-6e03-037d-ff75-b5db277e2bf2" class="button is-secondary w-button">Növényeink</a>
@@ -358,7 +359,7 @@ img:hover{transform:scale(1.04)}
           <a href="index.html" class="logo w-inline-block"><img src="images/egzota-logo.png" loading="lazy" sizes="(max-width: 1536px) 100vw, 1536px" srcset="images/egzota-logo-p-500.png 500w, images/egzota-logo-p-800.png 800w, images/egzota-logo-p-1080.png 1080w, images/egzota-logo.png 1536w" alt="" class="image-3">
             <div class="paragraph_xlarge margin-bottom_none text_all-caps text-block">Egzóta faiskola</div>
           </a>
-          <p style="color:rgba(255,255,255,0.6);font-size:0.9rem;line-height:1.7;margin:0;">Minőségi díszfák és örökzöldek Nagykanizsáról – családi vállalkozásként, 1986 óta.</p>
+          <p style="color:rgba(255,255,255,0.6);font-size:0.9rem;line-height:1.7;margin:0;">Minőségi díszfák és örökzöldek Nagykanizsáról, családi vállalkozásként, 1986 óta.</p>
         </div>
         <ul role="list" class="margin-bottom_none w-list-unstyled">
           <li>
