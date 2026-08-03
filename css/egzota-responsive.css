@@ -258,6 +258,203 @@
   }
 }
 
+/* ── Kezdőlap fejléc képsor ───────────────────────────────── */
+/* A középső kép a Webflow-export hibája miatt 2 sort foglalt el
+   asztali nézetben (991px fölött), ezért lejjebb lógott a másik
+   két képhez képest, ablakméret-csökkentéskor ez tűnt fel
+   csúnyán szétcsúszott elrendezésként. Tableten/mobilon ez a hiba
+   nincs jelen (ott már csak 1 sort foglal el mind a három kép),
+   itt ugyanazt az 1 soros elrendezést kényszerítjük ki asztalin is. */
+@media screen and (min-width: 992px) {
+  #w-node-_144878ec-3b55-2de7-66e5-7355dbd83b72-dbd83b5c.w-node-_0f61fcd6-1ba4-7890-d4db-2f14fba629d2-1528eb1f {
+    grid-area: span 1 / span 3 / span 1 / span 3;
+  }
+}
+
+/* ── Kapcsolat panel (index.html "Vedd fel velünk a kapcsolatot") ──
+   6 db nagy, üres helyet pazarló kártya helyett egy kompakt,
+   ikonos sorokból álló panel. ── */
+.contact-panel {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 1px minmax(0, 1.3fr);
+  gap: 2.5rem;
+  align-items: start;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 2.25rem 2.5rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+}
+
+.contact-panel-col {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  min-width: 0;
+}
+
+.contact-panel-divider {
+  width: 1px;
+  align-self: stretch;
+  background-color: rgba(0, 0, 0, 0.08);
+}
+
+.contact-panel-phones-label {
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.contact-panel-phones-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem 1.5rem;
+}
+
+.contact-row {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+}
+
+.contact-row-icon {
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e9f7f2;
+  color: #34d399;
+}
+
+.contact-row-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.contact-row-label {
+  font-size: 0.78rem;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+.contact-row-value {
+  font-size: 0.95rem;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+  transition: color 0.15s ease;
+}
+
+a.contact-row:hover .contact-row-value {
+  color: #34d399;
+}
+
+@media screen and (max-width: 991px) {
+  .contact-panel {
+    padding: 1.75rem;
+    gap: 1.75rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .contact-panel {
+    grid-template-columns: 1fr;
+    padding: 1.5rem;
+    gap: 1.5rem;
+  }
+  .contact-panel-divider {
+    width: 100%;
+    height: 1px;
+  }
+  .contact-panel-phones-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+/* ── Csapat panel (rolunk.html "Ismerd meg a csapatunkat") ──
+   A törött kép-avatarokkal teret pazarló 4-kártyás rács helyett
+   kompakt, kezdőbetűs panel, ua. felépítéssel mint a .contact-panel. ── */
+.team-panel {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1.5rem;
+  background-color: #fff;
+  border-radius: 20px;
+  padding: 2rem 2.25rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.06);
+}
+
+.team-row {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  min-width: 0;
+  color: inherit;
+  text-decoration: none;
+}
+
+.team-row-avatar {
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e9f7f2;
+  color: #34d399;
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+.team-row-text {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  min-width: 0;
+}
+
+.team-row-name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  overflow-wrap: anywhere;
+}
+
+.team-row-phone {
+  font-size: 0.85rem;
+  color: rgba(0, 0, 0, 0.5);
+  transition: color 0.15s ease;
+}
+
+a.team-row:hover .team-row-phone {
+  color: #34d399;
+}
+
+@media screen and (max-width: 991px) {
+  .team-panel {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    padding: 1.75rem;
+    gap: 1.25rem;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  .team-panel {
+    grid-template-columns: 1fr;
+    padding: 1.5rem;
+    gap: 1.1rem;
+  }
+}
+
 /* ── General container safety ────────────────────────────── */
 * {
   box-sizing: border-box;
