@@ -450,7 +450,7 @@ img:hover{transform:scale(1.04)}
       <div class="container is-small margin-bottom_xsmall">
         <div class="ix_hero-intro-down-scale-3d is-step-1-hero-intro-down-scale-3d">
           <h1 class="heading_h1 text-align_center margin-bottom_none reveal">Növényeink – Magánszemélyeknek</h1>
-          <p class="subheading text-align_center reveal" style="margin-top:1rem;margin-bottom:0;">Álmai kertjéhez válassza ki a tökéletes növényt! Kínálatunkban díszfák, örökzöldek, sövények és egzotikus fajok egyaránt megtalálhatók – kiskereskedelmi árakon, személyes tanácsadással.</p>
+          <p class="subheading text-align_center reveal" style="margin-top:1rem;margin-bottom:0;">Álmai kertjéhez válassza ki a tökéletes növényt! Kínálatunkban díszfák, örökzöldek, sövények és alakfák egyaránt megtalálhatók – kiskereskedelmi árakon, személyes tanácsadással.</p>
         </div>
       </div>
     </div>
@@ -640,7 +640,7 @@ img:hover{transform:scale(1.04)}
           <a href="index.html" class="logo w-inline-block"><img src="images/egzota-logo.png" loading="lazy" sizes="(max-width: 1536px) 100vw, 1536px" srcset="images/egzota-logo-p-500.png 500w, images/egzota-logo-p-800.png 800w, images/egzota-logo-p-1080.png 1080w, images/egzota-logo.png 1536w" alt="" class="image-3">
             <div class="paragraph_xlarge margin-bottom_none text_all-caps text-block">Egzóta faiskola</div>
           </a>
-          <p style="color:rgba(255,255,255,0.6);font-size:0.9rem;line-height:1.7;margin:0;">Egzotikus és díszfák, örökzöldek és sövények egy helyen – közel 40 éve, Nagykanizsán.</p>
+          <p style="color:rgba(255,255,255,0.6);font-size:0.9rem;line-height:1.7;margin:0;">Minőségi díszfák és örökzöldek Nagykanizsáról – családi vállalkozásként, 1986 óta.</p>
         </div>
         <ul role="list" class="margin-bottom_none w-list-unstyled">
           <li>
@@ -669,11 +669,16 @@ img:hover{transform:scale(1.04)}
         </ul>
         <div>
           <h2 class="heading_h6 text-color_secondary">Elérhetőség</h2>
-          <p style="color:rgba(255,255,255,0.8);font-size:0.9rem;line-height:2;margin:0;">
+          <p style="color:rgba(255,255,255,0.8);font-size:0.9rem;line-height:1.8;margin:0 0 0.5rem;">
             8800 Nagykanizsa, Kaposvári út 82.<br>
-            <a href="tel:+36204823646" style="color:inherit;text-decoration:none;opacity:1;">+36 20 482 3646</a><br>
             <a href="mailto:egzota.nemeth@gmail.com" style="color:inherit;text-decoration:none;opacity:1;">egzota.nemeth@gmail.com</a>
           </p>
+          <ul role="list" class="footer-contact-list">
+            <li><span>Németh Lajos</span><a href="tel:+36204823646">+36 20 482 3646</a></li>
+            <li><span>Ifj. Németh Lajos</span><a href="tel:+36202577041">+36 20 257 7041</a></li>
+            <li><span>Németh László</span><a href="tel:+36209356824">+36 20 935 6824</a></li>
+            <li><span>Némethné Schatzl Zsófia</span><a href="tel:+36702492520">+36 70 249 2520</a></li>
+          </ul>
         </div>
       </div>
       <div class="div-block">
@@ -1249,6 +1254,29 @@ img:hover{transform:scale(1.04)}
     }, { threshold: 0.1 });
     document.querySelectorAll('.reveal').forEach(function(el) { io.observe(el); });
   })();
+</script>
+<script>
+/* Navbar: elrejtes gorgetesnel lefele, megjelenites felfele gorgetesnel */
+(function() {
+  var nav = document.querySelector('.nav');
+  if (!nav) return;
+  var lastY = window.scrollY;
+  var ticking = false;
+  window.addEventListener('scroll', function() {
+    if (ticking) return;
+    ticking = true;
+    window.requestAnimationFrame(function() {
+      var currentY = window.scrollY;
+      if (currentY > lastY && currentY > nav.offsetHeight) {
+        nav.classList.add('nav--hidden');
+      } else {
+        nav.classList.remove('nav--hidden');
+      }
+      lastY = currentY;
+      ticking = false;
+    });
+  }, { passive: true });
+})();
 </script>
 <script src="js/vasarlo-modal.js"></script>
 <!-- JAVITAS: a fajl korabban a JavaScript kellos kozepen, lezaro tagek nelkul
