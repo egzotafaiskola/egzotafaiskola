@@ -1,5 +1,5 @@
 {
-  "ID": "mp4apob894c5",
+  "ID": "msd76fdh67ch",
   "title": "Sárga boróka",
   "latin": "Juniperus media 'Pfitzeriana Aurea'",
   "description": "Juniperus media 'Pfitzeriana Aurea' – Sárga  boróka: nagy térigényű, gyorsan növő, sárgás hajtásvégű örökzöld, amely kiválóan takar.",
@@ -15,7 +15,7 @@
   "itemsizes": [
     "15-20"
   ],
-  "categorieshakonteneres": "2 L,",
+  "categorieshakonteneres": "2 L",
   "itemkontenerek": [
     "2 L"
   ],
@@ -26,5 +26,9 @@
   "itemusage": "Nagyobb parkokba, kertekbe talajtakarónak, vagy nyíratlan, széles sövénynek.",
   "itemlabels": "Juniperus media Aurea, sárga  boróka, gyors növésű boróka, nagy termetű örökzöld",
   "showonweb": true,
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691027413-edited-1778690920395.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691027413-edited-1778690920395.png",
+  "images": [
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691027413-edited-1778690920395.png",
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1785759633499-DSC09681.JPG"
+  ]
 }
