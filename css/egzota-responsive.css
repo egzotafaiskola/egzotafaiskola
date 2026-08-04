@@ -259,15 +259,39 @@
 }
 
 /* ── Kezdőlap fejléc képsor ───────────────────────────────── */
-/* A középső kép a Webflow-export hibája miatt 2 sort foglalt el
-   asztali nézetben (991px fölött), ezért lejjebb lógott a másik
-   két képhez képest, ablakméret-csökkentéskor ez tűnt fel
-   csúnyán szétcsúszott elrendezésként. Tableten/mobilon ez a hiba
-   nincs jelen (ott már csak 1 sort foglal el mind a három kép),
-   itt ugyanazt az 1 soros elrendezést kényszerítjük ki asztalin is. */
-@media screen and (min-width: 992px) {
-  #w-node-_144878ec-3b55-2de7-66e5-7355dbd83b72-dbd83b5c.w-node-_0f61fcd6-1ba4-7890-d4db-2f14fba629d2-1528eb1f {
-    grid-area: span 1 / span 3 / span 1 / span 3;
+/* Az eredeti Webflow-export egy oszlopvonalakra pozicionált
+   (grid-area: 1 / 6 / 2 / 8 stb.) rácsot hagyott itt hátra, miközben
+   a rács csak 2 explicit oszlopot deklarált – a hiányzó oszlopokat a
+   böngésző implicit módon, ablakméret-függően, kiszámíthatatlanul
+   generálta. Emiatt átméretezéskor a 3 kép hol teljesen összeért,
+   hol aránytalanul szétcsúszott. A megoldás: a rácsot egyszerű,
+   mindig egyenlő szélességű flex-oszlopokra cseréljük – a
+   telefonl/tablet osztályokkal történő elrejtés (1 kép mobilon,
+   2 tableten, 3 asztalin) változatlanul a webflow.css-ből működik,
+   csak a LÁTHATÓ képek méretezését váltjuk ki. */
+header .flex_horizontal.overflow_hidden .w-layout-grid.grid_2-col.gap-medium.width_150vw.flex-child_no-shrink {
+  display: flex;
+  align-items: stretch;
+  gap: var(--ai-gen-82921b10-4b39-48f0-b346-808cf4903d29-1752496403308---gap--md-gap);
+}
+
+header .flex_horizontal.overflow_hidden img.image_cover.ratio_3x2 {
+  flex: 1 1 0;
+  min-width: 0;
+}
+
+/* A webflow.css a rejtett képeket width/height:0-ra állítja, de flex
+   elemként ez üresen is foglal egy gap-nyi helyet a látható képek
+   mellett. display:none-nal ez a "fantom rés" is eltűnik. */
+@media screen and (max-width: 991px) {
+  header .flex_horizontal.overflow_hidden img.image_cover.ratio_3x2.tablet {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  header .flex_horizontal.overflow_hidden img.image_cover.ratio_3x2.telefonl {
+    display: none;
   }
 }
 
