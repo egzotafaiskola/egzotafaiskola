@@ -1,5 +1,5 @@
 {
-  "ID": "mp4b1nw6d3i1",
+  "ID": "msyz38ae80le",
   "title": "Arany  boróka 'Old Gold'",
   "latin": "Juniperus media 'Old Gold'",
   "description": "Juniperus media 'Old Gold' – Arany  boróka 'Old Gold': megbízható, egész évben aranysárga színű, szélesen elterülő örökzöld cserje.",
@@ -17,7 +17,7 @@
     "15-20",
     "20-40"
   ],
-  "categorieshakonteneres": "2 L,3 L,",
+  "categorieshakonteneres": "2 L,3 L",
   "itemkontenerek": [
     "2 L",
     "3 L"
@@ -29,5 +29,9 @@
   "itemusage": "Szoliterként, nagyobb rézsűk beültetésére, vagy színes foltok kialakítására örökzöld ágyásokban.",
   "itemlabels": "Juniperus media Old Gold, arany boróka, sárga örökzöld, szárazságtűrő, pfitzer boróka",
   "showonweb": true,
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691586641-edited-1778691551435.png"
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691586641-edited-1778691551435.png",
+  "images": [
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691586641-edited-1778691551435.png",
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1787076303414-DSC08805.JPG"
+  ]
 }
