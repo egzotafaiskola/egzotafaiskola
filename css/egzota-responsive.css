@@ -22,32 +22,69 @@
   align-items: start;
 }
 
+/* MODOSITAS: a telefonszamok egy kozos ponttol induljanak.
+   Korabban a `justify-content: space-between` a sor vegere tolta a szamot,
+   ezert a nevek eltero hossza miatt a szamok kezdopontja soronkent elcsuszott.
+   Most a lista racs: a nevek oszlopa a leghosszabb nevhez igazodik,
+   a szamok pedig mind ugyanattol a fuggoleges vonaltol indulnak. */
 .footer-contact-list {
   list-style: none;
   padding: 0;
   margin: 0.6rem 0 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0.45rem;
-}
-.footer-contact-list li {
-  display: flex;
-  justify-content: space-between;
-  gap: 0.75rem;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: minmax(0, max-content) auto;
+  column-gap: 0.75rem;
+  row-gap: 0.45rem;
+  align-items: baseline;
   font-size: 0.9rem;
   color: rgba(255,255,255,0.8);
+}
+/* A sorok a szulo racsba olvadnak, igy a nev es a szam kulon oszlopba kerul */
+.footer-contact-list li {
+  display: contents;
 }
 .footer-contact-list li span {
   opacity: 0.7;
 }
 .footer-contact-list li a {
+  justify-self: start;
   color: inherit;
   text-decoration: none;
   white-space: nowrap;
+  font-variant-numeric: tabular-nums;
 }
 .footer-contact-list li a:hover {
   text-decoration: underline;
+}
+
+@media screen and (max-width: 479px) {
+  .footer-contact-list {
+    font-size: 0.85rem;
+    column-gap: 0.6rem;
+  }
+}
+
+/* ── Nev + telefonszam lista a kapcsolat.html „Telefon” kartyajan ──
+   Ugyanaz a racs-elv, mint a footerben (korabban inline style + space-between). */
+.contact-phone-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+  display: grid;
+  grid-template-columns: minmax(0, max-content) auto;
+  column-gap: 0.75rem;
+  row-gap: 0.45rem;
+  align-items: baseline;
+}
+.contact-phone-list li {
+  display: contents;
+}
+.contact-phone-list li a {
+  justify-self: start;
+}
+.contact-phone-list .text-block-7 {
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
 }
 
 @media screen and (max-width: 991px) {
