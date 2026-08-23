@@ -32,13 +32,24 @@ Ezt mindig tartsd észben, mielőtt "hiányzó fájl" hibára következtetnél:
 |---|---|
 | `js/webflow.js` | **minden** HTML oldal |
 | `js/vasarlo-modal.js` | `index.html`, `kapcsolat.html`, `rolunk.html`, `products-cegeknek.html`, `products-maganszemelyeknek.html` |
-| `images/` szinte teljes tartalma (logó, ikonok, `DSC000xx-export*` képek, `-p-500/800/1080/1600` variánsok, `.avif`-ek, `favicon.ico`, `webclip.png`) | HTML-ek és CSS |
+| `images/` **nagy része**: `DSC000xx-export*` képek és `-p-500/800/1080/1600` variánsaik, `.avif`-ek, `phone-contact_*.png` | HTML-ek és CSS |
 | `content/items/*.json` | a CMS írja, a weboldal olvassa — csak a GitHub repóban létezik |
 | `static/uploads/*` | a feltöltött növényképek — csak a GitHub repóban |
 
-A lokális `images/` mappában **csak nyers forrásfotók** vannak (`DSC08824.JPG` … `DSC08848.JPG`,
-egyenként 4–15 MB). Ezekre egyetlen HTML sem hivatkozik. Ha az oldalt lokálisan nyitod meg,
-a képek és a Webflow interakciók törtek lesznek — ez **nem** hiba, amit javítani kell.
+A lokális `images/` mappa már **nem csak** nyersanyagot tartalmaz (2026-08-23-i állapot):
+
+| Lokális fájl | Hivatkozik rá HTML? |
+|---|---|
+| `DSC08824.JPG` … `DSC08848.JPG` (nyers forrásfotók, 4–15 MB/db) | **nem** – csak nyersanyag |
+| `egzota-logo.png` + `-p-500/800/1080` | igen – minden oldal nav és footer |
+| `favicon.ico`, `favicon-192.png`, `webclip.png` | igen – a 6 élő oldal `<head>`-je |
+| `rolunk_oldal.jpg` | igen – `rolunk.html` hero (nagy kép) |
+| `1000004405.jpg` | igen – `rolunk.html` hero (kis, átlapoló kép) |
+| `1000004402.jpg` | **már nem** – ez volt a régi hero, 2026-08-23-tól lecserélve |
+| `DSC09681.jpg`, `DSC09710.jpg` | igen – `kapcsolat.html` |
+
+Minden más kép **csak a GitHub repóban** létezik. Ha az oldalt lokálisan nyitod meg, a képek egy
+része és a Webflow interakciók törtek lesznek — ez **nem** hiba, amit javítani kell.
 
 Ha ezekhez a fájlokhoz kell nyúlni, előbb le kell kérni őket a repóból, pl.:
 `https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/js/vasarlo-modal.js`
@@ -81,7 +92,11 @@ faiskola/
 │   ├── egzota-faiskola.webflow.css     Webflow export (260 KB), ne módosítsd kézzel
 │   ├── egzota-responsive.css           KÉZI reszponzív felülírások – ide írj
 │   └── CMSITEMS.css                    KÉZI stílus a katalógushoz + popuphoz – ide írj
-├── images/                             (lásd 2. pont – hiányos)
+├── images/                             (lásd 2. pont – részben hiányos)
+│   ├── egzota-logo.png + -p-500/800/1080   Logó („Egzóta Díszfaiskola", 2026-08-23)
+│   ├── favicon.ico / favicon-192.png / webclip.png
+│   ├── rolunk_oldal.jpg                rolunk.html hero (nagy kép)
+│   └── DSC08824…08848.JPG              nyers forrásfotók, semmi nem hivatkozik rájuk
 └── CMS_20260505/
     ├── CMS_token.txt                   ⚠️ élő GitHub PAT plaintextben (lásd 8. pont)
     └── CMS_edited/
@@ -319,25 +334,40 @@ görgetés megmaradjon); `preventDefault()` nincs.
 | Adat | Érték |
 |---|---|
 | Cím | 8800 Nagykanizsa, Kaposvári út 82. |
-| Telefon (fő) | `tel:+36204823646` |
-| Telefon (footer ikon, products oldalak) | `tel:06302004646` |
 | E-mail | `egzota.nemeth@gmail.com` |
+| Németh Lajos | `tel:+36204823646` |
+| Ifj. Németh Lajos | `tel:+36202577041` |
+| Németh László | `tel:+36209356824` |
+| Némethné Schatzl Zsófia | `tel:+36702492520` |
 
-Ha bármelyik változik: **minden HTML-ben** át kell írni (`index.html`, `kapcsolat.html`,
-`rolunk.html`, `termsofservice.html`, mindhárom `products*.html`). A `kapcsolat.html`-ben az
-e-mail részben Cloudflare-obfuszkált formában is szerepel
-(`/cdn-cgi/l/email-protection#...`) — azt a hexet nem lehet kézzel átírni, ott a sima
-`mailto:` linket kell használni helyette.
+**Hol szerepel a négy telefonszám?**
+
+| Hely | Markup | Stílus |
+|---|---|---|
+| footer – **mind a 6 élő oldalon** | `<ul class="footer-contact-list">`, `<li><span>Név</span><a href="tel:…">szám</a></li>` | `egzota-responsive.css` |
+| `kapcsolat.html` „Telefon" kártya | `<ul class="contact-phone-list">`, ua. felépítés | `egzota-responsive.css` |
+| `index.html` kapcsolat-panel | `<a class="contact-row">` (ikon + név + szám egymás alatt) | `egzota-responsive.css` |
+| `rolunk.html` csapat-panel | `<a class="team-row">` (kezdőbetűs avatar + név + szám) | `egzota-responsive.css` |
+
+A `tel:06302004646` szám **csak a használaton kívüli `products.html`-ben** maradt meg
+(footer ikon), az élő oldalakon nincs.
+
+Ha bármelyik változik: **minden érintett HTML-ben** át kell írni (`index.html`, `kapcsolat.html`,
+`rolunk.html`, `termsofservice.html`, `products-cegeknek.html`, `products-maganszemelyeknek.html`).
+A Cloudflare-obfuszkált (`/cdn-cgi/l/email-protection#...`) e-mail formák az élő oldalakról
+**eltűntek**; a két `products*` oldalon már csak a `email-decode.min.js` script-tag maradt, ami
+GitHub Pages-en 404-el (ártalmatlan).
 
 ---
 
 ## 8. ⚠️ Biztonsági megjegyzések
 
 1. **`CMS_20260505/CMS_token.txt` egy élő GitHub Personal Access Tokent tartalmaz
-   plaintextben** (`ghp_...`). Ha ez a fájl valaha felkerült a publikus repóba, a tokent
-   **azonnal vissza kell vonni** a GitHub beállításokban és újat generálni. Javaslat: a fájl
-   kerüljön `.gitignore`-ba, és soha ne kerüljön be a repóba. (Ezt a felhasználó döntésére
-   hagytam — nem módosítottam semmit.)
+   plaintextben** (`ghp_…`, 40 karakter). **2026-08-23-án ellenőrizve: a fájl NINCS fent a
+   repóban** (`raw.githubusercontent.com/.../CMS_20260505/CMS_token.txt` → 404), ahogy az egész
+   `CMS_20260505/` mappa sem — pedig a repó **publikus**. Tehát a token a `main` ágon nem
+   szivárgott ki. Így is tartsd: soha ne kerüljön be, és ha valaha `git`-tel kezeled ezt a
+   mappát, elsőként `.gitignore`-ba vele.
 2. A CMS a tokent a böngésző memóriájában tartja, és **minden művelet a felhasználó
    böngészőjéből, közvetlenül a GitHub API-ra megy**. Ha a CMS-t valaha publikusan hosztolnák,
    bárki, aki ismeri a token-t, teljes írási joggal rendelkezik a repóhoz.
@@ -448,11 +478,128 @@ Korábban az `editItem()` **letöltötte** a képet blobként, és minden menté
   validáció kép nélkül, UTF-8 ékezetek.
 - **Nem lett tesztelve:** az élő GitHub API (valódi token kell) és a böngészős megjelenés.
 
+## 9/c. Favicon (2026-08-18)
+
+Korábban a `images/favicon.ico` még a **Webflow gyári „W" logója** volt. Lecserélve a logó
+fenyőfa-jelére.
+
+| Fájl | Mi ez |
+|---|---|
+| `images/favicon.ico` | 16/24/32/48/64/128/256 px, sötétzöld (`#084523`) lekerekített négyzet + fehér fa |
+| `images/webclip.png` | 180×180 apple-touch-icon (teli négyzet, az iOS maga kerekíti le) |
+| `images/favicon-192.png` | 192×192 PNG – Google találati lista / Android; **új `<link>`** a 6 élő oldal `<head>`-jében |
+
+A jel forrása az `images/egzota-logo.png` (átlátszó hátterű, `#084523` zöld) fa-része, kivágva.
+
+⚠️ **2026-08-23-tól a `egzota-logo.png` már az ÚJ logó** (lásd 9/d) — a favicon viszont még a
+**régi** rajz fájából készült. A két fa vonalvastagsága kissé eltér; ez a méretekben gyakorlatilag
+nem látszik, de ha teljes egységesség kell, a faviconokat újra kell generálni az új logóból.
+**16 és 24 px-en nem a kontúros rajz van**, hanem egy egyszerűsített, tömör fa – a vékony kontúr
+ekkora méretben összemosódna. 32 px-től a valódi logórajz látszik.
+
+A `<link>` sorok a `products.html`-be és a `style-guide.html`-be **nem** kerültek be (előbbi
+használaton kívül, lásd 6.3). Ha valaha új ikon kell, a generáló szkript logikája: logóból kivágott
+fa maszk → fehérre színezve → zöld lekerekített négyzetre, kis méretnél `MaxFilter` vastagítással.
+
+⚠️ A böngészők **agresszívan cache-elik** a faviconokat: a csere után Ctrl+F5, illetve a régi
+`favicon.ico` akár napokig megmaradhat a fülön. A `favicon-192.png` új fájlnév, azt azonnal felveszi.
+
+---
+
+## 9/d. Névváltás, logócsere, telefonszám-igazítás (2026-08-23)
+
+### 1. Telefonszámok függőleges igazítása
+A név–szám listák `flex` + `justify-content: space-between`-tel készültek: a szám a sor **végére**
+került, így a nevek eltérő hossza miatt a számok **kezdőpontja soronként elcsúszott**.
+
+Megoldás mindkét listánál (`css/egzota-responsive.css`): a `<ul>` **rács** lett
+(`grid-template-columns: minmax(0, max-content) auto`), a `<li>` pedig `display: contents` — így a
+nevek és a számok külön oszlopba kerülnek, a névoszlop a leghosszabb névhez igazodik, a számok
+mind ugyanattól a függőleges vonaltól indulnak. Kiegészítés: `font-variant-numeric: tabular-nums`
+(egyenlő szélességű számjegyek) és 479px alatt kisebb betű + szűkebb oszlopköz.
+
+| Osztály | Hol |
+|---|---|
+| `.footer-contact-list` | footer, mind a 6 élő oldalon |
+| `.contact-phone-list` | `kapcsolat.html` „Telefon" kártya (korábban inline `style`-ok) |
+
+Az `index.html` kapcsolat-panelje (`.contact-row`) és a `rolunk.html` csapat-panelje
+(`.team-row`) **nem volt érintett**: ott fix szélességű ikon/avatar mellett, egymás **alatt** van
+a név és a szám, tehát eleve egy vonalról indulnak.
+
+### 2. Cégnév: „Egzóta Faiskola" → „Egzóta Díszfaiskola"
+29 helyen, 6 élő oldalon: `<title>`, `og:title`, `twitter:title`, meta leírások, kép `alt`-ok és a
+footer felirata (`.text-block`).
+
+**Amihez tudatosan nem nyúltunk:** fájl- és repónevek (`css/egzota-faiskola.webflow.css`,
+`images/egzota-logo.png`, `egzotafaiskola/egzotafaiskola`) — átnevezésük minden hivatkozást
+eltörne; a `products.html` (7 előfordulás, használaton kívül); a `kapcsolat.html`
+„Faiskola látogatás" alt-ja, ahol a *faiskola* köznévként szerepel.
+
+### 3. Új logó
+A régi PNG-ben a „FAISKOLA" felirat **rá volt rajzolva** a képre, szerkeszthető forrás
+(SVG/AI) nincs a projektben. A tulajdonos új, fehér hátterű rajzot adott; abból készült a 4 fájl:
+
+- **fehér → átlátszó**: nem küszöbvágás, hanem világosság-alapú alfacsatorna
+  (`alpha = (255 − L) / (255 − L_tinta)`), így az élsimítás megmaradt, nincs fehér glória
+- **tintaszín normalizálva** a régi logó pontos zöldjére (`#084523`) — a JPEG színzaja eltűnt
+- **geometria a régihez igazítva**: ugyanaz az 1536×1024 vászon, a tinta 611px magasan, `y=203`-nál.
+  Azonos megjelenítési magasságon a régi és az új logó szélessége **azonos** (110px magasan 165px),
+  tehát a navban és a footerben semmi nem csúszott el
+- **PNG-8 (64 szín) + alfa**: 436 KB → 65 KB összesen a négy fájlra
+
+⚠️ A logó a navban és a footerben **mentazöld dobozon** ül (`.nav_logo` és `.image-3` kap
+`background-color: #34d399`-et), **nem** fehéren — ezért kell az átlátszó háttér és a sötétzöld
+tinta. Ha valaha új logó kell, ugyanezt a négy fájlnevet kell felülírni (a `srcset` ezekre mutat).
+
+### 4. `rolunk.html` hero fotó
+A nagy kép `images/1000004402.jpg` → **`images/rolunk_oldal.jpg`**. Az új fotó közel négyzetes
+(1536×1528), ezért a keret `ratio_3x2` → **`ratio_4x3`** (kevesebb levágás, kisebb
+layout-elmozdulás). A jobb alsó sarki kisebb kép (`1000004405.jpg`) változatlan.
+
+### 5. `termsofservice.html` takarítás
+- **Halott demo-script törölve** (117 sor): a `(function(){ … isHome … })()` blokk csak a `/`
+  gyökér útvonalon futott volna le, tehát soha. **Kitalált adatokat** tartalmazott
+  (`info@egzotafaiskola.hu`, `+36 93 123 456`, „Nagykanizsa, Faiskola utca", 12 ha, 3000+ ügyfél,
+  2015-ös díj), plusz egy `rolunk`/`kapcsolat` → `/#…` átirányítást. Ugyanez a blokk a sehonnan
+  nem hivatkozott `style-guide.html`-ben is megvan — ott érintetlen maradt.
+- A hozzá tartozó, immár használhatatlan CSS törölve a `<head>` inline `<style>`-jából
+  (`.tipp-grid`, `.tipp-card`, `.stat-*`, `.timeline*`).
+- **Tag-egyensúly**: az 1. szekcióból hiányzott egy `</div>`, a 2. szekcióban viszont **eggyel
+  több** volt (egy korábbi javítás maradványa). Mindkettő rendezve; a fájl 41 026 → 33 676 bájt.
+
+### Ellenőrzés
+- Mind a 4 megmaradt inline script átmegy a `node --check`-en.
+- Tag-egyensúly a `termsofservice.html`-ben: `div 108/108`, `section 2/2`, `header`, `footer`,
+  `ul`, `li`, `p`, `body`, `html` mind 1:1.
+- A CSS zárójel-egyensúlya rendben (101/101).
+- A logó megjelenése ellenőrizve mentazöld dobozon, fehéren és sötétzöld footeren, footer-
+  (100px) és nav-méretben (56px); 1:1-es nagyításon tiszta élek, sávosodás nélkül.
+- **Nem lett tesztelve:** böngészős, valódi megjelenés (csak generált előnézetek).
+
+### Feltöltés
+Mind a 12 fájl felkerült a `main` ágra (fájlonként külön commit), majd **git blob SHA-val**
+visszaellenőrizve: 12/12 bájtra azonos. A GitHub Pages ~40 mp alatt újraépült, az élő oldal
+ellenőrizve.
+
+---
+
 ## 10. Munkamódszer ebben a projektben
 
 - **Nincs build, nincs teszt, nincs csomagkezelő.** A változtatás = fájl szerkesztése.
 - **Nincs git a mappában** (`git status` nem működik) → nincs undo. Nagyobb módosítás előtt
   érdemes másolatot készíteni a fájlról.
+- **Feltöltés a repóba:** `gh` CLI nincs telepítve, a mappa nem git repó. A bevált út a GitHub
+  **Contents API** (`PUT /repos/egzotafaiskola/egzotafaiskola/contents/{path}`) a
+  `CMS_20260505/CMS_token.txt`-ben lévő tokennel — ugyanaz, amit a CMS is használ. Fontosak:
+  1. feltöltés előtt **le kell kérni a repó aktuális változatát és diffelni** (a lokális mappa nem
+     teljes másolat, könnyű felülírni valamit); 2. a fájlonkénti `sha` kell a felülíráshoz;
+  3. **sorosan**, nem párhuzamosan (409 conflict); 4. utána érdemes **git blob SHA-val**
+     visszaellenőrizni. A Pages build kb. 40 mp; a CDN és a böngésző cache-el (Ctrl+F5).
+- **Tag-egyensúly mérésekor maszkold ki a kommenteket és a `<script>` blokkokat!** Ebben a
+  projektben a kommentek és a JS-sztringek is tartalmaznak `<div …>` / `</section>` szövegeket,
+  ezért a naiv `grep`-es számolás **téves diagnózist ad** (egyszer emiatt „hiányzó" div-nek
+  látszott egy valójában felesleges záró tag).
 - **Ellenőrzés:** a katalógusoldalak lokálisan `file://`-ról korlátozottan működnek (hiányzó
   `js/`, hiányzó képek, de a GitHub API hívás CORS-szal működik). Reális teszthez lokális
   webszerver kell (`python -m http.server`).
