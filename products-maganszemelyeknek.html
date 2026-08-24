@@ -2,16 +2,28 @@
 <html data-wf-page="68d53367374e65abe4e054f9" data-wf-site="6874f90f82f7e4f11528eaf4" lang="hu-HU">
 <head>
   <meta charset="utf-8">
-  <title>Egzóta Díszfaiskola – Növényeink</title>
-  <meta content="Discover a variety of ornamental plants at Egzóta Díszfaiskola, from hedge plants to evergreens. Shop our selection online or contact us for wholesale inquiries." name="description">
-  <meta content="Egzóta Díszfaiskola – Növényeink" property="og:title">
-  <meta content="Discover a variety of ornamental plants at Egzóta Díszfaiskola, from hedge plants to evergreens. Shop our selection online or contact us for wholesale inquiries." property="og:description">
-  <meta content="Egzóta Díszfaiskola – Növényeink" property="twitter:title">
-  <meta content="Discover a variety of ornamental plants at Egzóta Díszfaiskola, from hedge plants to evergreens. Shop our selection online or contact us for wholesale inquiries." property="twitter:description">
+  <title>Növényeink magánszemélyeknek | Egzóta Díszfaiskola</title>
+  <meta content="Díszfák, örökzöldek, sövénynövények és cserjék teljes kínálata magánszemélyeknek, méret szerinti bruttó kiskereskedelmi árakkal, nagykanizsai faiskolánkból." name="description">
+  <meta content="Növényeink magánszemélyeknek | Egzóta Díszfaiskola" property="og:title">
+  <meta content="Díszfák, örökzöldek, sövénynövények és cserjék teljes kínálata magánszemélyeknek, méret szerinti bruttó kiskereskedelmi árakkal, nagykanizsai faiskolánkból." property="og:description">
+  <meta content="Növényeink magánszemélyeknek | Egzóta Díszfaiskola" property="twitter:title">
+  <meta content="Díszfák, örökzöldek, sövénynövények és cserjék teljes kínálata magánszemélyeknek, méret szerinti bruttó kiskereskedelmi árakkal, nagykanizsai faiskolánkból." property="twitter:description">
   <meta property="og:type" content="website">
   <meta content="summary_large_image" name="twitter:card">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
+  <!-- MÓDOSÍTÁS (2026-08-23, Fázis 1 / #5, #12): canonical, og:url és og:image az éles domainnel.
+       Abszolút domain KIZÁRÓLAG itt szerepelhet - minden kép- és erőforrás-hivatkozás relatív. -->
+  <link href="https://www.egzotadiszfaiskola.com/products-maganszemelyeknek.html" rel="canonical">
+  <meta content="https://www.egzotadiszfaiskola.com/products-maganszemelyeknek.html" property="og:url">
+  <meta content="Egzóta Díszfaiskola" property="og:site_name">
+  <meta content="hu_HU" property="og:locale">
+  <meta content="https://www.egzotadiszfaiskola.com/images/DSC00042-export5-p-1600.jpg" property="og:image">
+  <meta content="1600" property="og:image:width">
+  <meta content="1067" property="og:image:height">
+  <meta content="Díszfák és örökzöldek az Egzóta Díszfaiskola nagykanizsai telepén" property="og:image:alt">
+  <meta content="https://www.egzotadiszfaiskola.com/images/DSC00042-export5-p-1600.jpg" property="twitter:image">
+  <meta content="Díszfák és örökzöldek az Egzóta Díszfaiskola nagykanizsai telepén" property="twitter:image:alt">
   <link href="css/CMSITEMS.css" rel="stylesheet" type="text/css">
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
   <link href="css/webflow.css" rel="stylesheet" type="text/css">
@@ -222,6 +234,34 @@ img:hover{transform:scale(1.04)}
 }
 </style>
   <link href="css/egzota-responsive.css" rel="stylesheet" type="text/css">
+  <!-- MÓDOSÍTÁS (2026-08-23, Fázis 1 / #12): LocalBusiness strukturált adat.
+       Nyitvatartás szándékosan NINCS benne - a weboldalon sehol nem szerepel,
+       kitalálni nem szabad. Ha lesz, ide kerül egy "openingHoursSpecification". -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "Egzóta Díszfaiskola",
+    "description": "Díszfák, örökzöldek, sövénynövények és cserjék termesztése és értékesítése Nagykanizsán, 1986 óta.",
+    "url": "https://www.egzotadiszfaiskola.com/",
+    "image": "https://www.egzotadiszfaiskola.com/images/DSC00042-export5-p-1600.jpg",
+    "logo": "https://www.egzotadiszfaiskola.com/images/egzota-logo.png",
+    "email": "egzota.nemeth@gmail.com",
+    "telephone": "+36204823646",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Kaposvári út 82.",
+      "postalCode": "8800",
+      "addressLocality": "Nagykanizsa",
+      "addressCountry": "HU"
+    },
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 46.4453896,
+      "longitude": 17.0303173
+    }
+  }
+  </script>
 </head>
 <body>
   <div class="nav is-inverse">
@@ -491,8 +531,12 @@ img:hover{transform:scale(1.04)}
           <!-- JAVITAS: hianyzott a "Fák" kategoria. Az osszehasonlitas a
                normalizeKategoria() fuggvennyel megy, igy a regi "Díszfák" es az
                uj "Díszfa" erteku cikkek is elojonnek erre az egy opciora. -->
-          <option value="Díszfák">Díszfák</option>
-          <option value="Fák">Fák</option>
+          <!-- MÓDOSÍTÁS (2026-08-23, Fázis 1 / #3): a kulon <option value="Díszfák">
+               torolve. A normalizeKategoria() a "Díszfák"-bol "diszfa"-t, a "Fák"-bol
+               "fa"-t csinal, tehat a ketto NEM esik egybe - a "Díszfák" opcio nulla
+               talalatot adott. A valos adatban minden fa-cikk erteke "Fák", ezert a
+               value marad "Fák", csak a felirat lett a termeszetesebb "Díszfák". -->
+          <option value="Fák">Díszfák</option>
           <option value="Talajtakarók">Talajtakarók</option>
           <option value="Szoliterek">Szoliterek</option>
         </select>
@@ -558,7 +602,8 @@ img:hover{transform:scale(1.04)}
           <option value="5 L">5 L</option>
           <option value="7.5 L">7.5 L</option>
           <option value="9.5 L">9.5 L</option>
-          <option value="20 L">20 L</option>
+          <!-- MÓDOSÍTÁS (2026-08-23, Fázis 1 / #21): a "20 L" opcio torolve,
+               egyetlen megjeleno cikkben sincs 20 literes meret. -->
           <option value="24 L">24 L</option>
         </select>
         <svg class="filter-chevron" width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>
@@ -715,7 +760,7 @@ img:hover{transform:scale(1.04)}
     </div>
   </div>
 
-  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6874f90f82f7e4f11528eaf4" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+  <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6874f90f82f7e4f11528eaf4" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
   <script src="js/webflow.js" type="text/javascript"></script>
 
   <script> // masolas script
@@ -758,12 +803,40 @@ img:hover{transform:scale(1.04)}
     return String(ertek ?? "").split(",").map(s => s.trim()).filter(Boolean).join(", ");
   }
 
+  // MÓDOSÍTÁS (2026-08-23, Fázis 1 / #8, #10): a cikkek JSON-jeben a kep-URL-ek
+  // tobbfele alakban vannak: 207 cikkben abszolut github.io cim, 10 cikkben
+  // raw.githubusercontent.com. Ezeket NEM irjuk at a JSON-okben (207 fajl = felesleges
+  // kockazat), hanem OLVASASKOR normalizaljuk relativ utra. Igy ugyanaz a kod mukodik
+  // a mai egzotafaiskola.github.io/egzotafaiskola/ teszt-cimen es a jovobeni
+  // www.egzotadiszfaiskola.com/ cimen is, es a regi + uj adat egyszerre jo.
+  // Ismeretlen kulso URL-t szandekosan VALTOZATLANUL hagy.
+  function normalizeKepUrl(url) {
+    const szoveg = String(url ?? "").trim();
+    if (!szoveg) return "";
+    const ismertElotagok = [
+      "https://egzotafaiskola.github.io/egzotafaiskola/",
+      "http://egzotafaiskola.github.io/egzotafaiskola/",
+      "https://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/",
+      "http://raw.githubusercontent.com/egzotafaiskola/egzotafaiskola/main/",
+      "https://www.egzotadiszfaiskola.com/",
+      "http://www.egzotadiszfaiskola.com/",
+      "https://egzotadiszfaiskola.com/",
+      "http://egzotadiszfaiskola.com/"
+    ];
+    for (const elotag of ismertElotagok) {
+      if (szoveg.startsWith(elotag)) return szoveg.slice(elotag.length);
+    }
+    return szoveg;
+  }
+
   // MÓDOSÍTÁS 3: egyseges keplista. Az uj cikkekben "images" tomb van (tobb kep),
   // a regiekben csak egyetlen "image" mezo - mindketto ugyanigy hasznalhato.
   function kepLista(item) {
     if (!item) return [];
-    if (Array.isArray(item.images) && item.images.length) return item.images.filter(Boolean);
-    return item.image ? [item.image] : [];
+    const nyers = (Array.isArray(item.images) && item.images.length)
+      ? item.images
+      : (item.image ? [item.image] : []);
+    return nyers.map(normalizeKepUrl).filter(Boolean);
   }
 
   // Ures ar -> "—", nem szamszeru ertek -> valtozatlanul, szam -> szorozva + " Ft"
@@ -840,7 +913,7 @@ img:hover{transform:scale(1.04)}
         // A kartyan tovabbra is CSAK a fo kep latszik; a galeria a popupban van.
         const foKep = kepLista(itemData)[0] || "";
         div.innerHTML = `
-            ${foKep ? `<img src="${foKep}" loading="lazy" sizes="(max-width: 1186px) 100vw, 1186px" class="item-image" alt="Item kép"/>` : ""}
+            ${foKep ? `<img src="${foKep}" loading="lazy" sizes="(max-width: 1186px) 100vw, 1186px" class="item-image" alt="${itemData.title}"/>` : ""}
             <h3 class="item-title">${itemData.title || "Névtelen elem"}</h3>
             <p class="item-latin">${itemData.latin || ""}</p>
             <p class="item-text description">${itemData.description || ""}</p>
