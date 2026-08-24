@@ -1,0 +1,5 @@
+# Egzóta Díszfaiskola — https://www.egzotadiszfaiskola.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://www.egzotadiszfaiskola.com/sitemap.xml
