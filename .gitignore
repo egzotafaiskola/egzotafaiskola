@@ -1,0 +1,23 @@
+# ── Fejlesztői dokumentáció és jelentések (NE kerüljenek a publikus repóba) ──
+CLAUDE.md
+AUDIT_*.md
+FAZIS*_EREDMENY_*.md
+
+# ── Helyi mentések ──
+_backup_*/
+bizt_mentes_*/
+*.bak
+
+# ── A CMS: élő GitHub tokent tartalmaz, kizárólag lokálisan futhat ──
+CMS_20260505/
+
+# ── Egy félbehagyott "git init" váza; nem valódi .git mappa ──
+git/
+
+# ── Nyers forrásfotók (4-15 MB/db), semmi nem hivatkozik rájuk ──
+images/DSC*.JPG
+
+# ── Operációs rendszer szemete ──
+.DS_Store
+Thumbs.db
+desktop.ini
