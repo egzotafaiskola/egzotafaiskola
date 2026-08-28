@@ -1,0 +1,30 @@
+{
+  "ID": "mtckxj5ksgop",
+  "title": "teszt",
+  "latin": "teszt",
+  "description": "teszt",
+  "descriptionall": "teszt",
+  "category": "",
+  "categoriesquality": "",
+  "categorieslevel": "",
+  "categoriesnoves": "",
+  "selectedCategoryFromDropdown": "",
+  "itemprices": [],
+  "itemsizes": [],
+  "categorieshakonteneres": "",
+  "itemkontenerek": [],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "",
+  "itemground": "",
+  "itemusage": "",
+  "itemlabels": "",
+  "showonweb": true,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1787899048795-Gemini_Generated_Image_o34lkro34lkro34l_(1).png",
+  "images": [
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1787899048795-Gemini_Generated_Image_o34lkro34lkro34l_(1).png",
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1787899054079-Gemini_Generated_Image_o34lkro34lkro34l_(1).png",
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1787899058643-Gemini_Generated_Image_o34lkro34lkro34l_(1).png",
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1787899062817-Gemini_Generated_Image_o34lkro34lkro34l_(1).png"
+  ]
+}
