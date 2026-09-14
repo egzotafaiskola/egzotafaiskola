@@ -1,5 +1,5 @@
 {
-  "ID": "mig9yq6kagk9",
+  "ID": "mu1inzbfbz37",
   "title": "Gömb puszpáng",
   "latin": "Buxus microphylla 'Faulkner' gömb",
   "description": ": Buxus microphylla 'Faulkner' gömb: Előnevelt, szabályos gömb formájú örökzöld puszpáng, amely elegáns dísze lehet előkerteknek és teraszoknak.",
@@ -16,12 +16,16 @@
     "60-80"
   ],
   "categorieshakonteneres": "",
+  "itemkontenerek": [],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Formafa",
   "itemlight": "Napos és félárnyékos helyet egyaránt kedvel.",
   "itemground": "Átlagos, jó vízáteresztő kerti talajban érzi jól magát.",
   "itemusage": "Szoliterként előkertekbe, bejáratok mellé párosával, vagy dézsába ültetve teraszok díszítésére.",
   "itemlabels": "Buxus gömb, formára nyírt puszpáng, Faulkner, örökzöld gömb, szoliter, földlabdás",
-  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764177887769-almafa.jpg",
-  "showonweb": false
+  "showonweb": false,
+  "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1789406898507-buxus_g%C3%B6mb.jpg",
+  "images": [
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1789406898507-buxus_g%C3%B6mb.jpg"
+  ]
 }
