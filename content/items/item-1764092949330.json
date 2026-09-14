@@ -1,5 +1,5 @@
 {
-  "ID": "mjmw2y1jgysn",
+  "ID": "mu1hgdiv6ni2",
   "title": "Közönséges tiszafa (Gömbre nyírt)",
   "latin": "Taxus baccata (Gömbre nyírt)",
   "description": "Taxus baccata – Gömbre nyírt tiszafa: elegáns, formára nevelt örökzöld különlegesség, amely a kert exkluzív dísze lehet napos és árnyékos helyen is.",
@@ -15,16 +15,18 @@
   "itemsizes": [
     "20-30"
   ],
-  "categorieshakonteneres": ",",
-  "itemkontenerek": [
-    ""
-  ],
+  "categorieshakonteneres": "",
+  "itemkontenerek": [],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Formafa",
   "itemlight": "Napos, félárnyékos és árnyékos helyen is kiválóan érzi magát.",
   "itemground": "Jó vízáteresztő, tápanyagdús, meszes talajt kedvel.",
   "itemusage": "Reprezentatív kertekbe szoliternek, bejáratok mellé, vagy dézsás növénynek.",
   "itemlabels": "Taxus baccata, tiszafa, formára nyírt, gömb tiszafa, kúp tiszafa, topiary, árnyéktűrő, földlabdás növény",
+  "showonweb": true,
   "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766754615527-DSC09194_(2).webp",
-  "showonweb": true
+  "images": [
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1766754615527-DSC09194_(2).webp",
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1789404863872-g%C3%B6mb_tiszafa.jpg"
+  ]
 }
