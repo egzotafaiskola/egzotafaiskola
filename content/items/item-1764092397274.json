@@ -1,5 +1,5 @@
 {
-  "ID": "miev2cj6gukz",
+  "ID": "mu1ifxr0s2m8",
   "title": "Erdei fenyő",
   "latin": "Pinus sylvestris",
   "description": "Pinus sylvestris – Erdei fenyő: festői megjelenésű, vöröses kérgű fa, amely természetes szépséget visz a nagyobb kertekbe.",
@@ -20,12 +20,16 @@
     "150-175"
   ],
   "categorieshakonteneres": "",
+  "itemkontenerek": [],
   "categorieshakonteneres2": "",
   "categorieshanemkonteneres": "Fenyő",
   "itemlight": "Nagy fényigényű, csak napos helyen fejlődik szépen.",
   "itemground": "Széles talajtűrésű, a homokos talajokat is jól viseli.",
   "itemusage": "Tájkertekbe, nagy terekre szoliternek vagy csoportosan ültetve.",
   "itemlabels": "Pinus sylvestris, erdei fenyő, vörös törzs, őshonos flóra, örökzöld, földlabdás növény",
+  "showonweb": false,
   "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764092396284-almafa.jpg",
-  "showonweb": false
+  "images": [
+    "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1764092396284-almafa.jpg"
+  ]
 }
