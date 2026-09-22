@@ -10,10 +10,12 @@
   "categoriesnoves": "Lassú",
   "selectedCategoryFromDropdown": "Lomblevelű örökzöldek",
   "itemprices": [
-    "3500"
+    "4000",
+    "4800"
   ],
   "itemsizes": [
-    "60-80"
+    "60-80",
+    "80-100"
   ],
   "categorieshakonteneres": "",
   "itemkontenerek": [],
