@@ -10,12 +10,14 @@
   "categoriesnoves": "Közepes",
   "selectedCategoryFromDropdown": "Pikkelyes fenyők",
   "itemprices": [
-    "5400",
-    "5800"
+    "4800",
+    "5200",
+    "6200"
   ],
   "itemsizes": [
     "60-80",
-    "80-100"
+    "80-100",
+    "100-125"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
