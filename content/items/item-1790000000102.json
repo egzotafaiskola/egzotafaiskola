@@ -1,0 +1,37 @@
+{
+  "ID": "mud0ajlbihdm",
+  "title": "Pyrus caller. 'Chanticleer'",
+  "latin": "Pyrus caller. 'Chanticleer'",
+  "description": "",
+  "descriptionall": "",
+  "category": "",
+  "categoriesquality": "Konténeres",
+  "categorieslevel": "",
+  "categoriesnoves": "",
+  "selectedCategoryFromDropdown": "",
+  "itemprices": [
+    "6000",
+    "6500",
+    "7500"
+  ],
+  "itemsizes": [
+    "100-125",
+    "125-150",
+    "150-175"
+  ],
+  "categorieshakonteneres": "5 L,5 L,5 L",
+  "itemkontenerek": [
+    "5 L",
+    "5 L",
+    "5 L"
+  ],
+  "categorieshakonteneres2": "",
+  "categorieshanemkonteneres": "",
+  "itemlight": "",
+  "itemground": "",
+  "itemusage": "",
+  "itemlabels": "",
+  "showonweb": false,
+  "image": "",
+  "images": []
+}
