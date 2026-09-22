@@ -10,13 +10,16 @@
   "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Cserjék",
   "itemprices": [
+    "2500",
     "3500"
   ],
   "itemsizes": [
-    "125-150"
+    "100-150",
+    "150-200"
   ],
-  "categorieshakonteneres": "5 L,",
+  "categorieshakonteneres": "3 L,5 L",
   "itemkontenerek": [
+    "3 L",
     "5 L"
   ],
   "categorieshakonteneres2": "Díszfák",
