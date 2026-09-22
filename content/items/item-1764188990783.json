@@ -10,12 +10,10 @@
   "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Lomblevelű örökzöldek",
   "itemprices": [
-    "4500",
     "5000",
     "5500"
   ],
   "itemsizes": [
-    "60-80",
     "80-100",
     "100-125"
   ],
