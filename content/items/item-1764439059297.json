@@ -12,7 +12,7 @@
   "itemprices": [
     "2000",
     "2500",
-    "3000",
+    "3500",
     "4000",
     "4500"
   ],
@@ -23,8 +23,12 @@
     "150-175",
     "175-200"
   ],
-  "categorieshakonteneres": "5 L,",
+  "categorieshakonteneres": "5 L,5 L,5 L,5 L,5 L",
   "itemkontenerek": [
+    "5 L",
+    "5 L",
+    "5 L",
+    "5 L",
     "5 L"
   ],
   "categorieshakonteneres2": "Díszfák",
