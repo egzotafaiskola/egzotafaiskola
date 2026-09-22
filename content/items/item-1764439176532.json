@@ -10,17 +10,14 @@
   "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Lomblevelű örökzöldek",
   "itemprices": [
-    "1500",
-    "2200"
+    "1500"
   ],
   "itemsizes": [
-    "20-40",
-    "60-80"
+    "15-20"
   ],
-  "categorieshakonteneres": "3 L,5 L,",
+  "categorieshakonteneres": "2 L",
   "itemkontenerek": [
-    "3 L",
-    "5 L"
+    "2 L"
   ],
   "categorieshakonteneres2": "Cserjék",
   "categorieshanemkonteneres": "",
