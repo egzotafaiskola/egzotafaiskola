@@ -10,14 +10,17 @@
   "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
-    "3000"
+    "4500",
+    "5000"
   ],
   "itemsizes": [
-    "60-80"
+    "80-100",
+    "100-125"
   ],
-  "categorieshakonteneres": "4 L,",
+  "categorieshakonteneres": "9.5 L,9.5 L",
   "itemkontenerek": [
-    "4 L"
+    "9.5 L",
+    "9.5 L"
   ],
   "categorieshakonteneres2": "Cserjék",
   "categorieshanemkonteneres": "",
