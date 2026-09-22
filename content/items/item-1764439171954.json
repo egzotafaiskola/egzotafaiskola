@@ -10,17 +10,14 @@
   "categoriesnoves": "Közepes",
   "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
-    "1200",
-    "1800"
+    "1200"
   ],
   "itemsizes": [
-    "15-20",
-    "20-40"
+    "15-20"
   ],
-  "categorieshakonteneres": "2 L,3 L",
+  "categorieshakonteneres": "2 L",
   "itemkontenerek": [
-    "2 L",
-    "3 L"
+    "2 L"
   ],
   "categorieshakonteneres2": "Fenyő",
   "categorieshanemkonteneres": "",
