@@ -11,11 +11,15 @@
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
     "3600",
-    "4100"
+    "4100",
+    "5000",
+    "6000"
   ],
   "itemsizes": [
     "80-100",
-    "100-125"
+    "100-125",
+    "125-150",
+    "150-175"
   ],
   "categorieshakonteneres": ",",
   "itemkontenerek": [
