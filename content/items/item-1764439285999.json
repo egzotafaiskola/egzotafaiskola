@@ -25,7 +25,7 @@
   "itemground": "Széles talajtűrésű, a gyengébb talajokon is megél.",
   "itemusage": "Nagyobb parkokba, kertekbe talajtakarónak, vagy nyíratlan, széles sövénynek.",
   "itemlabels": "Juniperus media Aurea, sárga  boróka, gyors növésű boróka, nagy termetű örökzöld",
-  "showonweb": true,
+  "showonweb": false,
   "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691027413-edited-1778690920395.png",
   "images": [
     "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691027413-edited-1778690920395.png",
