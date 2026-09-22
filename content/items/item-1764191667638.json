@@ -10,16 +10,18 @@
   "categoriesnoves": "Gyors",
   "selectedCategoryFromDropdown": "Sövénynövények",
   "itemprices": [
-    "4700",
-    "5200",
-    "6500",
+    "4000",
+    "4500",
+    "5700",
+    "6700",
     "7700"
   ],
   "itemsizes": [
+    "60-80",
     "80-100",
     "100-125",
-    "150-175",
-    "175-200"
+    "125-150",
+    "150-175"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
