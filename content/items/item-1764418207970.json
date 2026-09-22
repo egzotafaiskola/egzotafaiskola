@@ -10,13 +10,16 @@
   "categoriesnoves": "Közepes",
   "selectedCategoryFromDropdown": "Cserjék",
   "itemprices": [
-    "1800"
+    "1300",
+    "1600"
   ],
   "itemsizes": [
-    "20-40"
+    "20-40",
+    "40-60"
   ],
-  "categorieshakonteneres": "3 L,",
+  "categorieshakonteneres": "2 L,3 L",
   "itemkontenerek": [
+    "2 L",
     "3 L"
   ],
   "categorieshakonteneres2": "Cserjék",
