@@ -10,17 +10,16 @@
   "categoriesnoves": "Közepes",
   "selectedCategoryFromDropdown": "Fák",
   "itemprices": [
-    "2500",
     "3000",
     "3500"
   ],
   "itemsizes": [
     "100-125",
-    "125-150",
-    "150-175"
+    "125-150"
   ],
-  "categorieshakonteneres": "5 L,",
+  "categorieshakonteneres": "5 L,5 L",
   "itemkontenerek": [
+    "5 L",
     "5 L"
   ],
   "categorieshakonteneres2": "Díszfák",
