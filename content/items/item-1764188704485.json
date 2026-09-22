@@ -29,6 +29,6 @@
   "itemground": "Enyhén savanyú, humuszos, nedves talajban fejlődik a legszebben.",
   "itemusage": "Kerti díszfa, szoliter, utcai sorfa (védett helyen).",
   "itemlabels": "Magnolia fa, törzses liliomfa, soulangeana, virágzó fa, díszfa, földlabdás",
-  "showonweb": true,
+  "showonweb": false,
   "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1779033222667-edited-1779033202323.png"
 }
