@@ -10,14 +10,14 @@
   "categoriesnoves": "Lassú",
   "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
-    "3300",
     "3600",
-    "4100"
+    "4100",
+    "5200"
   ],
   "itemsizes": [
-    "40-60",
     "60-80",
-    "80-100"
+    "80-100",
+    "100-125"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
