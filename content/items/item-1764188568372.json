@@ -10,12 +10,14 @@
   "categoriesnoves": "Lassú",
   "selectedCategoryFromDropdown": "Fák",
   "itemprices": [
-    "4800",
-    "5500"
+    "4500",
+    "5500",
+    "6500"
   ],
   "itemsizes": [
     "80-100",
-    "100-125"
+    "100-125",
+    "125-150"
   ],
   "categorieshakonteneres": ",",
   "itemkontenerek": [
