@@ -25,7 +25,7 @@
   "itemground": "Igénytelen, bármilyen kerti talajban megél, a szélsőségeket is jól viseli.",
   "itemusage": "Talajmegkötésre rézsűkön, nagy felületek takarására parkokban, vagy háttérnövénynek.",
   "itemlabels": "Juniperus media, zöld  boróka, szürkészöld örökzöld, strapabíró növény, talajmegkötő",
-  "showonweb": true,
+  "showonweb": false,
   "image": "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691169329-edited-1778691080055.png",
   "images": [
     "https://egzotafaiskola.github.io/egzotafaiskola/static/uploads/1778691169329-edited-1778691080055.png"
