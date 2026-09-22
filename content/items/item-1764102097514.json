@@ -11,11 +11,13 @@
   "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
     "4300",
-    "5100"
+    "5100",
+    "6000"
   ],
   "itemsizes": [
     "80-100",
-    "100-125"
+    "100-125",
+    "125-150"
   ],
   "categorieshakonteneres": ",",
   "itemkontenerek": [
