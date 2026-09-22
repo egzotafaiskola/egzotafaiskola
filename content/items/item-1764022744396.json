@@ -10,10 +10,12 @@
   "categoriesnoves": "Közepes",
   "selectedCategoryFromDropdown": "Tűlevelű fenyők",
   "itemprices": [
-    "4400"
+    "4400",
+    "6400"
   ],
   "itemsizes": [
-    "125-150"
+    "125-150",
+    "150-175"
   ],
   "categorieshakonteneres": "",
   "categorieshakonteneres2": "",
