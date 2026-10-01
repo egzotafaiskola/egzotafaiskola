@@ -13,7 +13,7 @@
     '#vasarlo-modal h2{font-size:1.3rem;font-weight:700;color:#1a3d2b;margin:0 0 0.5rem;}',
     '#vasarlo-modal p{font-size:0.95rem;color:#3a6b4a;margin:0 0 1.75rem;}',
     '#vasarlo-modal .vasarlo-btns{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap;}',
-    '#vasarlo-modal .vasarlo-btn{flex:1;min-width:130px;padding:0.75rem 1.25rem;border:none;border-radius:8px;font-size:0.95rem;font-weight:600;cursor:pointer;transition:transform .2s,box-shadow .2s;}',
+    '#vasarlo-modal .vasarlo-btn{flex:1;min-width:130px;padding:0.75rem 1rem;border:none;border-radius:8px;font-size:0.95rem;font-weight:600;cursor:pointer;transition:transform .2s,box-shadow .2s;}',
     '#vasarlo-modal .vasarlo-btn:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,0.15);}',
     '#vasarlo-modal .vasarlo-btn-primary{background:#2d7a4f;color:#fff;}',
     '#vasarlo-modal .vasarlo-btn-secondary{background:#fff;color:#2d7a4f;border:2px solid #2d7a4f;}',
@@ -26,10 +26,10 @@
   overlay.innerHTML = [
     '<div id="vasarlo-modal">',
     '  <h2>Hogyan vásárol?</h2>',
-    '  <p>Kérjük, válassza ki, hogy magánszemélyként<br>vagy cégként szeretne vásárolni.</p>',
+    '  <p>Kérjük, válassza ki, hogy magánszemélyként<br>vagy viszonteladóként szeretne vásárolni.</p>',
     '  <div class="vasarlo-btns">',
     '    <button class="vasarlo-btn vasarlo-btn-primary" id="vasarlo-btn-magan">Magánszemélyként</button>',
-    '    <button class="vasarlo-btn vasarlo-btn-secondary" id="vasarlo-btn-ceg">Cégként</button>',
+    '    <button class="vasarlo-btn vasarlo-btn-secondary" id="vasarlo-btn-ceg">Viszonteladóként</button>',
     '  </div>',
     '  <button class="vasarlo-close" id="vasarlo-close">Mégsem</button>',
     '</div>'
